@@ -311,3 +311,65 @@ export async function findBestTvMatch(title: string): Promise<TVSummary[]> {
   const data = await tmdbFetch<RawTvSearchResponse>('/search/tv', { query: title, include_adult: 'false' })
   return Promise.all(data.results.slice(0, 5).map(toTvSummary))
 }
+
+export interface WatchProvider {
+  id: number
+  name: string
+  logoPath: string | null
+}
+
+export interface CountryWatchAvailability {
+  link: string | null
+  flatrate: WatchProvider[]
+  rent: WatchProvider[]
+  buy: WatchProvider[]
+}
+
+interface RawWatchProvider {
+  provider_id: number
+  provider_name: string
+  logo_path: string | null
+}
+
+interface RawCountryProviders {
+  link?: string
+  flatrate?: RawWatchProvider[]
+  rent?: RawWatchProvider[]
+  buy?: RawWatchProvider[]
+}
+
+interface RawWatchProvidersResponse {
+  results: Record<string, RawCountryProviders>
+}
+
+function toWatchProviders(list?: RawWatchProvider[]): WatchProvider[] {
+  return (list ?? []).map((p) => ({ id: p.provider_id, name: p.provider_name, logoPath: p.logo_path }))
+}
+
+export function watchProviderLogoUrl(path: string | null, size: 'w45' | 'w92' = 'w45'): string | null {
+  if (!path) return null
+  return `${IMAGE_BASE}/${size}${path}`
+}
+
+/**
+ * Country-specific "where to watch" data (subscription/rent/buy), sourced from TMDB's
+ * watch-providers endpoint (backed by JustWatch). Returns null when the title has no
+ * listed availability in that country — distinct from a thrown TmdbError, which means
+ * the check itself failed and availability is unknown rather than confirmed absent.
+ */
+export async function getWatchAvailability(
+  mediaType: MediaType,
+  id: number,
+  country = 'EG',
+): Promise<CountryWatchAvailability | null> {
+  const path = mediaType === 'movie' ? `/movie/${id}/watch/providers` : `/tv/${id}/watch/providers`
+  const data = await tmdbFetch<RawWatchProvidersResponse>(path)
+  const entry = data.results[country]
+  if (!entry) return null
+  return {
+    link: entry.link ?? null,
+    flatrate: toWatchProviders(entry.flatrate),
+    rent: toWatchProviders(entry.rent),
+    buy: toWatchProviders(entry.buy),
+  }
+}

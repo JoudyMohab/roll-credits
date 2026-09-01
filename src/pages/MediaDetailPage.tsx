@@ -8,6 +8,7 @@ import { backdropUrl, hasTmdbKey, posterUrl, profileUrl } from '@/api/tmdb'
 import { formatGenres, formatRuntime, formatSeasonsEpisodes, formatTicketDate, formatYearRange, truncate } from '@/lib/format'
 import { RatingInput } from '@/components/RatingInput'
 import { StampScreeningModal } from '@/components/StampScreeningModal'
+import { WatchAvailability } from '@/components/WatchAvailability'
 
 export default function MediaDetailPage() {
   const { mediaType, id } = useParams<{ mediaType: string; id: string }>()
@@ -149,6 +150,9 @@ function DetailContent({ mediaType, id, details }: { mediaType: MediaType; id: n
                 </p>
               )}
               <p className="mt-4 font-sans text-sm leading-relaxed text-ink/80">{details.overview || 'No synopsis available.'}</p>
+              <div className="mt-5">
+                <WatchAvailability mediaType={mediaType} id={id} />
+              </div>
             </div>
           </div>
 
