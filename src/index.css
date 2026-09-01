@@ -1,0 +1,133 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-display: "Fraunces", "Georgia", serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Space Mono", ui-monospace, "SFMono-Regular", monospace;
+
+  --color-paper: #F3EDE3;
+  --color-paper-secondary: #E7DED0;
+  --color-paper-tone2: #EFE6D6;
+  --color-ink: #191717;
+  --color-cherry: #6E0718;
+  --color-burgundy: #800020;
+  --color-gold: #B49A68;
+
+  --shadow-ticket: 0 1px 2px rgba(25, 23, 23, 0.06), 0 6px 16px rgba(25, 23, 23, 0.08);
+  --shadow-ticket-hover: 0 4px 10px rgba(25, 23, 23, 0.10), 0 14px 30px rgba(25, 23, 23, 0.14);
+  --texture-dot: rgba(110, 7, 24, 0.03);
+}
+
+/* System preference, only when the user hasn't explicitly chosen a theme */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light):not(.dark) {
+    --color-paper: #17120F;
+    --color-paper-secondary: #241C17;
+    --color-paper-tone2: #1E1712;
+    --color-ink: #EEE6D9;
+    --color-cherry: #E0475F;
+    --color-burgundy: #C15578;
+    --color-gold: #D2B583;
+
+    --shadow-ticket: 0 1px 2px rgba(0, 0, 0, 0.4), 0 6px 16px rgba(0, 0, 0, 0.5);
+    --shadow-ticket-hover: 0 4px 10px rgba(0, 0, 0, 0.5), 0 14px 30px rgba(0, 0, 0, 0.6);
+    --texture-dot: rgba(255, 255, 255, 0.025);
+    color-scheme: dark;
+  }
+}
+
+/* Explicit user choice, wins over system preference either way */
+:root.dark {
+  --color-paper: #17120F;
+  --color-paper-secondary: #241C17;
+  --color-paper-tone2: #1E1712;
+  --color-ink: #EEE6D9;
+  --color-cherry: #E0475F;
+  --color-burgundy: #C15578;
+  --color-gold: #D2B583;
+
+  --shadow-ticket: 0 1px 2px rgba(0, 0, 0, 0.4), 0 6px 16px rgba(0, 0, 0, 0.5);
+  --shadow-ticket-hover: 0 4px 10px rgba(0, 0, 0, 0.5), 0 14px 30px rgba(0, 0, 0, 0.6);
+  --texture-dot: rgba(255, 255, 255, 0.025);
+  color-scheme: dark;
+}
+
+:root.light {
+  color-scheme: light;
+}
+
+@layer base {
+  * {
+    border-color: var(--color-ink);
+  }
+
+  html {
+    background-color: var(--color-paper);
+    color-scheme: light;
+  }
+
+  body {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  ::selection {
+    background-color: var(--color-cherry);
+    color: var(--color-paper);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-cherry);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+}
+
+@layer utilities {
+  .film-grain {
+    position: relative;
+  }
+  .film-grain::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.05;
+    mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  .paper-texture {
+    background-image:
+      radial-gradient(var(--texture-dot) 1px, transparent 1px);
+    background-size: 3px 3px;
+  }
+
+  .ticket-notch-left {
+    -webkit-mask-image: radial-gradient(circle 7px at 0 50%, transparent 7px, black 7.5px);
+    mask-image: radial-gradient(circle 7px at 0 50%, transparent 7px, black 7.5px);
+  }
+
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-none {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

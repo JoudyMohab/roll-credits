@@ -1,0 +1,6658 @@
+[
+  {
+    "rawTitle": "a christmas carol",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "a christmas carol",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 17979,
+        "title": "A Christmas Carol",
+        "year": 2009,
+        "posterPath": "/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 13189,
+        "title": "A Christmas Carol",
+        "year": 1984,
+        "posterPath": "/m3T3iLdE6J5PrqvvP0XNHBvM2bm.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 16716,
+        "title": "A Christmas Carol",
+        "year": 1999,
+        "posterPath": "/oi1NcVDXlFEsdpLp37BJmFbVlg9.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 25842,
+        "title": "A Christmas Carol",
+        "year": 1938,
+        "posterPath": "/cvr7x3CjBMsHv2GptR0tcFddMSa.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 47257,
+        "title": "A Christmas Carol",
+        "year": 1997,
+        "posterPath": "/s0dYgcUTxX1GmJ0AZwGBrViGo1D.jpg",
+        "score": 121
+      }
+    ]
+  },
+  {
+    "rawTitle": "after everything",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "after everything",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 820525,
+        "title": "After Everything",
+        "year": 2023,
+        "posterPath": "/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 448557,
+        "title": "After Everything",
+        "year": 2018,
+        "posterPath": "/5fwosV84f3BOV2h4kqcbpQplFLY.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 447081,
+        "title": "After Everything",
+        "year": 2008,
+        "posterPath": "/4pFhCuK1jjIGTx8cg1zTP1F5b70.jpg",
+        "score": 108
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1478491,
+        "title": "After Everything",
+        "year": 2025,
+        "posterPath": "/gn2o4jG6NCqev0HxcJBNtIeOLKo.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1580159,
+        "title": "After Everything",
+        "year": null,
+        "posterPath": null,
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "top gun",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "top gun",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 744,
+        "title": "Top Gun",
+        "year": 1986,
+        "posterPath": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+        "score": 144
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 361743,
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "posterPath": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 243655,
+        "title": "Top Gun",
+        "year": 1955,
+        "posterPath": "/fRfQNdS3PoOe2Uq7ZYFQV9qs6Cd.jpg",
+        "score": 112
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 984430,
+        "title": "James Corden's Top Gun Training with Tom Cruise",
+        "year": 2022,
+        "posterPath": "/e2EILRtu7b6qu4TuwU7BpyHop68.jpg",
+        "score": 103
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1076135,
+        "title": "Top Gun Maverick : Le phénomène",
+        "year": 2022,
+        "posterPath": "/4t4GS16zOkdewJzeRZZwy3m7Y76.jpg",
+        "score": 99
+      }
+    ]
+  },
+  {
+    "rawTitle": "the perfect date",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the perfect date",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 543540,
+        "title": "The Perfect Date",
+        "year": 2019,
+        "posterPath": "/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg",
+        "score": 137
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 136294,
+        "title": "The Perfect Date",
+        "year": 2010,
+        "posterPath": "/lj6QtDX96LI1DmjKsMeJrp575hr.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 689652,
+        "title": "The Perfect Date",
+        "year": 2020,
+        "posterPath": "/zLCRluX09lDenR98laHiSezhonH.jpg",
+        "score": 106
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1172344,
+        "title": "The Perfect Date",
+        "year": 2023,
+        "posterPath": "/8aq67W2151EUXEIA3gkZQX6Otqj.jpg",
+        "score": 101
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1304705,
+        "title": "The Perfect Date",
+        "year": 1990,
+        "posterPath": "/sNEFsQIK32dCF2zTnkK1rLLLD6F.jpg",
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "insidious",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "insidious",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 49018,
+        "title": "Insidious",
+        "year": 2011,
+        "posterPath": "/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+        "score": 144
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 91586,
+        "title": "Insidious: Chapter 2",
+        "year": 2013,
+        "posterPath": "/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 280092,
+        "title": "Insidious: Chapter 3",
+        "year": 2015,
+        "posterPath": "/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 406563,
+        "title": "Insidious: The Last Key",
+        "year": 2018,
+        "posterPath": "/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 614479,
+        "title": "Insidious: The Red Door",
+        "year": 2023,
+        "posterPath": "/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+        "score": 128
+      }
+    ]
+  },
+  {
+    "rawTitle": "halloween",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "halloween",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 948,
+        "title": "Halloween",
+        "year": 1978,
+        "posterPath": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 424139,
+        "title": "Halloween",
+        "year": 2018,
+        "posterPath": "/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 2082,
+        "title": "Halloween",
+        "year": 2007,
+        "posterPath": "/cD8JrfSEI4j7WVnKM1GdiYzMoUh.jpg",
+        "score": 137
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 610253,
+        "title": "Halloween Kills",
+        "year": 2021,
+        "posterPath": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11281,
+        "title": "Halloween II",
+        "year": 1981,
+        "posterPath": "/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg",
+        "score": 127
+      }
+    ]
+  },
+  {
+    "rawTitle": "la llorana",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "la llorona",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 480414,
+        "title": "The Curse of La Llorona",
+        "year": 2019,
+        "posterPath": "/hETrPpoKs6BwoilK64YJ7Z5GcRT.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 617708,
+        "title": "La Llorona",
+        "year": 2019,
+        "posterPath": "/n2O3cSuxSKlnCiEXI2CB5auXA2G.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 116322,
+        "title": "The Legend of La Llorona",
+        "year": 2011,
+        "posterPath": "/vBiqoYfDIWKKzZTiQScqgCO09UD.jpg",
+        "score": 117
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 631947,
+        "title": "The Legend of La Llorona",
+        "year": 2022,
+        "posterPath": "/slx22eZsH9REVQs5IDWhAek7M2T.jpg",
+        "score": 112
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 888111,
+        "title": "The Return of La Llorona",
+        "year": 2021,
+        "posterPath": "/8G4MSlG8bSWXATU95o1hqsFxZkc.jpg",
+        "score": 107
+      }
+    ]
+  },
+  {
+    "rawTitle": "US",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "us",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 458723,
+        "title": "Us",
+        "year": 2019,
+        "posterPath": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 100088,
+        "title": "The Last of Us",
+        "year": 2023,
+        "posterPath": "/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 99966,
+        "title": "All of Us Are Dead",
+        "year": 2022,
+        "posterPath": "/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 67136,
+        "title": "This Is Us",
+        "year": 2016,
+        "posterPath": "/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 365942,
+        "title": "The Space Between Us",
+        "year": 2017,
+        "posterPath": "/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg",
+        "score": 127
+      }
+    ]
+  },
+  {
+    "rawTitle": "2 quiet place",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "2 quiet place",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 520763,
+        "title": "A Quiet Place Part II",
+        "year": 2021,
+        "posterPath": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "rawTitle": "happy death day",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "happy death day",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 440021,
+        "title": "Happy Death Day",
+        "year": 2017,
+        "posterPath": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+        "score": 141
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 512196,
+        "title": "Happy Death Day 2U",
+        "year": 2019,
+        "posterPath": "/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1341825,
+        "title": "Happy Death Day",
+        "year": null,
+        "posterPath": "/hP7HcxaDeHWCmj3ME4IiFd9VuXY.jpg",
+        "score": 100
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 892541,
+        "title": "Happy DeathDay",
+        "year": 1968,
+        "posterPath": null,
+        "score": 97
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 774079,
+        "title": "Happy Death Day to Us",
+        "year": null,
+        "posterPath": "/ue5wV2XLP6KRsFLX7ak14DyqT87.jpg",
+        "score": 91
+      }
+    ]
+  },
+  {
+    "rawTitle": "lights out",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "lights out",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 345911,
+        "title": "Lights Out",
+        "year": 2016,
+        "posterPath": "/AjZXonSbqC3LdSr8xCUzMiQksrM.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 259761,
+        "title": "Lights Out",
+        "year": 2014,
+        "posterPath": "/1VzEIaYWO9HFIp6lgjfbLRJRKSF.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 931642,
+        "title": "Lights Out",
+        "year": 2024,
+        "posterPath": "/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 35092,
+        "title": "Lights Out",
+        "year": 2011,
+        "posterPath": "/mxxollt0l4J7TlVgfO7n7vyDMRp.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 24684,
+        "title": "Lights Out",
+        "year": 1949,
+        "posterPath": "/sUX5J7lS6FnCFvUOqXCYyQPp0f9.jpg",
+        "score": 112
+      }
+    ]
+  },
+  {
+    "rawTitle": "the exoricist",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the exorcist",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 9552,
+        "title": "The Exorcist",
+        "year": 1973,
+        "posterPath": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 67135,
+        "title": "The Exorcist",
+        "year": 2016,
+        "posterPath": "/gcXOCWdv0ulNxEqV6jvZcUdZZRa.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 807172,
+        "title": "The Exorcist: Believer",
+        "year": 2023,
+        "posterPath": "/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1023313,
+        "title": "The Exorcist",
+        "year": 2022,
+        "posterPath": "/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11587,
+        "title": "The Exorcist III",
+        "year": 1990,
+        "posterPath": "/275gw2JA5YCk10o6n84rZdZBycM.jpg",
+        "score": 122
+      }
+    ]
+  },
+  {
+    "rawTitle": "poltegereist",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "poltergeist",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 609,
+        "title": "Poltergeist",
+        "year": 1982,
+        "posterPath": "/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 243688,
+        "title": "Poltergeist",
+        "year": 2015,
+        "posterPath": "/jBXupXZ7WEPUpkYFpkQsdipwBQn.jpg",
+        "score": 137
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11133,
+        "title": "Poltergeist II: The Other Side",
+        "year": 1986,
+        "posterPath": "/tVQPv69XWIgzF5n1MRrTuhPyNr5.jpg",
+        "score": 121
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10306,
+        "title": "Poltergeist III",
+        "year": 1988,
+        "posterPath": "/pLewUibOJLGISvMqB94mAMdjz2q.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 345931,
+        "title": "American Poltergeist",
+        "year": 2015,
+        "posterPath": "/ejVbDQBTTfTSuiUvIa7iBmgwJt0.jpg",
+        "score": 111
+      }
+    ]
+  },
+  {
+    "rawTitle": "saw",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "saw",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 176,
+        "title": "Saw",
+        "year": 2004,
+        "posterPath": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+        "score": 144
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 215,
+        "title": "Saw II",
+        "year": 2005,
+        "posterPath": "/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 214,
+        "title": "Saw III",
+        "year": 2006,
+        "posterPath": "/4iO9n24Rb10peXV0JH2EldIOrAp.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 246355,
+        "title": "Saw",
+        "year": 2003,
+        "posterPath": "/2dfaedyVvHli1pmm9HHcoVTDOCH.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 30497,
+        "title": "The Texas Chain Saw Massacre",
+        "year": 1974,
+        "posterPath": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+        "score": 130
+      }
+    ]
+  },
+  {
+    "rawTitle": "saw II",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "saw II",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 215,
+        "title": "Saw II",
+        "year": 2005,
+        "posterPath": "/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg",
+        "score": 141
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 214,
+        "title": "Saw III",
+        "year": 2006,
+        "posterPath": "/4iO9n24Rb10peXV0JH2EldIOrAp.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1294785,
+        "title": "Making of Saw III",
+        "year": 2007,
+        "posterPath": "/9cjBPdIMf5vodC2wLe5b7ICfQTO.jpg",
+        "score": 91
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 16337,
+        "title": "The Texas Chainsaw Massacre 2",
+        "year": 1986,
+        "posterPath": "/cO1Dvg7k87lHSPOdumn3ddJEKdX.jpg",
+        "score": 46
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 196803,
+        "title": "Red Bells Part II: I Saw the Birth of a New World",
+        "year": 1982,
+        "posterPath": "/1vnnNMPTpdM6INRxUKksX8ZwaGN.jpg",
+        "score": 23
+      }
+    ]
+  },
+  {
+    "rawTitle": "saw V",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "saw V",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 11917,
+        "title": "Saw V",
+        "year": 2008,
+        "posterPath": "/rKl79KqLXg60KFyKsLe4wSSjQ08.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 22804,
+        "title": "Saw VI",
+        "year": 2009,
+        "posterPath": "/9JtluosCbioSXJSABZByaODyPpa.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 246355,
+        "title": "Saw",
+        "year": 2003,
+        "posterPath": "/2dfaedyVvHli1pmm9HHcoVTDOCH.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1385698,
+        "title": "I Never Saw Venice",
+        "year": 2023,
+        "posterPath": null,
+        "score": 91
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1425735,
+        "title": "I Saw You",
+        "year": 2024,
+        "posterPath": "/4YxEtSg08HcmWOnoWsRjhRZgYJ5.jpg",
+        "score": 45
+      }
+    ]
+  },
+  {
+    "rawTitle": "spiral",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "spiral",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 602734,
+        "title": "Spiral: From the Book of Saw",
+        "year": 2021,
+        "posterPath": "/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 614199,
+        "title": "Spiral",
+        "year": 2019,
+        "posterPath": "/mkIek8qY0tc8YxSgUs83bkWFihD.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 11726,
+        "title": "Spiral",
+        "year": 2005,
+        "posterPath": "/t4i4wJCRUDkblYaqp3ln4vENQdC.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 18467,
+        "title": "Spiral",
+        "year": 2007,
+        "posterPath": "/cyzyZ8HA2zqL9C3QrpHI7QqGr0r.jpg",
+        "score": 121
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9706,
+        "title": "The Spiral",
+        "year": 1998,
+        "posterPath": "/rusooZ8fDGD48QaP3u4PAYygi7r.jpg",
+        "score": 115
+      }
+    ]
+  },
+  {
+    "rawTitle": "scream",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "scream",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 4232,
+        "title": "Scream",
+        "year": 1996,
+        "posterPath": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 646385,
+        "title": "Scream",
+        "year": 2022,
+        "posterPath": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 4233,
+        "title": "Scream 2",
+        "year": 1997,
+        "posterPath": "/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 41446,
+        "title": "Scream 4",
+        "year": 2011,
+        "posterPath": "/3cf8p2qw9qnsaaFWc64AG6U05eT.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 4234,
+        "title": "Scream 3",
+        "year": 2000,
+        "posterPath": "/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",
+        "score": 129
+      }
+    ]
+  },
+  {
+    "rawTitle": "scream VI",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "scream VI",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 934433,
+        "title": "Scream VI",
+        "year": 2023,
+        "posterPath": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 4232,
+        "title": "Scream",
+        "year": 1996,
+        "posterPath": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1159559,
+        "title": "Scream 7",
+        "year": 2026,
+        "posterPath": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "score": 113
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 4226,
+        "title": "Shriek If You Know What I Did Last Friday the Thirteenth",
+        "year": 2000,
+        "posterPath": "/m0jr23r30h8DUrX3kIu7rO3NIQp.jpg",
+        "score": 38
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 95008,
+        "title": "The House That Vanished",
+        "year": 1973,
+        "posterPath": "/34LrQxQMDUboPHwEuy2lTL6R8BQ.jpg",
+        "score": 36
+      }
+    ]
+  },
+  {
+    "rawTitle": "friday the 13th",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "friday the 13th",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 4488,
+        "title": "Friday the 13th",
+        "year": 1980,
+        "posterPath": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 13207,
+        "title": "Friday the 13th",
+        "year": 2009,
+        "posterPath": "/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9725,
+        "title": "Friday the 13th Part 2",
+        "year": 1981,
+        "posterPath": "/92rGctBMTv4uaSlIBVnhz01kRWL.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9728,
+        "title": "Friday the 13th Part III",
+        "year": 1982,
+        "posterPath": "/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9730,
+        "title": "Friday the 13th: The Final Chapter",
+        "year": 1984,
+        "posterPath": "/1J7zudfR3VLPwAf9lK5YPfSu0n6.jpg",
+        "score": 124
+      }
+    ]
+  },
+  {
+    "rawTitle": "the purge",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the purge",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 158015,
+        "title": "The Purge",
+        "year": 2013,
+        "posterPath": "/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 80213,
+        "title": "The Purge",
+        "year": 2018,
+        "posterPath": "/9CaS2XFd0Db42grzzVBnWcSkrbg.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 238636,
+        "title": "The Purge: Anarchy",
+        "year": 2014,
+        "posterPath": "/qwqHHZLZSUvMkAMQ47ymtfjEifY.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 316727,
+        "title": "The Purge: Election Year",
+        "year": 2016,
+        "posterPath": "/gg7tlp45xqGWMra0sqQVPvybje2.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 135225,
+        "title": "Purge",
+        "year": 2012,
+        "posterPath": "/9SJbQvi1cw2az0NSSQlX4xdaFFL.jpg",
+        "score": 109
+      }
+    ]
+  },
+  {
+    "rawTitle": "mother",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "mother",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 381283,
+        "title": "mother!",
+        "year": 2017,
+        "posterPath": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 30018,
+        "title": "Mother",
+        "year": 2009,
+        "posterPath": "/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 1100,
+        "title": "How I Met Your Mother",
+        "year": 2005,
+        "posterPath": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 505948,
+        "title": "I Am Mother",
+        "year": 2019,
+        "posterPath": "/ayPSqlpYIbeq1RiDekx6W9WUqrL.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 552688,
+        "title": "The Mother",
+        "year": 2023,
+        "posterPath": "/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",
+        "score": 124
+      }
+    ]
+  },
+  {
+    "rawTitle": "terrifier",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "terrifier",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 420634,
+        "title": "Terrifier",
+        "year": 2018,
+        "posterPath": "/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 663712,
+        "title": "Terrifier 2",
+        "year": 2022,
+        "posterPath": "/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1034541,
+        "title": "Terrifier 3",
+        "year": 2024,
+        "posterPath": "/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 86328,
+        "title": "Terrifier",
+        "year": 2011,
+        "posterPath": "/uP5k78WkCVrxrFp4AJflHbC61Ao.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1399896,
+        "title": "Art Attack! The Dissection of Terrifier 3",
+        "year": 2025,
+        "posterPath": "/1IAtzYFiIYzSPmIW4xYX3t16c1v.jpg",
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "gang related",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "gang related",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 14398,
+        "title": "Gang Related",
+        "year": 1997,
+        "posterPath": "/zvl4RYK5OHo2d9V1aUkHkxhh9Zv.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 51046,
+        "title": "Gang Related",
+        "year": 2014,
+        "posterPath": "/pQSAiKxKaA79UoraSUh1UyaGTrE.jpg",
+        "score": 119
+      }
+    ]
+  },
+  {
+    "rawTitle": "nightmare on elm street",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "nightmare on elm street",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 377,
+        "title": "A Nightmare on Elm Street",
+        "year": 1984,
+        "posterPath": "/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 23437,
+        "title": "A Nightmare on Elm Street",
+        "year": 2010,
+        "posterPath": "/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10014,
+        "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+        "year": 1985,
+        "posterPath": "/53kxYw0G3o55yJ23K7s7KMaOyAM.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10072,
+        "title": "A Nightmare on Elm Street 3: Dream Warriors",
+        "year": 1987,
+        "posterPath": "/qbtZewU6EGvxi8yFVzwZ31NijLX.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10131,
+        "title": "A Nightmare on Elm Street 4: The Dream Master",
+        "year": 1988,
+        "posterPath": "/boStYG7jKdoIZTduiOOsUVknD13.jpg",
+        "score": 125
+      }
+    ]
+  },
+  {
+    "rawTitle": "veronica",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "veronica",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 441701,
+        "title": "Veronica",
+        "year": 2017,
+        "posterPath": "/xHP6mYLQKbJY9pg99PGoGKmmBZX.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 1432,
+        "title": "Veronica Mars",
+        "year": 2004,
+        "posterPath": "/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 177494,
+        "title": "Veronica Mars",
+        "year": 2014,
+        "posterPath": "/qWBAPJdew9MRUv8ApRPkXAM1feB.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 423611,
+        "title": "Veronica",
+        "year": 2017,
+        "posterPath": "/8WMfFaYKoCtki0mkdqFqIUYB1hC.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10629,
+        "title": "Veronica Guerin",
+        "year": 2003,
+        "posterPath": "/1aJYz1YjcZggKsTJhCcYJ3adtcm.jpg",
+        "score": 118
+      }
+    ]
+  },
+  {
+    "rawTitle": "pride and prejudice",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "pride and prejudice",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 1457,
+        "title": "Pride and Prejudice",
+        "year": 1995,
+        "posterPath": "/7od3Mob2qu5lL1l5RsdV6xuEquw.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 58431,
+        "title": "Pride and Prejudice and Zombies",
+        "year": 2016,
+        "posterPath": "/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 43818,
+        "title": "Pride and Prejudice",
+        "year": 1940,
+        "posterPath": "/yoWwsLkuY5tMxUqkKMOHAJlImTs.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 18087,
+        "title": "Pride and Prejudice",
+        "year": 2003,
+        "posterPath": "/3oAub2opFoDhepSoNW3Tlcmems7.jpg",
+        "score": 118
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 4409,
+        "title": "Pride and Prejudice",
+        "year": 1980,
+        "posterPath": "/xbR0TEI8t1C55lGiHNzbVeriz36.jpg",
+        "score": 117
+      }
+    ]
+  },
+  {
+    "rawTitle": "the guilty",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the guilty",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 567748,
+        "title": "The Guilty",
+        "year": 2021,
+        "posterPath": "/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 486947,
+        "title": "The Guilty",
+        "year": 2018,
+        "posterPath": "/42QPG6p7oLcLd4LQOPeSTLhqfMx.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 55101,
+        "title": "The Guilty",
+        "year": 2000,
+        "posterPath": "/fXhL95BYYfy9uSld68RHsmRfcqU.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 58010,
+        "title": "The Guilty",
+        "year": 2013,
+        "posterPath": "/l7htAfsU3mxRyJIpFsFGSNBpfH7.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 35546,
+        "title": "The Guilty",
+        "year": 1947,
+        "posterPath": "/ymqIzxGu3JHqcpkEfJjrQXZjm48.jpg",
+        "score": 115
+      }
+    ]
+  },
+  {
+    "rawTitle": "little women",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "little women",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 331482,
+        "title": "Little Women",
+        "year": 2019,
+        "posterPath": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9587,
+        "title": "Little Women",
+        "year": 1994,
+        "posterPath": "/1ZzH1XMcKAe5NdrKL5MfcqZHHsZ.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 43436,
+        "title": "Little Women",
+        "year": 1949,
+        "posterPath": "/qrshhX8dywIOljtITGHGNK6TJcB.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 134675,
+        "title": "Little Women",
+        "year": 2022,
+        "posterPath": "/oK6q2rDVXNpPyZaZhhiqG2g5Wty.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 39938,
+        "title": "Little Women",
+        "year": 1933,
+        "posterPath": "/6jbBsk4uDuSkO2Uxv5YxoPNmVVj.jpg",
+        "score": 124
+      }
+    ]
+  },
+  {
+    "rawTitle": "endless love",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "endless love",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 226857,
+        "title": "Endless Love",
+        "year": 2014,
+        "posterPath": "/7WDqvNmy4p6IJx8JjvzOtaV2IRr.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 65555,
+        "title": "Endless Love",
+        "year": 2015,
+        "posterPath": "/qEkRGqfoV9ziKiPLOa3fZaaYjhG.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 19114,
+        "title": "Endless Love",
+        "year": 1981,
+        "posterPath": "/eAU5kEn3n2PROao46iqs0w57Tqr.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 468261,
+        "title": "Endless Love",
+        "year": 2017,
+        "posterPath": "/dnVrVJT1Ek0jHyOjHtUnUW6SSrg.jpg",
+        "score": 121
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 5362,
+        "title": "Endless Love",
+        "year": 2002,
+        "posterPath": "/ziDwwAdCUYIm2wcsYhSEPOapcSa.jpg",
+        "score": 110
+      }
+    ]
+  },
+  {
+    "rawTitle": "ted",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "ted",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 72105,
+        "title": "Ted",
+        "year": 2012,
+        "posterPath": "/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg",
+        "score": 145
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 214756,
+        "title": "Ted 2",
+        "year": 2015,
+        "posterPath": "/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 201834,
+        "title": "ted",
+        "year": 2024,
+        "posterPath": "/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 97546,
+        "title": "Ted Lasso",
+        "year": 2020,
+        "posterPath": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1648,
+        "title": "Bill & Ted's Excellent Adventure",
+        "year": 1989,
+        "posterPath": "/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+        "score": 126
+      }
+    ]
+  },
+  {
+    "rawTitle": "one day",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "one day",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 51828,
+        "title": "One Day",
+        "year": 2011,
+        "posterPath": "/n9jMwSg4IavdD8wqdYnyW5w3Mvp.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 240667,
+        "title": "One Day",
+        "year": 2024,
+        "posterPath": "/smBWt8rHCCavV88C5gQVjh0NUFa.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 420541,
+        "title": "One Day",
+        "year": 2016,
+        "posterPath": "/fbYj8XuzuXTDkM26KMYeOk4mNga.jpg",
+        "score": 118
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 69017,
+        "title": "One Day at a Time",
+        "year": 2017,
+        "posterPath": "/yiQcmPm6pTYyAAp3Q9Ge2xMkf8b.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 446138,
+        "title": "One Day",
+        "year": 2017,
+        "posterPath": "/7w9OWwZ78S4407hbzg1a0zT8Tzk.jpg",
+        "score": 116
+      }
+    ]
+  },
+  {
+    "rawTitle": "waves",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "waves",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 533444,
+        "title": "Waves",
+        "year": 2019,
+        "posterPath": "/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 145,
+        "title": "Breaking the Waves",
+        "year": 1996,
+        "posterPath": "/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 21057,
+        "title": "Ocean Waves",
+        "year": 1993,
+        "posterPath": "/fSR1LLMIJZ6WcQEkM82yKy4F9vQ.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1251621,
+        "title": "Waves",
+        "year": 2024,
+        "posterPath": "/sXxvWOBdWDJwWXmX4nKgQsWLLKC.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 26680,
+        "title": "Shock Waves",
+        "year": 1977,
+        "posterPath": "/ApYarwDS09ll1I1zZV9XFUe6aGe.jpg",
+        "score": 113
+      }
+    ]
+  },
+  {
+    "rawTitle": "the dreamer",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the dreamer",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 1215439,
+        "title": "Dave Chappelle: The Dreamer",
+        "year": 2023,
+        "posterPath": "/AfRIwykHu9taHgq9DHktdwVLmWC.jpg",
+        "score": 113
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 80831,
+        "title": "The Dreamer",
+        "year": 2009,
+        "posterPath": "/lXA0chGV24cf7fUEIj2eOW5rfjc.jpg",
+        "score": 111
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1154065,
+        "title": "The Dreamer",
+        "year": 1988,
+        "posterPath": "/vfmlF3TcgCUDjNjn7Rr69Oya4Be.jpg",
+        "score": 106
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 903148,
+        "title": "The Dreamer",
+        "year": 2000,
+        "posterPath": "/m0pZ2cTOwd8CJWcfVtXQyvnakgf.jpg",
+        "score": 105
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 198656,
+        "title": "The Dreamer",
+        "year": 1970,
+        "posterPath": null,
+        "score": 104
+      }
+    ]
+  },
+  {
+    "rawTitle": "mama mia",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "mamma mia!",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 11631,
+        "title": "Mamma Mia!",
+        "year": 2008,
+        "posterPath": "/xYLiCWmAMHJubx5jNZ7HuXKjAbV.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 458423,
+        "title": "Mamma Mia! Here We Go Again",
+        "year": 2018,
+        "posterPath": "/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1402539,
+        "title": "Mamma Mia",
+        "year": 2010,
+        "posterPath": "/A7JTJ1GKGJe9YHxVj9rUJkxeqik.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 82483,
+        "title": "Mamma mia, che impressione!",
+        "year": 1951,
+        "posterPath": "/iKvtq1AXpEEnecz1vhqxHa2LkzK.jpg",
+        "score": 102
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 94812,
+        "title": "Mamma Mia!",
+        "year": null,
+        "posterPath": "/tB7Sl3QoksH53drjaR0P7gTPbRB.jpg",
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "highschool musical",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "high school musical",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 10947,
+        "title": "High School Musical",
+        "year": 2006,
+        "posterPath": "/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 13649,
+        "title": "High School Musical 2",
+        "year": 2007,
+        "posterPath": "/kqImEYXsDIlzPpu0KxyTXIx7smW.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11887,
+        "title": "High School Musical 3: Senior Year",
+        "year": 2008,
+        "posterPath": "/aq2o1wT0crBOTxof36O6KTyjpgE.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 85801,
+        "title": "High School Musical: The Musical: The Series",
+        "year": 2019,
+        "posterPath": "/2KmbFkZD42I8Q7IZy4WxmZm9W6O.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 55928,
+        "title": "High School Musical: The Concert",
+        "year": 2007,
+        "posterPath": "/76NXy9HqTr05lKZunr86jKm239f.jpg",
+        "score": 111
+      }
+    ]
+  },
+  {
+    "rawTitle": "zoolander",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "zoolander",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 9398,
+        "title": "Zoolander",
+        "year": 2001,
+        "posterPath": "/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 329833,
+        "title": "Zoolander 2",
+        "year": 2016,
+        "posterPath": "/n8AJzALlTPBwe9Tkv3tdxbiAr9i.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 458777,
+        "title": "Zoolander: Super Model",
+        "year": 2016,
+        "posterPath": "/gc4KD6J5WwXg32G9vPgWbxChaPY.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 189042,
+        "title": "Derek Zoolander: Male Model",
+        "year": 1996,
+        "posterPath": "/5N0XN2iA1j1UmUPjFpBjDeZ5uI1.jpg",
+        "score": 103
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 189043,
+        "title": "Derek Zoolander University",
+        "year": 1997,
+        "posterPath": "/uP06G4xScTkrdVqauQhA2PuP3z5.jpg",
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "super troopers",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "super troopers",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 39939,
+        "title": "Super Troopers",
+        "year": 2001,
+        "posterPath": "/yJyxPItcLNVfYr7idOphQTmQ9hK.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 50022,
+        "title": "Super Troopers 2",
+        "year": 2018,
+        "posterPath": "/57SZgdugVClIy22rfnANeBJ5KsN.jpg",
+        "score": 119
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 675871,
+        "title": "Super Troopers 3",
+        "year": 2026,
+        "posterPath": "/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1744888,
+        "title": "Super Troopers 4",
+        "year": null,
+        "posterPath": null,
+        "score": 91
+      }
+    ]
+  },
+  {
+    "rawTitle": "the reef",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the reef",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 49787,
+        "title": "The Reef",
+        "year": 2010,
+        "posterPath": "/s5JGAqmdv1cHlDjMqsmQUkVo2lW.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 730167,
+        "title": "The Reef: Stalked",
+        "year": 2022,
+        "posterPath": "/hmbRg1VkVigS4Se2WCpyT5OV9mo.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 16931,
+        "title": "Into the Blue 2: The Reef",
+        "year": 2009,
+        "posterPath": "/qLWOHSfrwWYrm7yic0ACFKGRLAq.jpg",
+        "score": 115
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 890601,
+        "title": "Puff: Wonders of the Reef",
+        "year": 2021,
+        "posterPath": "/3jW7VXaI955lIfegDlB0F5OShbP.jpg",
+        "score": 112
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 132601,
+        "title": "The Reef 2: High Tide",
+        "year": 2012,
+        "posterPath": "/3ZmLU8yQ7R63lmjImnJzItb0jM7.jpg",
+        "score": 110
+      }
+    ]
+  },
+  {
+    "rawTitle": "the dead",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the dead",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 747,
+        "title": "Shaun of the Dead",
+        "year": 2004,
+        "posterPath": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 924,
+        "title": "Dawn of the Dead",
+        "year": 2004,
+        "posterPath": "/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 503736,
+        "title": "Army of the Dead",
+        "year": 2021,
+        "posterPath": "/gCIsRxzcxvmuLYeAvWgoOuSxszF.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 923,
+        "title": "Dawn of the Dead",
+        "year": 1978,
+        "posterPath": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 12106,
+        "title": "The Quick and the Dead",
+        "year": 1995,
+        "posterPath": "/jhEmrXJpP6F3cqwyLjvgBgxxxFA.jpg",
+        "score": 126
+      }
+    ]
+  },
+  {
+    "rawTitle": "tomb raider",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "tomb raider",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 338970,
+        "title": "Tomb Raider",
+        "year": 2018,
+        "posterPath": "/s4Qn5LF6OwK4rIifmthIDtbqDSs.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1995,
+        "title": "Lara Croft: Tomb Raider",
+        "year": 2001,
+        "posterPath": "/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1996,
+        "title": "Lara Croft: Tomb Raider - The Cradle of Life",
+        "year": 2003,
+        "posterPath": "/ylIEGeAr2ygSClK4FDj9mi2Ah22.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 117830,
+        "title": "Tomb Raider: The Legend of Lara Croft",
+        "year": 2024,
+        "posterPath": "/hBqYte464epKcSaOufl3SXPqKfj.jpg",
+        "score": 117
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 297826,
+        "title": "Tomb Raider King",
+        "year": 2026,
+        "posterPath": "/xDW6cor12UD0b2IqboQWnrIn0UO.jpg",
+        "score": 108
+      }
+    ]
+  },
+  {
+    "rawTitle": "bodies bodies bodies",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "bodies bodies bodies",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 520023,
+        "title": "Bodies Bodies Bodies",
+        "year": 2022,
+        "posterPath": "/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 233629,
+        "title": "Bodies",
+        "year": 2023,
+        "posterPath": "/qWX71nLvoLsBNPEjddZMC75lq6I.jpg",
+        "score": 121
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 2371,
+        "title": "Bodies",
+        "year": 2004,
+        "posterPath": "/iQKgVGaHSxIOsSDDyGH5QZpWp4e.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1239174,
+        "title": "Bodies",
+        "year": null,
+        "posterPath": null,
+        "score": 94
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1443256,
+        "title": "Bodies",
+        "year": 2025,
+        "posterPath": "/yrHE0r4sXdpMyuD43D1dhm1PnfL.jpg",
+        "score": 91
+      }
+    ]
+  },
+  {
+    "rawTitle": "fallout",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "fallout",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 106379,
+        "title": "Fallout",
+        "year": 2024,
+        "posterPath": "/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 353081,
+        "title": "Mission: Impossible - Fallout",
+        "year": 2018,
+        "posterPath": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 795514,
+        "title": "The Fallout",
+        "year": 2021,
+        "posterPath": "/4ByHl9XRKR2iXbvF0ZilMRD1RcL.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 97075,
+        "title": "Fallout",
+        "year": 2020,
+        "posterPath": "/oPD1d0EJ52MC4ATplYM8old0pjY.jpg",
+        "score": 111
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 828220,
+        "title": "Fallout",
+        "year": 1995,
+        "posterPath": "/uGBRsZIbIok5MqnLxgARZKL2Zhd.jpg",
+        "score": 109
+      }
+    ]
+  },
+  {
+    "rawTitle": "mother!",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "mother!",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 381283,
+        "title": "mother!",
+        "year": 2017,
+        "posterPath": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 30018,
+        "title": "Mother",
+        "year": 2009,
+        "posterPath": "/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 1100,
+        "title": "How I Met Your Mother",
+        "year": 2005,
+        "posterPath": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 505948,
+        "title": "I Am Mother",
+        "year": 2019,
+        "posterPath": "/ayPSqlpYIbeq1RiDekx6W9WUqrL.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 552688,
+        "title": "The Mother",
+        "year": 2023,
+        "posterPath": "/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",
+        "score": 124
+      }
+    ]
+  },
+  {
+    "rawTitle": "adventures of babysitting",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "adventures in babysitting",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 14367,
+        "title": "Adventures in Babysitting",
+        "year": 1987,
+        "posterPath": "/8QiAj0Xw2UMeZMIIfZKeNoIsszs.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 360606,
+        "title": "Adventures in Babysitting",
+        "year": 2016,
+        "posterPath": "/t12bYhmv7LIcHT4TGGpW6WaMV2W.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 664749,
+        "title": "Adventures in Babysitting",
+        "year": 1989,
+        "posterPath": "/24d8netYk5ywaocEv5obC9n2AF3.jpg",
+        "score": 108
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 358353,
+        "title": "Bound & Babysitting",
+        "year": 2015,
+        "posterPath": "/kxpU2dRgb8kBDh9CdasiIMJaZHM.jpg",
+        "score": 72
+      }
+    ]
+  },
+  {
+    "rawTitle": "while you were sleeping",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "while you were sleeping",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 2064,
+        "title": "While You Were Sleeping",
+        "year": 1995,
+        "posterPath": "/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 70649,
+        "title": "While You Were Sleeping",
+        "year": 2017,
+        "posterPath": "/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 861047,
+        "title": "While You Were Sleeping",
+        "year": 2024,
+        "posterPath": "/ppYhdRBlTjl5X9TehKVuu6rD6YY.jpg",
+        "score": 111
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 731297,
+        "title": "While You Were Sleeping",
+        "year": 2003,
+        "posterPath": "/wNTdJaYe13guBaKUKSfsWm6hWQ7.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 46513,
+        "title": "While You Were Sleeping",
+        "year": 2011,
+        "posterPath": "/94701d378Ib5cfvUepVS87CthyP.jpg",
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "scarface",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "scarface",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 111,
+        "title": "Scarface",
+        "year": 1983,
+        "posterPath": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "score": 146
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 877,
+        "title": "Scarface",
+        "year": 1932,
+        "posterPath": "/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 87914,
+        "title": "Lady Scarface",
+        "year": 1941,
+        "posterPath": "/vuKFGcMxYp7bq8LA7DbBlEvRl6d.jpg",
+        "score": 102
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 326745,
+        "title": "The Making of 'Scarface'",
+        "year": 1998,
+        "posterPath": "/dbBPeL8okEqWJ4kVn1roLUtjMmn.jpg",
+        "score": 102
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 242516,
+        "title": "Captain Scarface",
+        "year": 1953,
+        "posterPath": "/fNtLNkhTeinIJf3fMlMaAO9HCa6.jpg",
+        "score": 102
+      }
+    ]
+  },
+  {
+    "rawTitle": "heat",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "heat",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 949,
+        "title": "Heat",
+        "year": 1995,
+        "posterPath": "/gKaePbkEkaqvMtw74EyhhkfCKKh.jpg",
+        "score": 144
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 136795,
+        "title": "The Heat",
+        "year": 2013,
+        "posterPath": "/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9604,
+        "title": "Red Heat",
+        "year": 1988,
+        "posterPath": "/AoJTHXmO01EZgT0p1YTsGBEQxLj.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 14412,
+        "title": "Body Heat",
+        "year": 1981,
+        "posterPath": "/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+        "score": 121
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 15794,
+        "title": "White Heat",
+        "year": 1949,
+        "posterPath": "/v7cPOHKKZI9qChi7HDUxNIhEcLR.jpg",
+        "score": 119
+      }
+    ]
+  },
+  {
+    "rawTitle": "patriot",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "patriot",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 2024,
+        "title": "The Patriot",
+        "year": 2000,
+        "posterPath": "/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 64396,
+        "title": "Patriot",
+        "year": 2015,
+        "posterPath": "/xq3xeWFfjb8UeNy1y9JMUhL6Ptq.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9869,
+        "title": "Patriot Games",
+        "year": 1992,
+        "posterPath": "/9IT7gnszrRthduYxCLqaIkM55Un.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 100235,
+        "title": "Patriot",
+        "year": 2020,
+        "posterPath": "/oSekTMSSL7u2MMM8OWjcMbFGcSQ.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 100281,
+        "title": "Moriarty the Patriot",
+        "year": 2020,
+        "posterPath": "/lLcmshfrLg7JUMwMCnp5fuNqtoQ.jpg",
+        "score": 118
+      }
+    ]
+  },
+  {
+    "rawTitle": "seven",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "seven",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 408,
+        "title": "Snow White and the Seven Dwarfs",
+        "year": 1938,
+        "posterPath": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 333484,
+        "title": "The Magnificent Seven",
+        "year": 2016,
+        "posterPath": "/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11321,
+        "title": "Seven Pounds",
+        "year": 2008,
+        "posterPath": "/85zUipgVy2QbvAJ6djZXYaGckMv.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 346,
+        "title": "Seven Samurai",
+        "year": 1954,
+        "posterPath": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 86838,
+        "title": "Seven Psychopaths",
+        "year": 2012,
+        "posterPath": "/4ukEYAxlSivFcDG6vLxJB6PjTjg.jpg",
+        "score": 129
+      }
+    ]
+  },
+  {
+    "rawTitle": "face off",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "face off",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 754,
+        "title": "Face/Off",
+        "year": 1997,
+        "posterPath": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 35370,
+        "title": "Face Off",
+        "year": 2011,
+        "posterPath": "/rlEzwvdlBJ0PvUVr4nzZbau9yKX.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 405886,
+        "title": "Face Off",
+        "year": 2015,
+        "posterPath": "/3ym9JhjqUu5jKCWxtKVF86Sw4gD.jpg",
+        "score": 107
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 525875,
+        "title": "Ronaldo vs. Messi: Face Off!",
+        "year": 2017,
+        "posterPath": "/oD3qkJBaztjTB0HamETmdPeKRqG.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 94850,
+        "title": "Face Off",
+        "year": 2017,
+        "posterPath": "/ma91Q9MI6RKa3ZaEqcRilmY7yz7.jpg",
+        "score": 102
+      }
+    ]
+  },
+  {
+    "rawTitle": "the hunt",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the hunt",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 103663,
+        "title": "The Hunt",
+        "year": 2012,
+        "posterPath": "/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 514847,
+        "title": "The Hunt",
+        "year": 2020,
+        "posterPath": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1669,
+        "title": "The Hunt for Red October",
+        "year": 1990,
+        "posterPath": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11237,
+        "title": "Anacondas: The Hunt for the Blood Orchid",
+        "year": 2004,
+        "posterPath": "/apAZ6o1SyYgcC8R2LqTCYnBe1lK.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 64313,
+        "title": "The Hunt",
+        "year": 2015,
+        "posterPath": "/m5Roo3QA9cIAApcWVli3eFU7723.jpg",
+        "score": 122
+      }
+    ]
+  },
+  {
+    "rawTitle": "orphan",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "orphan",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 21208,
+        "title": "Orphan",
+        "year": 2009,
+        "posterPath": "/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg",
+        "score": 141
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 760161,
+        "title": "Orphan: First Kill",
+        "year": 2022,
+        "posterPath": "/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 56296,
+        "title": "Orphan Black",
+        "year": 2013,
+        "posterPath": "/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 408509,
+        "title": "Orphan",
+        "year": 2017,
+        "posterPath": "/pZhoVY6vPBlS9LYPgyObR0HW84X.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 803208,
+        "title": "Orphan",
+        "year": 2025,
+        "posterPath": "/dfctdEbc5324nwkkUSdhFZJ83Yj.jpg",
+        "score": 114
+      }
+    ]
+  },
+  {
+    "rawTitle": "final destination",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "final destination",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 9532,
+        "title": "Final Destination",
+        "year": 2000,
+        "posterPath": "/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9358,
+        "title": "Final Destination 2",
+        "year": 2003,
+        "posterPath": "/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9286,
+        "title": "Final Destination 3",
+        "year": 2006,
+        "posterPath": "/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 55779,
+        "title": "Final Destination 5",
+        "year": 2011,
+        "posterPath": "/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 19912,
+        "title": "The Final Destination",
+        "year": 2009,
+        "posterPath": "/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg",
+        "score": 129
+      }
+    ]
+  },
+  {
+    "rawTitle": "the godfather",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the godfather",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 238,
+        "title": "The Godfather",
+        "year": 1972,
+        "posterPath": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "score": 149
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 240,
+        "title": "The Godfather Part II",
+        "year": 1974,
+        "posterPath": "/sSuQTCZwqKrNBNIsksO9IAUoWP9.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 242,
+        "title": "The Godfather Part III",
+        "year": 1990,
+        "posterPath": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 364150,
+        "title": "The Godfather Trilogy: 1901-1980",
+        "year": 1992,
+        "posterPath": "/xvT9RyO9UdNSc1NRhXnhTujlQWK.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 39651,
+        "title": "Mario Puzo's The Godfather: The Complete Novel for Television",
+        "year": 1977,
+        "posterPath": "/M9zK3fgStySNN8vcOQYxFaKW4D.jpg",
+        "score": 112
+      }
+    ]
+  },
+  {
+    "rawTitle": "the texas chainsaw massacre",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the texas chainsaw massacre",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 9373,
+        "title": "The Texas Chainsaw Massacre",
+        "year": 2003,
+        "posterPath": "/781px1eOtfVt1RdIsL4Dt1s3x7R.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 30497,
+        "title": "The Texas Chain Saw Massacre",
+        "year": 1974,
+        "posterPath": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10781,
+        "title": "The Texas Chainsaw Massacre: The Beginning",
+        "year": 2006,
+        "posterPath": "/hTBueN0Ru3R7brwtONenDyEMNYe.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 632727,
+        "title": "Texas Chainsaw Massacre",
+        "year": 2022,
+        "posterPath": "/7sKiGNWFM15WNyY7LYd5vmb3brO.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 16337,
+        "title": "The Texas Chainsaw Massacre 2",
+        "year": 1986,
+        "posterPath": "/cO1Dvg7k87lHSPOdumn3ddJEKdX.jpg",
+        "score": 123
+      }
+    ]
+  },
+  {
+    "rawTitle": "leon",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "leon",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 392142,
+        "title": "Max & Leon",
+        "year": 2016,
+        "posterPath": "/47qB83tIFr9CuX6RHsTapk0W3Ls.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 96230,
+        "title": "Leonardo",
+        "year": 2021,
+        "posterPath": "/t19XDd3pLIsBGcIsG83IcEVQhr9.jpg",
+        "score": 115
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 64835,
+        "title": "Hap and Leonard",
+        "year": 2016,
+        "posterPath": "/6v3o7UF5SbkbkMFPR0lJo9GyR53.jpg",
+        "score": 112
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 773941,
+        "title": "Leon",
+        "year": 2023,
+        "posterPath": "/cm7L9NYb8SlnKDN6KXW5SRJNEH1.jpg",
+        "score": 106
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 39601,
+        "title": "Leon",
+        "year": null,
+        "posterPath": null,
+        "score": 105
+      }
+    ]
+  },
+  {
+    "rawTitle": "ant-man",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "ant-man",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 102899,
+        "title": "Ant-Man",
+        "year": 2015,
+        "posterPath": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+        "score": 147
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 363088,
+        "title": "Ant-Man and the Wasp",
+        "year": 2018,
+        "posterPath": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 640146,
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "year": 2023,
+        "posterPath": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 73919,
+        "title": "Marvel's Ant-Man",
+        "year": 2017,
+        "posterPath": "/uxvNd3O6ssIfU5lE7zcp6kPVOVD.jpg",
+        "score": 107
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1127361,
+        "title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
+        "year": 2023,
+        "posterPath": "/xgfnWe9NFXT5o3QndRnU5ylkxyp.jpg",
+        "score": 105
+      }
+    ]
+  },
+  {
+    "rawTitle": "ant-man and the wasp",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "ant-man and the wasp",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 363088,
+        "title": "Ant-Man and the Wasp",
+        "year": 2018,
+        "posterPath": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+        "score": 146
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 640146,
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "year": 2023,
+        "posterPath": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1127361,
+        "title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
+        "year": 2023,
+        "posterPath": "/xgfnWe9NFXT5o3QndRnU5ylkxyp.jpg",
+        "score": 105
+      }
+    ]
+  },
+  {
+    "rawTitle": "the kissing booth",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the kissing booth",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 454983,
+        "title": "The Kissing Booth",
+        "year": 2018,
+        "posterPath": "/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
+        "score": 141
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 583083,
+        "title": "The Kissing Booth 2",
+        "year": 2020,
+        "posterPath": "/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 727745,
+        "title": "The Kissing Booth 3",
+        "year": 2021,
+        "posterPath": "/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg",
+        "score": 125
+      }
+    ]
+  },
+  {
+    "rawTitle": "now you see me",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "now you see me",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 75656,
+        "title": "Now You See Me",
+        "year": 2013,
+        "posterPath": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+        "score": 146
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 291805,
+        "title": "Now You See Me 2",
+        "year": 2016,
+        "posterPath": "/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 425274,
+        "title": "Now You See Me: Now You Don't",
+        "year": 2025,
+        "posterPath": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 26267,
+        "title": "Now You See It...",
+        "year": 2005,
+        "posterPath": "/9rr9fg4Z3lOWIaB0l62T4aFxIhk.jpg",
+        "score": 107
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 412305,
+        "title": "Now You See Me, Now You Don’t",
+        "year": 1994,
+        "posterPath": "/3jMip0JS8Xws6lWymes8rjfdPlS.jpg",
+        "score": 96
+      }
+    ]
+  },
+  {
+    "rawTitle": "rocky v",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "rocky v",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 1375,
+        "title": "Rocky V",
+        "year": 1990,
+        "posterPath": "/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1374,
+        "title": "Rocky IV",
+        "year": 1985,
+        "posterPath": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 60375,
+        "title": "Rocky VI",
+        "year": 1986,
+        "posterPath": "/yCeabh22fxbiKPhiyWLWYpoRaiA.jpg",
+        "score": 110
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1371,
+        "title": "Rocky III",
+        "year": 1982,
+        "posterPath": "/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
+        "score": 107
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 895595,
+        "title": "The Making of 'Rocky vs. Drago'",
+        "year": 2021,
+        "posterPath": "/xoAZaVNQmBX9ZUkMHOiw6S4RumO.jpg",
+        "score": 103
+      }
+    ]
+  },
+  {
+    "rawTitle": "rocky ii",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "rocky ii",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 1367,
+        "title": "Rocky II",
+        "year": 1979,
+        "posterPath": "/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1371,
+        "title": "Rocky III",
+        "year": 1982,
+        "posterPath": "/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 395978,
+        "title": "Where is Rocky II?",
+        "year": 2016,
+        "posterPath": "/bZxQhPXTas4vtyyvZbL8D1ADJB2.jpg",
+        "score": 96
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 480530,
+        "title": "Creed II",
+        "year": 2018,
+        "posterPath": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+        "score": 79
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 677179,
+        "title": "Creed III",
+        "year": 2023,
+        "posterPath": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+        "score": 71
+      }
+    ]
+  },
+  {
+    "rawTitle": "rocky",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "rocky",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 1366,
+        "title": "Rocky",
+        "year": 1976,
+        "posterPath": "/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1374,
+        "title": "Rocky IV",
+        "year": 1985,
+        "posterPath": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1367,
+        "title": "Rocky II",
+        "year": 1979,
+        "posterPath": "/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1371,
+        "title": "Rocky III",
+        "year": 1982,
+        "posterPath": "/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 36685,
+        "title": "The Rocky Horror Picture Show",
+        "year": 1975,
+        "posterPath": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+        "score": 129
+      }
+    ]
+  },
+  {
+    "rawTitle": "creed ii",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "creed ii",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 480530,
+        "title": "Creed II",
+        "year": 2018,
+        "posterPath": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+        "score": 141
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 677179,
+        "title": "Creed III",
+        "year": 2023,
+        "posterPath": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1128701,
+        "title": "Creed: Shinjidai",
+        "year": 2023,
+        "posterPath": "/wA2yaE9YT6g9fFVYXYeBtPnu9qX.jpg",
+        "score": 54
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 133558,
+        "title": "Saints and Soldiers: Airborne Creed",
+        "year": 2012,
+        "posterPath": "/jOxcnkIPk7mGZYOF5HOhdJNkOy9.jpg",
+        "score": 33
+      }
+    ]
+  },
+  {
+    "rawTitle": "creed",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "creed",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 312221,
+        "title": "Creed",
+        "year": 2015,
+        "posterPath": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 121856,
+        "title": "Assassin's Creed",
+        "year": 2016,
+        "posterPath": "/kDXewoEcvbn0pUvJ8W3vfkuWgHw.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 480530,
+        "title": "Creed II",
+        "year": 2018,
+        "posterPath": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 677179,
+        "title": "Creed III",
+        "year": 2023,
+        "posterPath": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 38542,
+        "title": "The Disappearance of Alice Creed",
+        "year": 2009,
+        "posterPath": "/iJT7eXt09OffD4WBOvV7eGgL3Lt.jpg",
+        "score": 120
+      }
+    ]
+  },
+  {
+    "rawTitle": "megan",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "megan",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 424488,
+        "title": "Megan Leavey",
+        "year": 2017,
+        "posterPath": "/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 63197,
+        "title": "Megan Is Missing",
+        "year": 2011,
+        "posterPath": "/lDmIqn0HJDjQJZDZaofuyaAnw2X.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 883987,
+        "title": "Megan",
+        "year": 2020,
+        "posterPath": "/xFsqpz9wn7yREHWGQvviiJE9RVO.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 526601,
+        "title": "Megan",
+        "year": 2018,
+        "posterPath": "/33eqQRHLxeLSpZHLGwcVnjNbcT7.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 85036,
+        "title": "Legends of the Lost with Megan Fox",
+        "year": 2018,
+        "posterPath": "/qvLi5f3QVkKj3ICNiH6rk2uld9M.jpg",
+        "score": 103
+      }
+    ]
+  },
+  {
+    "rawTitle": "beauty and the beast",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "beauty and the beast",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 321612,
+        "title": "Beauty and the Beast",
+        "year": 2017,
+        "posterPath": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+        "score": 146
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10020,
+        "title": "Beauty and the Beast",
+        "year": 1991,
+        "posterPath": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+        "score": 144
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 197796,
+        "title": "Beauty and the Beast",
+        "year": 2014,
+        "posterPath": "/8bErT2koHXAUSW5PdLQqgL5gEEe.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 44606,
+        "title": "Beauty and the Beast",
+        "year": 2012,
+        "posterPath": "/6rZ2I1xRemLORb65spepVmsvnf7.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 648,
+        "title": "Beauty and the Beast",
+        "year": 1946,
+        "posterPath": "/iYSe3yrkma0e1B0wWPXgr8w5sDN.jpg",
+        "score": 130
+      }
+    ]
+  },
+  {
+    "rawTitle": "kin",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "kin",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 425505,
+        "title": "Kin",
+        "year": 2018,
+        "posterPath": "/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 112693,
+        "title": "Kin",
+        "year": 2021,
+        "posterPath": "/2wTsgQQBruGQcjM0PjFr5l5MjEw.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 609972,
+        "title": "Paranormal Activity: Next of Kin",
+        "year": 2021,
+        "posterPath": "/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg",
+        "score": 121
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 83620,
+        "title": "Kin",
+        "year": 1982,
+        "posterPath": "/nzWA2iamMrWuoifTNQoxGIyYO6a.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 27418,
+        "title": "Next of Kin",
+        "year": 1989,
+        "posterPath": "/ieM9upg9O4agtodEvlZIiuNKZsN.jpg",
+        "score": 116
+      }
+    ]
+  },
+  {
+    "rawTitle": "the mummy",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the mummy",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 564,
+        "title": "The Mummy",
+        "year": 1999,
+        "posterPath": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+        "score": 144
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 282035,
+        "title": "The Mummy",
+        "year": 2017,
+        "posterPath": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1734,
+        "title": "The Mummy Returns",
+        "year": 2001,
+        "posterPath": "/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 15849,
+        "title": "The Mummy",
+        "year": 1932,
+        "posterPath": "/vSKpbZVvzqQcw6htiyEinbCY9vq.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1735,
+        "title": "The Mummy: Tomb of the Dragon Emperor",
+        "year": 2008,
+        "posterPath": "/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg",
+        "score": 130
+      }
+    ]
+  },
+  {
+    "rawTitle": "outbreak",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "outbreak",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 6950,
+        "title": "Outbreak",
+        "year": 1995,
+        "posterPath": "/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg",
+        "score": 137
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 95515,
+        "title": "Outbreak",
+        "year": 2020,
+        "posterPath": "/dwfYZrGs898pSfMU3IxR4fim3Nu.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 96557,
+        "title": "Pandemic: How to Prevent an Outbreak",
+        "year": 2020,
+        "posterPath": "/cHo4wXphisnd2MFZFa6EHDJLwkA.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1217585,
+        "title": "Outbreak",
+        "year": 2025,
+        "posterPath": "/86veNrARvGRyBRiGT94Lxpy5Z4S.jpg",
+        "score": 119
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 62691,
+        "title": "Outbreak Company",
+        "year": 2013,
+        "posterPath": "/iiMG41ewNxmJGfL3yzbT9JpQ414.jpg",
+        "score": 110
+      }
+    ]
+  },
+  {
+    "rawTitle": "i'll be home for christmas",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "i'll be home for christmas",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 17037,
+        "title": "I'll Be Home for Christmas",
+        "year": 1998,
+        "posterPath": "/9hTYFvEDnajUIbpdfc3fO6bZq2Y.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 421632,
+        "title": "I'll Be Home for Christmas",
+        "year": 2016,
+        "posterPath": "/jecVCKLA2rttDps4jiFdtd0pA3n.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 637176,
+        "title": "I'll Be Home for Christmas",
+        "year": 2019,
+        "posterPath": "/cHRieEBkLKEGnT8bAjSHNCA33Cj.jpg",
+        "score": 113
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 52508,
+        "title": "I'll Be Home For Christmas",
+        "year": 1997,
+        "posterPath": "/wZ8CFVkeRWYY40MubQ8mQtiWOKH.jpg",
+        "score": 111
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 357901,
+        "title": "I'll Be Home for Christmas",
+        "year": 1988,
+        "posterPath": "/kxQYc5YdHmfqZC4Q0pauIKEnKHk.jpg",
+        "score": 108
+      }
+    ]
+  },
+  {
+    "rawTitle": "man of the house",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "man of the house",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 13498,
+        "title": "Man of the House",
+        "year": 2005,
+        "posterPath": "/anBhlqCABytNvybE2Xr3tvsCOTp.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 40490,
+        "title": "Man of the House",
+        "year": 1995,
+        "posterPath": "/6bnOhhrrrq6RZhMgz4aGyqbJ9Wf.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 216071,
+        "title": "Man of the House",
+        "year": 1936,
+        "posterPath": "/m1zBSVxFYp14IiLh11qxVu1IBAB.jpg",
+        "score": 107
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 457443,
+        "title": "Man of the House",
+        "year": 2015,
+        "posterPath": "/fz7eFD57IzK1QL8m6c0vYR1ql7j.jpg",
+        "score": 105
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 224934,
+        "title": "Man of The House",
+        "year": 1988,
+        "posterPath": "/rXKSuWl1mOvr8ORgZwdiyn3JEwX.jpg",
+        "score": 105
+      }
+    ]
+  },
+  {
+    "rawTitle": "the grinch",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the grinch",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 360920,
+        "title": "The Grinch",
+        "year": 2018,
+        "posterPath": "/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
+        "score": 141
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 8871,
+        "title": "How the Grinch Stole Christmas",
+        "year": 2000,
+        "posterPath": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 13377,
+        "title": "How the Grinch Stole Christmas!",
+        "year": 1966,
+        "posterPath": "/7ir0iRuPK9OEuH569cp0nF5CJce.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 46963,
+        "title": "The Grinch Grinches the Cat in the Hat",
+        "year": 1982,
+        "posterPath": "/jBESaIVmnw9LevvsSwyzET1dOeM.jpg",
+        "score": 107
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 762951,
+        "title": "Dr. Seuss' The Grinch Musical",
+        "year": 2020,
+        "posterPath": "/rHJlD4ElNBZmejPATAjkuLUooSB.jpg",
+        "score": 102
+      }
+    ]
+  },
+  {
+    "rawTitle": "my girl",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "my girl",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 4032,
+        "title": "My Girl",
+        "year": 1991,
+        "posterPath": "/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 417261,
+        "title": "Forever My Girl",
+        "year": 2018,
+        "posterPath": "/bKqdggnIPeOI15VqtBZTkvh4hA9.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11317,
+        "title": "My Girl 2",
+        "year": 1994,
+        "posterPath": "/hEZ6L72eBORRnoUxf4pip5U76pq.jpg",
+        "score": 119
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 6074,
+        "title": "My Girl",
+        "year": 2005,
+        "posterPath": "/72Su8fJNHMidt9wCcVWKkLJzHrS.jpg",
+        "score": 117
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 18486,
+        "title": "My Girl",
+        "year": 2003,
+        "posterPath": "/A2bnH1j5kOw0GvABqhMcE1AXsrf.jpg",
+        "score": 117
+      }
+    ]
+  },
+  {
+    "rawTitle": "tag",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "tag",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 455980,
+        "title": "Tag",
+        "year": 2018,
+        "posterPath": "/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 340176,
+        "title": "Tag",
+        "year": 2015,
+        "posterPath": "/1xqQv9PoOIVX4nHlKVQELaAHyvG.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 438568,
+        "title": "Tag",
+        "year": 2015,
+        "posterPath": "/1goxlLzMtnSi1KdDPd3zmrvIkXe.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1119611,
+        "title": "TAG",
+        "year": 2023,
+        "posterPath": "/jihh71J6VcrzR3bocDJMDhh0NBo.jpg",
+        "score": 111
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 705258,
+        "title": "tag",
+        "year": 2020,
+        "posterPath": "/811CnBo0eWCs2eaF4mGI112aybz.jpg",
+        "score": 104
+      }
+    ]
+  },
+  {
+    "rawTitle": "power rangers",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "power rangers",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 305470,
+        "title": "Power Rangers",
+        "year": 2017,
+        "posterPath": "/bKYKyyIv5YnisxjZtDreWtYA386.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 2328,
+        "title": "Power Rangers",
+        "year": 1993,
+        "posterPath": "/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9070,
+        "title": "Mighty Morphin Power Rangers: The Movie",
+        "year": 1995,
+        "posterPath": "/pcLbHqs80dchv0byHivhdwHKEup.jpg",
+        "score": 121
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 6499,
+        "title": "Turbo: A Power Rangers Movie",
+        "year": 1997,
+        "posterPath": "/4mau5EXQoKUTiS5wx3Wocwrh5hG.jpg",
+        "score": 117
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1068141,
+        "title": "Mighty Morphin Power Rangers: Once & Always",
+        "year": 2023,
+        "posterPath": "/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg",
+        "score": 117
+      }
+    ]
+  },
+  {
+    "rawTitle": "mission: impossible",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mission: impossible",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 954,
+        "title": "Mission: Impossible",
+        "year": 1996,
+        "posterPath": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+        "score": 144
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 56292,
+        "title": "Mission: Impossible - Ghost Protocol",
+        "year": 2011,
+        "posterPath": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 353081,
+        "title": "Mission: Impossible - Fallout",
+        "year": 2018,
+        "posterPath": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 177677,
+        "title": "Mission: Impossible - Rogue Nation",
+        "year": 2015,
+        "posterPath": "/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 955,
+        "title": "Mission: Impossible II",
+        "year": 2000,
+        "posterPath": "/hfnrual76gPeNFduhD4xzHWpfTw.jpg",
+        "score": 133
+      }
+    ]
+  },
+  {
+    "rawTitle": "john wick",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "john wick",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 245891,
+        "title": "John Wick",
+        "year": 2014,
+        "posterPath": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+        "score": 147
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 324552,
+        "title": "John Wick: Chapter 2",
+        "year": 2017,
+        "posterPath": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 458156,
+        "title": "John Wick: Chapter 3 - Parabellum",
+        "year": 2019,
+        "posterPath": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 603692,
+        "title": "John Wick: Chapter 4",
+        "year": 2023,
+        "posterPath": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 72710,
+        "title": "The Continental: From the World of John Wick",
+        "year": 2023,
+        "posterPath": "/2urdwqEL9FRkGMKAkhfvWTALG00.jpg",
+        "score": 122
+      }
+    ]
+  },
+  {
+    "rawTitle": "the dark knight",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the dark knight",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 155,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "posterPath": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "score": 151
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 49026,
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "posterPath": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 123025,
+        "title": "Batman: The Dark Knight Returns, Part 1",
+        "year": 2012,
+        "posterPath": "/rVr2Tdp2LcL3DheXUrVN345Myhg.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 142061,
+        "title": "Batman: The Dark Knight Returns, Part 2",
+        "year": 2013,
+        "posterPath": "/d1TqoVkyL4x0dlu9w3F9Ah4LjNv.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 472027,
+        "title": "Batman: The Dark Knight Returns",
+        "year": 2013,
+        "posterPath": "/o07IwF9s1Ch9EnyV7jqJHQ3BorU.jpg",
+        "score": 114
+      }
+    ]
+  },
+  {
+    "rawTitle": "rampage",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "rampage",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 427641,
+        "title": "Rampage",
+        "year": 2018,
+        "posterPath": "/MGADip4thVSErP34FAAfzFBTZ5.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 38780,
+        "title": "Rampage",
+        "year": 2009,
+        "posterPath": "/xZZlA5obgTrQMyAF16yqCiVxHlO.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 99749,
+        "title": "Rampage",
+        "year": 1987,
+        "posterPath": "/oW6HqRb2DiyptApYUn527FkpgMw.jpg",
+        "score": 119
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 250388,
+        "title": "Rampage: Capital Punishment",
+        "year": 2014,
+        "posterPath": "/pd5OlT9fHCnlsFnIcCbJTDZsJvE.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 17288,
+        "title": "Rampage",
+        "year": 1986,
+        "posterPath": "/tONmdHmgZejrUA01CTg8VPD0MDl.jpg",
+        "score": 114
+      }
+    ]
+  },
+  {
+    "rawTitle": "fast & furious",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "fast & furious",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 13804,
+        "title": "Fast & Furious",
+        "year": 2009,
+        "posterPath": "/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 384018,
+        "title": "Fast & Furious Presents: Hobbs & Shaw",
+        "year": 2019,
+        "posterPath": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 82992,
+        "title": "Fast & Furious 6",
+        "year": 2013,
+        "posterPath": "/thSmnRdrzPBBospIOJjLZBReqzo.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 95594,
+        "title": "Fast & Furious Spy Racers",
+        "year": 2019,
+        "posterPath": "/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 169822,
+        "title": "Fast and Furious",
+        "year": 1939,
+        "posterPath": "/rdQrh59Gq0DX8OmoQeECUtBkoH5.jpg",
+        "score": 112
+      }
+    ]
+  },
+  {
+    "rawTitle": "the fast and the furious",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the fast and the furious",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 9799,
+        "title": "The Fast and the Furious",
+        "year": 2001,
+        "posterPath": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9615,
+        "title": "The Fast and the Furious: Tokyo Drift",
+        "year": 2006,
+        "posterPath": "/46xqGOwHbh2TH2avWSw3SMXph4E.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 337339,
+        "title": "The Fate of the Furious",
+        "year": 2017,
+        "posterPath": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 20174,
+        "title": "The Fast and the Furious",
+        "year": 1954,
+        "posterPath": "/731NMB4a85McIYcftPtbH4D3l5x.jpg",
+        "score": 117
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 13804,
+        "title": "Fast & Furious",
+        "year": 2009,
+        "posterPath": "/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
+        "score": 107
+      }
+    ]
+  },
+  {
+    "rawTitle": "my girl",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "my girl",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 4032,
+        "title": "My Girl",
+        "year": 1991,
+        "posterPath": "/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 417261,
+        "title": "Forever My Girl",
+        "year": 2018,
+        "posterPath": "/bKqdggnIPeOI15VqtBZTkvh4hA9.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11317,
+        "title": "My Girl 2",
+        "year": 1994,
+        "posterPath": "/hEZ6L72eBORRnoUxf4pip5U76pq.jpg",
+        "score": 119
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 6074,
+        "title": "My Girl",
+        "year": 2005,
+        "posterPath": "/72Su8fJNHMidt9wCcVWKkLJzHrS.jpg",
+        "score": 117
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 18486,
+        "title": "My Girl",
+        "year": 2003,
+        "posterPath": "/A2bnH1j5kOw0GvABqhMcE1AXsrf.jpg",
+        "score": 117
+      }
+    ]
+  },
+  {
+    "rawTitle": "annabelle",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "annabelle",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 250546,
+        "title": "Annabelle",
+        "year": 2014,
+        "posterPath": "/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg",
+        "score": 141
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 396422,
+        "title": "Annabelle: Creation",
+        "year": 2017,
+        "posterPath": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 521029,
+        "title": "Annabelle Comes Home",
+        "year": 2019,
+        "posterPath": "/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 19344,
+        "title": "Loving Annabelle",
+        "year": 2007,
+        "posterPath": "/a6p1Oexil6Z2XO5d1QVHR3F2OoM.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 13664,
+        "title": "Annabelle's Wish",
+        "year": 1997,
+        "posterPath": "/yuwl1H6qCdgOJVxuonYlBQviC5S.jpg",
+        "score": 112
+      }
+    ]
+  },
+  {
+    "rawTitle": "the conjuring",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the conjuring",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 138843,
+        "title": "The Conjuring",
+        "year": 2013,
+        "posterPath": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+        "score": 146
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 259693,
+        "title": "The Conjuring 2",
+        "year": 2016,
+        "posterPath": "/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 423108,
+        "title": "The Conjuring: The Devil Made Me Do It",
+        "year": 2021,
+        "posterPath": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1038392,
+        "title": "The Conjuring: Last Rites",
+        "year": 2025,
+        "posterPath": "/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 757844,
+        "title": "Faith & Fear: The Conjuring Universe",
+        "year": 2020,
+        "posterPath": "/ajNLUZtncJceVcrKjP8XTCVjIIQ.jpg",
+        "score": 97
+      }
+    ]
+  },
+  {
+    "rawTitle": "the princess diaries",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the princess diaries",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 9880,
+        "title": "The Princess Diaries",
+        "year": 2001,
+        "posterPath": "/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+        "score": 141
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11130,
+        "title": "The Princess Diaries 2: Royal Engagement",
+        "year": 2004,
+        "posterPath": "/upJOyrxxSIxlSZC7KEqJfB1vlGl.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 568604,
+        "title": "On the Set: The Princess Diaries 2 – Royal Engagement",
+        "year": 2004,
+        "posterPath": "/3DtpyLPhHHsh7dUw5QjVB7uvHsN.jpg",
+        "score": 103
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 298038,
+        "title": "The Princess Diaries",
+        "year": 2025,
+        "posterPath": "/wmSjKWUl93BOjrA4zq5NE7ccM7c.jpg",
+        "score": 101
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1077873,
+        "title": "The Princess Diaries 3",
+        "year": null,
+        "posterPath": "/mSV0iZxgPx9juCnVKT6QjcZy2rp.jpg",
+        "score": 92
+      }
+    ]
+  },
+  {
+    "rawTitle": "legally blonde",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "legally blonde",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 8835,
+        "title": "Legally Blonde",
+        "year": 2001,
+        "posterPath": "/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10327,
+        "title": "Legally Blonde 2: Red, White & Blonde",
+        "year": 2003,
+        "posterPath": "/4kC0UGTuJgFnlZq2ZM6OiY7nuY8.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 16985,
+        "title": "Legally Blondes",
+        "year": 2009,
+        "posterPath": "/wZnEw0avASZwBWcJo5F1pdJnmO2.jpg",
+        "score": 117
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 492541,
+        "title": "Legally Blonde",
+        "year": 2003,
+        "posterPath": "/z3u7hbjOv83kKbqRy4nhKv0yJrZ.jpg",
+        "score": 110
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 484847,
+        "title": "Legally Blonde: The Musical",
+        "year": 2007,
+        "posterPath": "/aMsXCqFTl3qttG5UX2ToM9kGJ2V.jpg",
+        "score": 107
+      }
+    ]
+  },
+  {
+    "rawTitle": "mean girls",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mean girls",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 10625,
+        "title": "Mean Girls",
+        "year": 2004,
+        "posterPath": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+        "score": 144
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 673593,
+        "title": "Mean Girls",
+        "year": 2024,
+        "posterPath": "/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 51481,
+        "title": "Mean Girls 2",
+        "year": 2011,
+        "posterPath": "/34zKHT98ZgSCz6ag1ZNBul7f1Wu.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 323220,
+        "title": "Mean Girls",
+        "year": 2006,
+        "posterPath": "/tq7tO4cfS54bAFsABWKcalcPmYN.jpg",
+        "score": 101
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 914676,
+        "title": "Gay Mean Girls",
+        "year": 2019,
+        "posterPath": "/kNPpZ9MbDzFjSyuLhO232NWVW2Y.jpg",
+        "score": 99
+      }
+    ]
+  },
+  {
+    "rawTitle": "pitch perfect",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "pitch perfect",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 114150,
+        "title": "Pitch Perfect",
+        "year": 2012,
+        "posterPath": "/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 254470,
+        "title": "Pitch Perfect 2",
+        "year": 2015,
+        "posterPath": "/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 353616,
+        "title": "Pitch Perfect 3",
+        "year": 2017,
+        "posterPath": "/v4tbRRX0OSOHcgz2869rEjcBwOJ.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 672337,
+        "title": "Pitch Perfect",
+        "year": 2005,
+        "posterPath": "/907b48wpw8uK68OlngqHsoBQYwD.jpg",
+        "score": 106
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 156332,
+        "title": "Pitch Perfect: Bumper in Berlin",
+        "year": 2022,
+        "posterPath": "/baM8owP74DXapHOc8awfZ5aw98z.jpg",
+        "score": 105
+      }
+    ]
+  },
+  {
+    "rawTitle": "suicide squad",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "suicide squad",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 297761,
+        "title": "Suicide Squad",
+        "year": 2016,
+        "posterPath": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+        "score": 147
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 436969,
+        "title": "The Suicide Squad",
+        "year": 2021,
+        "posterPath": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 487242,
+        "title": "Suicide Squad: Hell to Pay",
+        "year": 2018,
+        "posterPath": "/va1IgsZeWBbKLsZcFwz3CM1MkMu.jpg",
+        "score": 121
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 229926,
+        "title": "Suicide Squad Isekai",
+        "year": 2024,
+        "posterPath": "/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 193050,
+        "title": "Suicide Squad",
+        "year": 1935,
+        "posterPath": "/7rfdBBauJWI0oo5HWOac5h8l39J.jpg",
+        "score": 111
+      }
+    ]
+  },
+  {
+    "rawTitle": "jumanji",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "jumanji",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 8844,
+        "title": "Jumanji",
+        "year": 1995,
+        "posterPath": "/bdHG5Mo83VPobeZZdlSz0Y7HQHB.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 353486,
+        "title": "Jumanji: Welcome to the Jungle",
+        "year": 2017,
+        "posterPath": "/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 512200,
+        "title": "Jumanji: The Next Level",
+        "year": 2019,
+        "posterPath": "/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 2118,
+        "title": "Jumanji",
+        "year": 1996,
+        "posterPath": "/2s0v5wRdbJGBMrLHxr9WB2rPUJI.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1260649,
+        "title": "Jumanji: Open World",
+        "year": 2026,
+        "posterPath": "/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
+        "score": 93
+      }
+    ]
+  },
+  {
+    "rawTitle": "harry potter and the deathly hallows part 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "harry potter and the deathly hallows part 2",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 12445,
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "posterPath": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+        "score": 148
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 12444,
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "year": 2010,
+        "posterPath": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+        "score": 146
+      }
+    ]
+  },
+  {
+    "rawTitle": "harry potter and the deathly hallows part 1",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "harry potter and the deathly hallows part 1",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 12444,
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "year": 2010,
+        "posterPath": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+        "score": 148
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 12445,
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "posterPath": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+        "score": 146
+      }
+    ]
+  },
+  {
+    "rawTitle": "harry potter and the sorcerer's stone",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "harry potter and the sorcerer's stone",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 671,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "year": 2001,
+        "posterPath": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+        "score": 130
+      }
+    ]
+  },
+  {
+    "rawTitle": "it chapter 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "it chapter 2",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 474350,
+        "title": "It Chapter Two",
+        "year": 2019,
+        "posterPath": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 661289,
+        "title": "The Summers of It - Chapter Two: It Ends",
+        "year": 2019,
+        "posterPath": "/oXtw9zyoRtt1PiF6MSBNpSYSHRu.jpg",
+        "score": 48
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 244370,
+        "title": "DMD Friendship The Reality",
+        "year": 2023,
+        "posterPath": "/sfL2rOmWXOJQwjDS4lua4Z0HiqO.jpg",
+        "score": 33
+      }
+    ]
+  },
+  {
+    "rawTitle": "it",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "it",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 346364,
+        "title": "It",
+        "year": 2017,
+        "posterPath": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+        "score": 147
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 19614,
+        "title": "It",
+        "year": 1990,
+        "posterPath": "/4ybQ6gopB3H3cu0seVZLznDnIKo.jpg",
+        "score": 140
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 82690,
+        "title": "Wreck-It Ralph",
+        "year": 2012,
+        "posterPath": "/nrEupcBwf4O1zihCM34NoXusZDq.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 474350,
+        "title": "It Chapter Two",
+        "year": 2019,
+        "posterPath": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 270303,
+        "title": "It Follows",
+        "year": 2015,
+        "posterPath": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+        "score": 133
+      }
+    ]
+  },
+  {
+    "rawTitle": "how the grinch stole christmas",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "how the grinch stole christmas",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 8871,
+        "title": "How the Grinch Stole Christmas",
+        "year": 2000,
+        "posterPath": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 13377,
+        "title": "How the Grinch Stole Christmas!",
+        "year": 1966,
+        "posterPath": "/7ir0iRuPK9OEuH569cp0nF5CJce.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 360920,
+        "title": "The Grinch",
+        "year": 2018,
+        "posterPath": "/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 372205,
+        "title": "How the Grinch Stole Christmas!",
+        "year": 1992,
+        "posterPath": "/swvcmVEakFNZCZmIIjmcfi8ewyb.jpg",
+        "score": 110
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 240662,
+        "title": "How the Grinch Stole Christmas! Special Edition",
+        "year": 1994,
+        "posterPath": "/6FlRqU17FkKsL6sFL80qCaqgseo.jpg",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "rawTitle": "dolittle",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "dolittle",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 448119,
+        "title": "Dolittle",
+        "year": 2020,
+        "posterPath": "/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 3050,
+        "title": "Doctor Dolittle",
+        "year": 1998,
+        "posterPath": "/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10808,
+        "title": "Dr. Dolittle 2",
+        "year": 2001,
+        "posterPath": "/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 18843,
+        "title": "Dr. Dolittle 3",
+        "year": 2006,
+        "posterPath": "/mODEH6RuoL8s9ptF1Mbrq1Z6aYz.jpg",
+        "score": 119
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 16081,
+        "title": "Doctor Dolittle",
+        "year": 1967,
+        "posterPath": "/rViuZo27U8wcZHGuRliv9LfmhjV.jpg",
+        "score": 115
+      }
+    ]
+  },
+  {
+    "rawTitle": "birds of prey",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "birds of prey",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 495764,
+        "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "year": 2020,
+        "posterPath": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 1469,
+        "title": "Birds of Prey",
+        "year": 2002,
+        "posterPath": "/gXeFSST0xqy5XNgrbuEaa5BxvDM.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 163017,
+        "title": "Birds of Prey",
+        "year": 1968,
+        "posterPath": "/bpy4MtBb5tDVcKnmBAFdLPuIZz5.jpg",
+        "score": 118
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 104532,
+        "title": "Birds of Prey",
+        "year": 1987,
+        "posterPath": "/pxsBkLlWG5M1cjiC5fsXRF2NJZW.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 75116,
+        "title": "Birds of Prey",
+        "year": 1973,
+        "posterPath": "/iBG1HV53EQiJ7GJsXmOJvHCaOaF.jpg",
+        "score": 113
+      }
+    ]
+  },
+  {
+    "rawTitle": "after",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "after",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 537915,
+        "title": "After",
+        "year": 2019,
+        "posterPath": "/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 435,
+        "title": "The Day After Tomorrow",
+        "year": 2004,
+        "posterPath": "/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10192,
+        "title": "Shrek Forever After",
+        "year": 2010,
+        "posterPath": "/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 82700,
+        "title": "After Earth",
+        "year": 2013,
+        "posterPath": "/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1054867,
+        "title": "One Battle After Another",
+        "year": 2025,
+        "posterPath": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+        "score": 131
+      }
+    ]
+  },
+  {
+    "rawTitle": "culpa mia",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "culpa mia",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 1556888,
+        "title": "Culpa Mía",
+        "year": 2025,
+        "posterPath": "/1fU5OTHLNU7DHZ2XszpXqJw0p1F.jpg",
+        "score": 89
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1010581,
+        "title": "My Fault",
+        "year": 2023,
+        "posterPath": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "score": 52
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1397854,
+        "title": "The Love Scam",
+        "year": 2025,
+        "posterPath": "/kWBjdB6tP71ed4WTFxuqDZnWVk5.jpg",
+        "score": 46
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1294203,
+        "title": "My Fault: London",
+        "year": 2025,
+        "posterPath": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+        "score": 45
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 128067,
+        "title": "Not My Fault: Mexico",
+        "year": 2021,
+        "posterPath": "/xuMZp0ZADSi0HEEQkCDkhNXgQEP.jpg",
+        "score": 43
+      }
+    ]
+  },
+  {
+    "rawTitle": "culpa nuestra",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "culpa nuestra",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 1156594,
+        "title": "Our Fault",
+        "year": 2025,
+        "posterPath": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
+        "score": 56
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1477319,
+        "title": "Our Fault: London",
+        "year": null,
+        "posterPath": "/6UU7w9Fhh7rhN2Qx2j7ea76D2sJ.jpg",
+        "score": 14
+      }
+    ]
+  },
+  {
+    "rawTitle": "hairspray",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "hairspray",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 2976,
+        "title": "Hairspray",
+        "year": 2007,
+        "posterPath": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+        "score": 137
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11054,
+        "title": "Hairspray",
+        "year": 1988,
+        "posterPath": "/n78VVWG1jsEpMCtcye13wy1RiAx.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 409447,
+        "title": "Hairspray Live!",
+        "year": 2016,
+        "posterPath": "/3T1u2DzwfDUd5iMNw4gqFWQx3P2.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1221823,
+        "title": "You Can’t Stop the Beat: The Long Journey of \"Hairspray\"",
+        "year": 2007,
+        "posterPath": "/54fYD4lcbs5rRx0ybz1IxeJ2h10.jpg",
+        "score": 94
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1611773,
+        "title": "Rimbom Hairspray™",
+        "year": 2026,
+        "posterPath": "/gjB9IxBhBJnprWza8PUd1GxzfAs.jpg",
+        "score": 91
+      }
+    ]
+  },
+  {
+    "rawTitle": "not me",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "not me",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 122015,
+        "title": "Not Me",
+        "year": 2021,
+        "posterPath": "/aIkQnUsDEKRr3gS1TuYZ1b8mDxC.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 68188,
+        "title": "Kiss Him, Not Me",
+        "year": 2016,
+        "posterPath": "/aFjVWEAK2CZVGqUCFZjktqErWbh.jpg",
+        "score": 118
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 62066,
+        "title": "Ask God For Forgiveness... Not Me",
+        "year": 2015,
+        "posterPath": "/lTDYAgwRjUM6w4jmHiLJCKjLq5e.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 882178,
+        "title": "Not Me",
+        "year": 2018,
+        "posterPath": "/a5DnFbQArwzTYyuwRPEsbwvKE63.jpg",
+        "score": 111
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 120206,
+        "title": "Not Me",
+        "year": 2016,
+        "posterPath": "/obt740cFCTegnZaBCnt9NoN7XFm.jpg",
+        "score": 104
+      }
+    ]
+  },
+  {
+    "rawTitle": "the crusades",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the crusades",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 58905,
+        "title": "The Crusades",
+        "year": 1935,
+        "posterPath": "/ecuUhbDcNHqGQCvDgUVxULfdwKj.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 49321,
+        "title": "Brancaleone at the Crusades",
+        "year": 1970,
+        "posterPath": "/7iML7nTQ7uZTaZQlkZwdNcCLLm5.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 846185,
+        "title": "The Crusades",
+        "year": 2023,
+        "posterPath": "/9KmpWiZGKVCmrWKqsTun47LuKSw.jpg",
+        "score": 112
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 78016,
+        "title": "The Crusades",
+        "year": 2012,
+        "posterPath": "/wHqSf8K3iTKvgds4QUoktj56VLg.jpg",
+        "score": 107
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1156150,
+        "title": "The Crusades",
+        "year": 2012,
+        "posterPath": "/rGl4LhKgB1lhSZ1GTqd1thUPPVn.jpg",
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "fresh",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "fresh",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 787752,
+        "title": "Fresh",
+        "year": 2022,
+        "posterPath": "/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 1892,
+        "title": "The Fresh Prince of Bel-Air",
+        "year": 1990,
+        "posterPath": "/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 13815,
+        "title": "Fresh",
+        "year": 1994,
+        "posterPath": "/uXRIIUzjDZZdWR2cUzPJ9eAqaHv.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 61692,
+        "title": "Fresh Off the Boat",
+        "year": 2015,
+        "posterPath": "/o8ekdtv98EnrymVLw3VJ2WoFBoM.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 40632,
+        "title": "Fresh Meat",
+        "year": 2011,
+        "posterPath": "/hXYuLWNrUIOt7j2BGruBS4JnCc9.jpg",
+        "score": 114
+      }
+    ]
+  },
+  {
+    "rawTitle": "ready or not",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "ready or not",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 567609,
+        "title": "Ready or Not",
+        "year": 2019,
+        "posterPath": "/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1266127,
+        "title": "Ready or Not: Here I Come",
+        "year": 2026,
+        "posterPath": "/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 35236,
+        "title": "Ready or Not",
+        "year": 2009,
+        "posterPath": "/iK75Hk1xMGVA05GSO6Jqr748zye.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 9765,
+        "title": "Ready or Not",
+        "year": 1993,
+        "posterPath": "/iv36IGU59LkW2zwWO11wBfbiuup.jpg",
+        "score": 111
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 273508,
+        "title": "Ready or Not",
+        "year": 2012,
+        "posterPath": "/BKfbVjtyznlU9NZpVTJ3iCN3Hq.jpg",
+        "score": 108
+      }
+    ]
+  },
+  {
+    "rawTitle": "the grudge",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the grudge",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 1970,
+        "title": "The Grudge",
+        "year": 2004,
+        "posterPath": "/7vPAVPKYexQVmvC578wPLn2CGCL.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 465086,
+        "title": "The Grudge",
+        "year": 2019,
+        "posterPath": "/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1975,
+        "title": "The Grudge 2",
+        "year": 2006,
+        "posterPath": "/oHLeYXqA8P0jVIY2C8kQFyQTzkr.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11838,
+        "title": "Ju-on: The Grudge",
+        "year": 2002,
+        "posterPath": "/6q1hlBC6rudc3mHwXsbMBR2xAT6.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1977,
+        "title": "The Grudge 3",
+        "year": 2009,
+        "posterPath": "/uEOWWRr8BbgPM0BiJiSTwHGaRx4.jpg",
+        "score": 121
+      }
+    ]
+  },
+  {
+    "rawTitle": "american pie",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "american pie",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 2105,
+        "title": "American Pie",
+        "year": 1999,
+        "posterPath": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 2770,
+        "title": "American Pie 2",
+        "year": 2001,
+        "posterPath": "/854ZZxXdeabAs90mrV72NqShJqR.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 8274,
+        "title": "American Pie Presents: Band Camp",
+        "year": 2005,
+        "posterPath": "/6BgKeWEGROpWwEWvpw7vwfTCr9C.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 8275,
+        "title": "American Pie Presents: The Naked Mile",
+        "year": 2006,
+        "posterPath": "/6CPJVJrqVjibP5Uub8yCg4FKtJi.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 8277,
+        "title": "American Pie Presents: Beta House",
+        "year": 2007,
+        "posterPath": "/j7eGbwVb9hTaRFWMlSa7C1OYp3T.jpg",
+        "score": 126
+      }
+    ]
+  },
+  {
+    "rawTitle": "baby girl",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "baby girl",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 609247,
+        "title": "Baby Girl",
+        "year": 2018,
+        "posterPath": "/lmkxXDKdWgonJ9vZlYPZhq663te.jpg",
+        "score": 113
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1101020,
+        "title": "Baby Girl",
+        "year": 2026,
+        "posterPath": "/nEyEFVdlmUdapDl77704aR8o59D.jpg",
+        "score": 110
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 906459,
+        "title": "Baby Girl",
+        "year": 2021,
+        "posterPath": null,
+        "score": 101
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1723426,
+        "title": "Baby Girl",
+        "year": 2026,
+        "posterPath": "/5N1r0KMAkWSsKeJrqFlfDFDZsi.jpg",
+        "score": 101
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1308836,
+        "title": "Baby Girl",
+        "year": null,
+        "posterPath": null,
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "legion",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "legion",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 22894,
+        "title": "Legion",
+        "year": 2010,
+        "posterPath": "/ykocDqwg5PRUopnBVb1x1DWnEJF.jpg",
+        "score": 138
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 67195,
+        "title": "Legion",
+        "year": 2017,
+        "posterPath": "/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 9703,
+        "title": "The Last Legion",
+        "year": 2007,
+        "posterPath": "/k2jaEoOsTEMqSskBJm3gfcuxNEc.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 45326,
+        "title": "Legion",
+        "year": 1998,
+        "posterPath": "/9ro4BujCD9aFaTI1YMH76Fj9Fgr.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 631939,
+        "title": "The Legion",
+        "year": 2020,
+        "posterPath": "/6ssoBXQOxNhrsGJoM6Tcvm57V79.jpg",
+        "score": 114
+      }
+    ]
+  },
+  {
+    "rawTitle": "inheritance",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "inheritance",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 602147,
+        "title": "Inheritance",
+        "year": 2020,
+        "posterPath": "/rEpfvgTQsc768zNND0SjMelbnLH.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1279433,
+        "title": "Inheritance",
+        "year": 2024,
+        "posterPath": "/A4UklDW0DYytzK5aydQIM3vw4dL.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1297860,
+        "title": "Inheritance",
+        "year": 2025,
+        "posterPath": "/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 449755,
+        "title": "Christmas Inheritance",
+        "year": 2017,
+        "posterPath": "/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg",
+        "score": 121
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 500203,
+        "title": "Inheritance",
+        "year": 2017,
+        "posterPath": "/cZp9SGcM6tnGjZGVafEpHaojhhs.jpg",
+        "score": 114
+      }
+    ]
+  },
+  {
+    "rawTitle": "meg",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "meg",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 345940,
+        "title": "The Meg",
+        "year": 2018,
+        "posterPath": "/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 615656,
+        "title": "Meg 2: The Trench",
+        "year": 2023,
+        "posterPath": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 34341,
+        "title": "Little Meg the Witch Girl",
+        "year": 1974,
+        "posterPath": "/gJ434mcyBvyN0gQY5t27hBV1kvA.jpg",
+        "score": 101
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 195370,
+        "title": "A Séf meg a többiek",
+        "year": 2022,
+        "posterPath": "/1IJTdOn84rrOxN2L09Su52su0ZQ.jpg",
+        "score": 98
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 203354,
+        "title": "Lik meg",
+        "year": 2018,
+        "posterPath": "/qKLJskQJpjdR4kKNtnHjPcf1Y9y.jpg",
+        "score": 97
+      }
+    ]
+  },
+  {
+    "rawTitle": "spinal tap",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "spinal tap",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 11031,
+        "title": "This Is Spinal Tap",
+        "year": 1984,
+        "posterPath": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 975225,
+        "title": "Spinal Tap II: The End Continues",
+        "year": 2025,
+        "posterPath": "/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
+        "score": 112
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 67872,
+        "title": "A Spinal Tap Reunion: The 25th Anniversary London Sell-Out",
+        "year": 1992,
+        "posterPath": "/btDOwB73yQaktnPNFtgJwJdhm5V.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 401459,
+        "title": "Spinal Tap: The Final Tour",
+        "year": 1981,
+        "posterPath": "/dAbPxCixKafoi21XKwKro1E3gug.jpg",
+        "score": 100
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 70725,
+        "title": "Spinal Tap: Back from the Dead",
+        "year": 2009,
+        "posterPath": "/swU9ysUhpZnLsGeNyQV96wUeLX3.jpg",
+        "score": 96
+      }
+    ]
+  },
+  {
+    "rawTitle": "camp rock",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "camp rock",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 13655,
+        "title": "Camp Rock",
+        "year": 2008,
+        "posterPath": "/7IXMqZnwccogptThay3togKIFWw.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 44244,
+        "title": "Camp Rock 2: The Final Jam",
+        "year": 2010,
+        "posterPath": "/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1493400,
+        "title": "Camp Rock 3",
+        "year": 2026,
+        "posterPath": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+        "score": 115
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 98980,
+        "title": "Camp rock",
+        "year": 2020,
+        "posterPath": null,
+        "score": 101
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1753744,
+        "title": "Camp Rock",
+        "year": null,
+        "posterPath": null,
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "high fidelity",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "high fidelity",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 243,
+        "title": "High Fidelity",
+        "year": 2000,
+        "posterPath": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 96734,
+        "title": "High Fidelity",
+        "year": 2020,
+        "posterPath": "/6OTZ66ZlJvOVb5A8ALiPzTD0n3H.jpg",
+        "score": 127
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 361546,
+        "title": "High Fidelity",
+        "year": 1982,
+        "posterPath": null,
+        "score": 106
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 373690,
+        "title": "High Fidelity",
+        "year": 1976,
+        "posterPath": "/kOjata8nVVD73CbXM1MabTcsFOk.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1694469,
+        "title": "High Fidelity",
+        "year": null,
+        "posterPath": null,
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "the rookie",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "the rookie",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 79744,
+        "title": "The Rookie",
+        "year": 2018,
+        "posterPath": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 6723,
+        "title": "The Rookie",
+        "year": 1990,
+        "posterPath": "/pr37i12Qe1gGxMBf6GTIDZvfFIT.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 14635,
+        "title": "The Rookie",
+        "year": 2002,
+        "posterPath": "/gNmLsseIs6thkBKne91iQZDGyBT.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 201992,
+        "title": "The Rookie: Feds",
+        "year": 2022,
+        "posterPath": "/ttqpW20UVabyy8DQFWe56ov1JHS.jpg",
+        "score": 115
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1191666,
+        "title": "The Rookie Guide",
+        "year": 2025,
+        "posterPath": "/fSxrzckEOWAFBBPwt9X4AHfVEA7.jpg",
+        "score": 110
+      }
+    ]
+  },
+  {
+    "rawTitle": "la casa de papel",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "la casa de papel",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 71446,
+        "title": "Money Heist",
+        "year": 2017,
+        "posterPath": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "score": 60
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 689249,
+        "title": "Money Heist: The Phenomenon",
+        "year": 2020,
+        "posterPath": "/AboUXTrDWEi0PuZUqaft0iwBTm7.jpg",
+        "score": 59
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 112836,
+        "title": "Money Heist: Korea - Joint Economic Area",
+        "year": 2022,
+        "posterPath": "/mbsRGqJtdKcVbjQxkrfzKCAkYoU.jpg",
+        "score": 50
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 308014,
+        "title": "Berlin and the Lady with an Ermine",
+        "year": 2026,
+        "posterPath": "/sTumew0Q01ZHmFneA9cJRi3QUYC.jpg",
+        "score": 48
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 132719,
+        "title": "Money Heist: From Tokyo to Berlin",
+        "year": 2021,
+        "posterPath": "/7YuQcbPXgk6CP75TOeCY4VGkJgt.jpg",
+        "score": 45
+      }
+    ]
+  },
+  {
+    "rawTitle": "the office",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "the office",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 2316,
+        "title": "The Office",
+        "year": 2005,
+        "posterPath": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+        "score": 144
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 2996,
+        "title": "The Office",
+        "year": 2001,
+        "posterPath": "/oX2JKE1RzAONMbYlujHx0hRAJo1.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 256480,
+        "title": "The Office",
+        "year": 2024,
+        "posterPath": "/wVS8a4sJmD9sP4NOo6qr4PTnlF9.jpg",
+        "score": 119
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 49097,
+        "title": "The Office",
+        "year": 1966,
+        "posterPath": "/8eK9f7mfG2ZZVDvOlW97kF6JGp6.jpg",
+        "score": 118
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 90762,
+        "title": "The Office",
+        "year": 2019,
+        "posterPath": "/p61QSlJor7edi2DJIH0jFL3whfa.jpg",
+        "score": 112
+      }
+    ]
+  },
+  {
+    "rawTitle": "gossip girls",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "gossip girl",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 1395,
+        "title": "Gossip Girl",
+        "year": 2007,
+        "posterPath": "/mRvSUuU1VQQkZZ578jKJpcUCuL8.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 95249,
+        "title": "Gossip Girl",
+        "year": 2021,
+        "posterPath": "/4XmRg3iF1drIikTzRLUfn7cJDio.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 658697,
+        "title": "Gossip Girl",
+        "year": 2019,
+        "posterPath": "/6zQgRxw96IjjJMyzWDj4ihJ5kRD.jpg",
+        "score": 109
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 233603,
+        "title": "Gossip Girl: Thailand",
+        "year": 2015,
+        "posterPath": "/siZzBwlS2aXiu7KP85TCqFK3awC.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 61918,
+        "title": "Gossip Girl: Acapulco",
+        "year": 2013,
+        "posterPath": "/sT16l6YtagTj71oUk3QXVP1s7Bw.jpg",
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "jeffrey dahmer",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "jeffrey dahmer",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 113988,
+        "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
+        "year": 2022,
+        "posterPath": "/f2PVrphK0u81ES256lw3oAZuF3x.jpg",
+        "score": 129
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 209167,
+        "title": "Conversations with a Killer: The Jeffrey Dahmer Tapes",
+        "year": 2022,
+        "posterPath": "/hsdNCScC2rk23fLuHNNgBXtI891.jpg",
+        "score": 117
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 97686,
+        "title": "The Jeffrey Dahmer Files",
+        "year": 2013,
+        "posterPath": "/bLSI26TOpRx0tMyjlRQzTO2aUWF.jpg",
+        "score": 108
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 709100,
+        "title": "Jeffrey Dahmer: Mind of a Monster",
+        "year": 2020,
+        "posterPath": "/vCmNUwWs7byoKyXunErYNTHol2T.jpg",
+        "score": 104
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 905082,
+        "title": "Fresh Meat: Jeffrey Dahmer",
+        "year": 2021,
+        "posterPath": "/2662h27zUEQiSYag1I1NTsb88qt.jpg",
+        "score": 102
+      }
+    ]
+  },
+  {
+    "rawTitle": "full house",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "full house",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 4313,
+        "title": "Full House",
+        "year": 1987,
+        "posterPath": "/7g0EyKsIaYjYw3gCIBKMHHE0Kcu.jpg",
+        "score": 136
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 3504,
+        "title": "Full House",
+        "year": 2004,
+        "posterPath": "/9V5lJ1z3sEsrEJXXFN8pzlMRd7D.jpg",
+        "score": 122
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 487004,
+        "title": "The Full House",
+        "year": 2018,
+        "posterPath": "/fE5eOWDf110gx7iobA1iXMQPBS6.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 318208,
+        "title": "Full House",
+        "year": 1952,
+        "posterPath": "/7NIePbQ6VH9UMoqa15O6fb4hhbu.jpg",
+        "score": 112
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 61061,
+        "title": "Full House",
+        "year": 2014,
+        "posterPath": "/4DRaoshRsVqTPADToU1OC5Qxezt.jpg",
+        "score": 110
+      }
+    ]
+  },
+  {
+    "rawTitle": "brooklyn 99",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "brooklyn 99",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 48891,
+        "title": "Brooklyn Nine-Nine",
+        "year": 2013,
+        "posterPath": "/mpjlDzVjp7oyHUe2LaF9ltKe6f1.jpg",
+        "score": 92
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1007125,
+        "title": "Goodbye Brooklyn Nine-Nine",
+        "year": 2022,
+        "posterPath": "/vyyAE2xnqJ6DxQMRYYwIFuk5EFr.jpg",
+        "score": 47
+      }
+    ]
+  },
+  {
+    "rawTitle": "teen wolf",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "teen wolf",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 34524,
+        "title": "Teen Wolf",
+        "year": 2011,
+        "posterPath": "/wjKBTcNy1xihmExqJI8kM2qvavP.jpg",
+        "score": 142
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 11824,
+        "title": "Teen Wolf",
+        "year": 1985,
+        "posterPath": "/bv9rY9eoue2Hat6tcvrKVQ0ow8v.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 877703,
+        "title": "Teen Wolf: The Movie",
+        "year": 2023,
+        "posterPath": "/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 15582,
+        "title": "Teen Wolf Too",
+        "year": 1987,
+        "posterPath": "/unfbmoUTIsQzQF09RJZVN1GKr6b.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 10823,
+        "title": "Teen Wolf",
+        "year": 1986,
+        "posterPath": "/iFPVcdkYhx34E1JPOkCPknX1dt5.jpg",
+        "score": 115
+      }
+    ]
+  },
+  {
+    "rawTitle": "friends",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "friends",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 1668,
+        "title": "Friends",
+        "year": 1994,
+        "posterPath": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+        "score": 146
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 50544,
+        "title": "Friends with Benefits",
+        "year": 2011,
+        "posterPath": "/nKhhDFCdzxeJ3GUunQ570LDpUkz.jpg",
+        "score": 132
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10033,
+        "title": "Just Friends",
+        "year": 2005,
+        "posterPath": "/lh2EUTVOcESkdEOcsjYEW6qS1U0.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 691179,
+        "title": "Friends: The Reunion",
+        "year": 2021,
+        "posterPath": "/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 1126,
+        "title": "Happy Tree Friends",
+        "year": 1999,
+        "posterPath": "/2rYqJg1OzaDlc5kiBK4IdgrELMf.jpg",
+        "score": 122
+      }
+    ]
+  },
+  {
+    "rawTitle": "super store",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "super store",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 8536,
+        "title": "Superman II",
+        "year": 1980,
+        "posterPath": "/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+        "score": 83
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 20007,
+        "title": "The Bugs Bunny/Road Runner Movie",
+        "year": 1979,
+        "posterPath": "/5fogEHQJvyVkqk1R9ZzVyxtT5gH.jpg",
+        "score": 44
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 39101,
+        "title": "Dragon Ball Z: The Tree of Might",
+        "year": 1990,
+        "posterPath": "/fDX4Dp8IKvjBAaEb5MOJrGkxWX0.jpg",
+        "score": 43
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 227783,
+        "title": "The Nut Job",
+        "year": 2014,
+        "posterPath": "/4iHnGlmOjAj2k5zUftYDIzSITCf.jpg",
+        "score": 42
+      }
+    ]
+  },
+  {
+    "rawTitle": "the a list",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "the a list",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 85427,
+        "title": "The A List",
+        "year": 2018,
+        "posterPath": "/dbYZv30YGh0bwCNslXkw0NFHTpy.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 46952,
+        "title": "The Blacklist",
+        "year": 2013,
+        "posterPath": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "score": 111
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 338157,
+        "title": "The A-List",
+        "year": 2015,
+        "posterPath": "/zBRxhdMJ1btHgQlTz4X8sVRV8bB.jpg",
+        "score": 103
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1151344,
+        "title": "The List",
+        "year": 2023,
+        "posterPath": "/i0MdxxoNAzuANVnZkZcD15W1d5d.jpg",
+        "score": 101
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 14600,
+        "title": "The List",
+        "year": 2007,
+        "posterPath": "/1LgBFdLKTZQwquWcQZHYTRE27ib.jpg",
+        "score": 95
+      }
+    ]
+  },
+  {
+    "rawTitle": "sex and the city",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "sex and the city",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 105,
+        "title": "Sex and the City",
+        "year": 1998,
+        "posterPath": "/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 4564,
+        "title": "Sex and the City",
+        "year": 2008,
+        "posterPath": "/AhNfnsGW95RKHQNLdgFH48UN0Zy.jpg",
+        "score": 137
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 37786,
+        "title": "Sex and the City 2",
+        "year": 2010,
+        "posterPath": "/iHSRxhZsPaVuLCivvV6WEkMVGWU.jpg",
+        "score": 125
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1394481,
+        "title": "Sex and the City: A Farewell",
+        "year": null,
+        "posterPath": "/wr3Q6OBveXXYPywSyvZGb7XtDNp.jpg",
+        "score": 96
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1713906,
+        "title": "The Making of 'Sex and the City'",
+        "year": null,
+        "posterPath": "/3e0iYFNJNbE2uuAzaDzfQaJ1WBz.jpg",
+        "score": 91
+      }
+    ]
+  },
+  {
+    "rawTitle": "joey",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "joey",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 1466,
+        "title": "Joey",
+        "year": 2004,
+        "posterPath": "/blRfxDT7M4anCPXsC0aEeFfyvSs.jpg",
+        "score": 130
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 102909,
+        "title": "Joey",
+        "year": 1997,
+        "posterPath": "/mSH5d9iSKMbYwHP01IfHghqH5vl.jpg",
+        "score": 115
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 31936,
+        "title": "Melissa & Joey",
+        "year": 2010,
+        "posterPath": "/fTl1DSKH2VP5o70b44wsYJLn1xP.jpg",
+        "score": 114
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 33734,
+        "title": "Pal Joey",
+        "year": 1957,
+        "posterPath": "/5vWaDXDBxEv9ahwF8aSigbC0ADy.jpg",
+        "score": 111
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 27212,
+        "title": "A Bullet for Joey",
+        "year": 1955,
+        "posterPath": "/jiZ1sTbtNlTMv0q7gaxDfSGqCep.jpg",
+        "score": 106
+      }
+    ]
+  },
+  {
+    "rawTitle": "cruel intentions",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "cruel intentions",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 796,
+        "title": "Cruel Intentions",
+        "year": 1999,
+        "posterPath": "/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+        "score": 139
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 228528,
+        "title": "Cruel Intentions",
+        "year": 2024,
+        "posterPath": "/tWtcyehBCO9fksIj30pdtVldntw.jpg",
+        "score": 124
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 5458,
+        "title": "Cruel Intentions 2",
+        "year": 2000,
+        "posterPath": "/soO0nrnh9lEdTgGFBT0IIvejwcK.jpg",
+        "score": 119
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 5460,
+        "title": "Cruel Intentions 3",
+        "year": 2004,
+        "posterPath": "/pxjJf3QnZxe3EO8NuwEeK0Yldcd.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1307983,
+        "title": "Cruel Intentions",
+        "year": 2016,
+        "posterPath": "/rDWIknCzqcACJrl1wFSO8bEQ6Ey.jpg",
+        "score": 106
+      }
+    ]
+  },
+  {
+    "rawTitle": "the good cop",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "the good cop",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 80308,
+        "title": "The Good Cop",
+        "year": 2018,
+        "posterPath": "/dksu4Xhq5HE6MuR0NQdvxef6v35.jpg",
+        "score": 120
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 4991,
+        "title": "The Good Cop",
+        "year": 2004,
+        "posterPath": "/1OuBPvfEAWBRxg4NsU2KOn0xR2O.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 85308,
+        "title": "The Good Cop",
+        "year": 2015,
+        "posterPath": "/avwSEIwYCewXf8MCvDSqsIxSgEq.jpg",
+        "score": 110
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 119371,
+        "title": "Ron Iddles: The Good Cop",
+        "year": 2019,
+        "posterPath": "/b5BqNODyuUmgifog0IGpNcGYUu8.jpg",
+        "score": 96
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 425501,
+        "title": "The Good Cop Routine",
+        "year": 2016,
+        "posterPath": null,
+        "score": 93
+      }
+    ]
+  },
+  {
+    "rawTitle": "cruel summer",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "cruel summer",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 98201,
+        "title": "Cruel Summer",
+        "year": 2021,
+        "posterPath": "/x7CMVS7kjWJFdt1wdtj5rdvTwss.jpg",
+        "score": 128
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 384452,
+        "title": "Cruel Summer",
+        "year": 2016,
+        "posterPath": "/99ClkvkRfI4BaHO1eNO3bnnxRl5.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 122232,
+        "title": "Cruel Summer",
+        "year": 2012,
+        "posterPath": "/iYYd0F0s8OlZ46wt1jYHNoNZTYs.jpg",
+        "score": 107
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 890348,
+        "title": "Cruel Summer",
+        "year": 2021,
+        "posterPath": "/gMjZiErjL3omXgvvoXGeB4qHvkr.jpg",
+        "score": 106
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1134401,
+        "title": "Sequel: Cruel Summer - Part II",
+        "year": 2022,
+        "posterPath": "/p3VHUAfxSL5GMyUAZtI12Mqe5GD.jpg",
+        "score": 96
+      }
+    ]
+  },
+  {
+    "rawTitle": "sherlock",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "sherlock",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 19885,
+        "title": "Sherlock",
+        "year": 2010,
+        "posterPath": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+        "score": 143
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 10528,
+        "title": "Sherlock Holmes",
+        "year": 2009,
+        "posterPath": "/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
+        "score": 135
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 58574,
+        "title": "Sherlock Holmes: A Game of Shadows",
+        "year": 2011,
+        "posterPath": "/2HsHurlnTOyU6yUS14gY6BQCyRs.jpg",
+        "score": 133
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 379170,
+        "title": "Sherlock: The Abominable Bride",
+        "year": 2016,
+        "posterPath": "/hibE8cyZs2Bm0o4WaWd1pppvjO2.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 992,
+        "title": "Sherlock Jr.",
+        "year": 1924,
+        "posterPath": "/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+        "score": 123
+      }
+    ]
+  },
+  {
+    "rawTitle": "one day at a time",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "one day at a time",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 69017,
+        "title": "One Day at a Time",
+        "year": 2017,
+        "posterPath": "/yiQcmPm6pTYyAAp3Q9Ge2xMkf8b.jpg",
+        "score": 126
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 2191,
+        "title": "One Day at a Time",
+        "year": 1975,
+        "posterPath": "/zheJWmmDRUYuApz83ZVrrPUjL2F.jpg",
+        "score": 123
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1066435,
+        "title": "One Day at A Time",
+        "year": null,
+        "posterPath": "/9C9GaEWwc4Gmj6VFw0sakfIU9la.jpg",
+        "score": 101
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 995340,
+        "title": "One Day at a Time",
+        "year": 2022,
+        "posterPath": "/jcy1SUJ6th1bNiHVjfm4MqV9a8y.jpg",
+        "score": 101
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 750214,
+        "title": "One Day at a Time",
+        "year": 1977,
+        "posterPath": "/fCi1osgj9mUPPp7G54HBrobkHUw.jpg",
+        "score": 101
+      }
+    ]
+  },
+  {
+    "rawTitle": "entourage",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "entourage",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 188222,
+        "title": "Entourage",
+        "year": 2015,
+        "posterPath": "/28dqsx1jCxhR05DfH35ui13ywNZ.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 1940,
+        "title": "Entourage",
+        "year": 2004,
+        "posterPath": "/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg",
+        "score": 134
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 67277,
+        "title": "Entourage",
+        "year": 2016,
+        "posterPath": "/aU1FZ6kg3O3WKUpaIyQ57VCJPQU.jpg",
+        "score": 112
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 826057,
+        "title": "Senior Entourage",
+        "year": 2021,
+        "posterPath": "/A6CoteSEqxSLoZlyzTN0iqiKrce.jpg",
+        "score": 94
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 300218,
+        "title": "Hitler's Entourage",
+        "year": 2025,
+        "posterPath": "/eo3csRgkBJoJWzm1kiNGV0j8K76.jpg",
+        "score": 94
+      }
+    ]
+  },
+  {
+    "rawTitle": "the diplomat",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "the diplomat",
+    "upcomingFlag": false,
+    "status": "ambiguous",
+    "candidates": [
+      {
+        "mediaType": "tv",
+        "tmdbId": 203857,
+        "title": "The Diplomat",
+        "year": 2023,
+        "posterPath": "/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
+        "score": 131
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1147546,
+        "title": "The Diplomat",
+        "year": 2025,
+        "posterPath": "/uwl9Y4px8TTIQK4N19k6gnW1RnX.jpg",
+        "score": 118
+      },
+      {
+        "mediaType": "tv",
+        "tmdbId": 203762,
+        "title": "The Diplomat",
+        "year": 2023,
+        "posterPath": "/ePknauaRbj3fSzyVRt9CIs6So7y.jpg",
+        "score": 116
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 44135,
+        "title": "The Diplomat",
+        "year": 2009,
+        "posterPath": "/q3bkhe5Y2Saf9vwjUY7tJKf7qyE.jpg",
+        "score": 115
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 333820,
+        "title": "The Diplomat",
+        "year": 2015,
+        "posterPath": "/6JhTuQwNPICVKCMsPQHCpJUFGOc.jpg",
+        "score": 111
+      }
+    ]
+  },
+  {
+    "rawTitle": "the legend of taraza",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the legend of taraza",
+    "upcomingFlag": false,
+    "status": "unresolved",
+    "candidates": []
+  },
+  {
+    "rawTitle": "culpa tuya",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "culpa tuya",
+    "upcomingFlag": false,
+    "status": "unresolved",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 1156593,
+        "title": "Your Fault",
+        "year": 2024,
+        "posterPath": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "score": 46
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1477317,
+        "title": "Your Fault: London",
+        "year": 2026,
+        "posterPath": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+        "score": 44
+      },
+      {
+        "mediaType": "movie",
+        "tmdbId": 1112811,
+        "title": "Tuya es la culpa",
+        "year": 1926,
+        "posterPath": "/tyDoqhuUEWyE6lQn76MHNrUDQ4e.jpg",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "rawTitle": "el amor tiene dos caras",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "el amor tiene dos caras",
+    "upcomingFlag": false,
+    "status": "unresolved",
+    "candidates": [
+      {
+        "mediaType": "movie",
+        "tmdbId": 25189,
+        "title": "The Mirror Has Two Faces",
+        "year": 1996,
+        "posterPath": "/ekk8MKMp3tlJjcMuhOgKsMCRrvR.jpg",
+        "score": 53
+      }
+    ]
+  },
+  {
+    "rawTitle": "meg 3: sea of shadows",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "meg 3: sea of shadows",
+    "upcomingFlag": false,
+    "status": "unresolved",
+    "candidates": []
+  }
+]

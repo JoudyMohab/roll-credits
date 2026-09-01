@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/ticket.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#F3EDE3" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#17120F" media="(prefers-color-scheme: dark)" />
+    <meta name="description" content="ROLL CREDITS — things i swear i'll watch eventually. A personal cinema archive for movies and shows." />
+    <title>ROLL CREDITS</title>
+    <script>
+      (function () {
+        try {
+          var pref = localStorage.getItem('rollcredits.theme');
+          if (pref === 'light' || pref === 'dark') {
+            document.documentElement.classList.add(pref);
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,500;1,9..144,600&family=Inter:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

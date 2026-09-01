@@ -1,0 +1,7158 @@
+[
+  {
+    "rawTitle": "after we fell",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "after we fell",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 744275,
+    "title": "After We Fell",
+    "year": 2021,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "after we fell"
+    ]
+  },
+  {
+    "rawTitle": "after ever happy",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "after ever happy",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 744276,
+    "title": "After Ever Happy",
+    "year": 2022,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "after ever happy"
+    ]
+  },
+  {
+    "rawTitle": "the 40 year old virgin",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the 40 year old virgin",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 6957,
+    "title": "The 40 Year-Old Virgin",
+    "year": 2005,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the 40 year old virgin"
+    ]
+  },
+  {
+    "rawTitle": "the breakfast club",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the breakfast club",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 2108,
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the breakfast club"
+    ]
+  },
+  {
+    "rawTitle": "me earl and the dying girl",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "me earl and the dying girl",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 308369,
+    "title": "Me and Earl and the Dying Girl",
+    "year": 2015,
+    "genreIds": [
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "me earl and the dying girl"
+    ]
+  },
+  {
+    "rawTitle": "forever my girl",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "forever my girl",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 417261,
+    "title": "Forever My Girl",
+    "year": 2018,
+    "genreIds": [
+      10749,
+      18,
+      10402
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "forever my girl"
+    ]
+  },
+  {
+    "rawTitle": "the fault in our stars",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the fault in our stars",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 222935,
+    "title": "The Fault in Our Stars",
+    "year": 2014,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the fault in our stars"
+    ]
+  },
+  {
+    "rawTitle": "everything, everything",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "everything, everything",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 417678,
+    "title": "Everything, Everything",
+    "year": 2017,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "everything, everything"
+    ]
+  },
+  {
+    "rawTitle": "how to lose a guy in 10 days",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "how to lose a guy in 10 days",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 9919,
+    "title": "How to Lose a Guy in 10 Days",
+    "year": 2003,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "how to lose a guy in 10 days"
+    ]
+  },
+  {
+    "rawTitle": "isnt it romantic",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "isn't it romantic",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 449563,
+    "title": "Isn't It Romantic",
+    "year": 2019,
+    "genreIds": [
+      35,
+      14,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "isnt it romantic"
+    ]
+  },
+  {
+    "rawTitle": "27 dresses",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "27 dresses",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 6557,
+    "title": "27 Dresses",
+    "year": 2008,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "27 dresses"
+    ]
+  },
+  {
+    "rawTitle": "insidious chapter 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "insidious chapter 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 91586,
+    "title": "Insidious: Chapter 2",
+    "year": 2013,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "insidious chapter 2"
+    ]
+  },
+  {
+    "rawTitle": "insidious chapter 3",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "insidious chapter 3",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 280092,
+    "title": "Insidious: Chapter 3",
+    "year": 2015,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "insidious chapter 3"
+    ]
+  },
+  {
+    "rawTitle": "insidious the last key",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "insidious the last key",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 406563,
+    "title": "Insidious: The Last Key",
+    "year": 2018,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "insidious the last key"
+    ]
+  },
+  {
+    "rawTitle": "sinister",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "sinister",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 82507,
+    "title": "Sinister",
+    "year": 2012,
+    "genreIds": [
+      27,
+      53,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "sinister"
+    ]
+  },
+  {
+    "rawTitle": "get out",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "get out",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 419430,
+    "title": "Get Out",
+    "year": 2017,
+    "genreIds": [
+      9648,
+      53,
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "get out",
+      "get out"
+    ]
+  },
+  {
+    "rawTitle": "drag me to hell",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "drag me to hell",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 16871,
+    "title": "Drag Me to Hell",
+    "year": 2009,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "drag me to hell"
+    ]
+  },
+  {
+    "rawTitle": "hereditary",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "hereditary",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 493922,
+    "title": "Hereditary",
+    "year": 2018,
+    "genreIds": [
+      27,
+      9648,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "hereditary"
+    ]
+  },
+  {
+    "rawTitle": "its whats inside",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "its whats inside",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1052280,
+    "title": "It's What's Inside",
+    "year": 2024,
+    "genreIds": [
+      35,
+      9648,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "its whats inside",
+      "its whats inside"
+    ]
+  },
+  {
+    "rawTitle": "geralds game",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "gerald's game",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 343674,
+    "title": "Gerald's Game",
+    "year": 2017,
+    "genreIds": [
+      27,
+      53,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "geralds game"
+    ]
+  },
+  {
+    "rawTitle": "dont breathe",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "dont breathe",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 300669,
+    "title": "Don't Breathe",
+    "year": 2016,
+    "genreIds": [
+      27,
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "dont breathe"
+    ]
+  },
+  {
+    "rawTitle": "ouija: origin of evil",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "ouija: origin of evil",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 335796,
+    "title": "Ouija: Origin of Evil",
+    "year": 2016,
+    "genreIds": [
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "ouija: origin of evil"
+    ]
+  },
+  {
+    "rawTitle": "the shining",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the shining",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 694,
+    "title": "The Shining",
+    "year": 1980,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the shining"
+    ]
+  },
+  {
+    "rawTitle": "saw III",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "saw III",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 214,
+    "title": "Saw III",
+    "year": 2006,
+    "genreIds": [
+      27,
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "saw III"
+    ]
+  },
+  {
+    "rawTitle": "saw VI",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "saw VI",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 22804,
+    "title": "Saw VI",
+    "year": 2009,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "saw VI",
+      "saw VI"
+    ]
+  },
+  {
+    "rawTitle": "saw 3d",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "saw 3d",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 41439,
+    "title": "Saw 3D",
+    "year": 2010,
+    "genreIds": [
+      27,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "saw 3d"
+    ]
+  },
+  {
+    "rawTitle": "saw x",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "saw x",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 951491,
+    "title": "Saw X",
+    "year": 2023,
+    "genreIds": [
+      27,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "saw x"
+    ]
+  },
+  {
+    "rawTitle": "jaws 2",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "jaws 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 579,
+    "title": "Jaws 2",
+    "year": 1978,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "jaws 2"
+    ]
+  },
+  {
+    "rawTitle": "jaws 3",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "jaws 3",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 17692,
+    "title": "Jaws 3-D",
+    "year": 1983,
+    "genreIds": [
+      53,
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "jaws 3"
+    ]
+  },
+  {
+    "rawTitle": "scream 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "scream 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 4233,
+    "title": "Scream 2",
+    "year": 1997,
+    "genreIds": [
+      27,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "scream 2"
+    ]
+  },
+  {
+    "rawTitle": "scream 3",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "scream 3",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 4234,
+    "title": "Scream 3",
+    "year": 2000,
+    "genreIds": [
+      27,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "scream 3"
+    ]
+  },
+  {
+    "rawTitle": "scream 4",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "scream 4",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 41446,
+    "title": "Scream 4",
+    "year": 2011,
+    "genreIds": [
+      27,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "scream 4"
+    ]
+  },
+  {
+    "rawTitle": "scream 5",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "scream 5",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 646385,
+    "title": "Scream",
+    "year": 2022,
+    "genreIds": [
+      27,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "scream 5"
+    ]
+  },
+  {
+    "rawTitle": "scream 7 (soon)",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "scream 7",
+    "upcomingFlag": true,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1159559,
+    "title": "Scream 7",
+    "year": 2026,
+    "genreIds": [
+      27,
+      9648,
+      80
+    ],
+    "upcoming": true,
+    "rawTitles": [
+      "scream 7 (soon)"
+    ]
+  },
+  {
+    "rawTitle": "terrifier 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "terrifier 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 663712,
+    "title": "Terrifier 2",
+    "year": 2022,
+    "genreIds": [
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "terrifier 2"
+    ]
+  },
+  {
+    "rawTitle": "terrifier 3",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "terrifier 3",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1034541,
+    "title": "Terrifier 3",
+    "year": 2024,
+    "genreIds": [
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "terrifier 3"
+    ]
+  },
+  {
+    "rawTitle": "1922",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "1922",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 452507,
+    "title": "1922",
+    "year": 2017,
+    "genreIds": [
+      27,
+      80,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "1922"
+    ]
+  },
+  {
+    "rawTitle": "love rosie",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "love rosie",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 200727,
+    "title": "Love, Rosie",
+    "year": 2014,
+    "genreIds": [
+      10749,
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "love rosie"
+    ]
+  },
+  {
+    "rawTitle": "before sunrise",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "before sunrise",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 76,
+    "title": "Before Sunrise",
+    "year": 1995,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "before sunrise",
+      "before sunrise"
+    ]
+  },
+  {
+    "rawTitle": "before sunset",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "before sunset",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 80,
+    "title": "Before Sunset",
+    "year": 2004,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "before sunset"
+    ]
+  },
+  {
+    "rawTitle": "before midnight",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "before midnight",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 132344,
+    "title": "Before Midnight",
+    "year": 2013,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "before midnight"
+    ]
+  },
+  {
+    "rawTitle": "lost in translation",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "lost in translation",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 153,
+    "title": "Lost in Translation",
+    "year": 2003,
+    "genreIds": [
+      18,
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "lost in translation"
+    ]
+  },
+  {
+    "rawTitle": "lady bird",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "lady bird",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 391713,
+    "title": "Lady Bird",
+    "year": 2017,
+    "genreIds": [
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "lady bird"
+    ]
+  },
+  {
+    "rawTitle": "ferris bullers day off",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "ferris bueller's day off",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 9377,
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "ferris bullers day off"
+    ]
+  },
+  {
+    "rawTitle": "the princess bride",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the princess bride",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 2493,
+    "title": "The Princess Bride",
+    "year": 1987,
+    "genreIds": [
+      12,
+      14,
+      10749,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the princess bride"
+    ]
+  },
+  {
+    "rawTitle": "heathers",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "heathers",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 2640,
+    "title": "Heathers",
+    "year": 1989,
+    "genreIds": [
+      35,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "heathers"
+    ]
+  },
+  {
+    "rawTitle": "a cinderella story",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "a cinderella story",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 11247,
+    "title": "A Cinderella Story",
+    "year": 2004,
+    "genreIds": [
+      35,
+      10751,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "a cinderella story"
+    ]
+  },
+  {
+    "rawTitle": "sixteen candles",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "sixteen candles",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 15144,
+    "title": "Sixteen Candles",
+    "year": 1984,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "sixteen candles"
+    ]
+  },
+  {
+    "rawTitle": "pretty in pink",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "pretty in pink",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 11522,
+    "title": "Pretty in Pink",
+    "year": 1986,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "pretty in pink"
+    ]
+  },
+  {
+    "rawTitle": "the edge of seventeen",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the edge of seventeen",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 376660,
+    "title": "The Edge of Seventeen",
+    "year": 2016,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the edge of seventeen"
+    ]
+  },
+  {
+    "rawTitle": "the perks of being a wallflower",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the perks of being a wallflower",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 84892,
+    "title": "The Perks of Being a Wallflower",
+    "year": 2012,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the perks of being a wallflower"
+    ]
+  },
+  {
+    "rawTitle": "love simon",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "love simon",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 449176,
+    "title": "Love, Simon",
+    "year": 2018,
+    "genreIds": [
+      35,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "love simon"
+    ]
+  },
+  {
+    "rawTitle": "remember me",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "remember me",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 23169,
+    "title": "Remember Me",
+    "year": 2010,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "remember me"
+    ]
+  },
+  {
+    "rawTitle": "a walk to remember",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "a walk to remember",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 10229,
+    "title": "A Walk to Remember",
+    "year": 2002,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "a walk to remember"
+    ]
+  },
+  {
+    "rawTitle": "me before you",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "me before you",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 296096,
+    "title": "Me Before You",
+    "year": 2016,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "me before you"
+    ]
+  },
+  {
+    "rawTitle": "irreplacable you",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "irreplaceable you",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 450489,
+    "title": "Irreplaceable You",
+    "year": 2018,
+    "genreIds": [
+      35,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "irreplacable you"
+    ]
+  },
+  {
+    "rawTitle": "if i stay",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "if i stay",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 249164,
+    "title": "If I Stay",
+    "year": 2014,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "if i stay"
+    ]
+  },
+  {
+    "rawTitle": "the boy in the striped pajamas",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the boy in the striped pajamas",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 14574,
+    "title": "The Boy in the Striped Pyjamas",
+    "year": 2008,
+    "genreIds": [
+      18,
+      10752,
+      36
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the boy in the striped pajamas"
+    ]
+  },
+  {
+    "rawTitle": "bridge to teribithia",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "bridge to terabithia",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1265,
+    "title": "Bridge to Terabithia",
+    "year": 2007,
+    "genreIds": [
+      12,
+      18,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "bridge to teribithia"
+    ]
+  },
+  {
+    "rawTitle": "ted 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "ted 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 214756,
+    "title": "Ted 2",
+    "year": 2015,
+    "genreIds": [
+      35,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "ted 2"
+    ]
+  },
+  {
+    "rawTitle": "juno",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "juno",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 7326,
+    "title": "Juno",
+    "year": 2007,
+    "genreIds": [
+      35,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "juno"
+    ]
+  },
+  {
+    "rawTitle": "superbad",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "superbad",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 8363,
+    "title": "Superbad",
+    "year": 2007,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "superbad",
+      "superbad"
+    ]
+  },
+  {
+    "rawTitle": "bullet train",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "bullet train",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 718930,
+    "title": "Bullet Train",
+    "year": 2022,
+    "genreIds": [
+      28,
+      35,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "bullet train"
+    ]
+  },
+  {
+    "rawTitle": "boyhood",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "boyhood",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 85350,
+    "title": "Boyhood",
+    "year": 2014,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "boyhood",
+      "boyhood"
+    ]
+  },
+  {
+    "rawTitle": "the kings of summer",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the kings of summer",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 156700,
+    "title": "The Kings of Summer",
+    "year": 2013,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the kings of summer"
+    ]
+  },
+  {
+    "rawTitle": "gia",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "gia",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 14533,
+    "title": "Gia",
+    "year": 1998,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "gia"
+    ]
+  },
+  {
+    "rawTitle": "normal people",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "normal people",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 89905,
+    "title": "Normal People",
+    "year": 2020,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "normal people"
+    ]
+  },
+  {
+    "rawTitle": "black swan",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "black swan",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 44214,
+    "title": "Black Swan",
+    "year": 2010,
+    "genreIds": [
+      18,
+      53,
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "black swan"
+    ]
+  },
+  {
+    "rawTitle": "atonment",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "atonement",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 4347,
+    "title": "Atonement",
+    "year": 2007,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "atonment"
+    ]
+  },
+  {
+    "rawTitle": "the edge of love",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the edge of love",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 14061,
+    "title": "The Edge of Love",
+    "year": 2008,
+    "genreIds": [
+      18,
+      36,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the edge of love"
+    ]
+  },
+  {
+    "rawTitle": "closer",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "closer",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 2288,
+    "title": "Closer",
+    "year": 2004,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "closer"
+    ]
+  },
+  {
+    "rawTitle": "20th century girl",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "20th century girl",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 851644,
+    "title": "20th Century Girl",
+    "year": 2022,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "20th century girl"
+    ]
+  },
+  {
+    "rawTitle": "sex appeal",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "sex appeal",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 803104,
+    "title": "Sex Appeal",
+    "year": 2022,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "sex appeal"
+    ]
+  },
+  {
+    "rawTitle": "snack shack",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "snack shack",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1037113,
+    "title": "Snack Shack",
+    "year": 2024,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "snack shack"
+    ]
+  },
+  {
+    "rawTitle": "la la land",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "la la land",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 313369,
+    "title": "La La Land",
+    "year": 2016,
+    "genreIds": [
+      35,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "la la land"
+    ]
+  },
+  {
+    "rawTitle": "good will hunting",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "good will hunting",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 489,
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "good will hunting"
+    ]
+  },
+  {
+    "rawTitle": "notting hill",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "notting hill",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 509,
+    "title": "Notting Hill",
+    "year": 1999,
+    "genreIds": [
+      10749,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "notting hill"
+    ]
+  },
+  {
+    "rawTitle": "before we go",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "before we go",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 283350,
+    "title": "Before We Go",
+    "year": 2014,
+    "genreIds": [
+      10749,
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "before we go"
+    ]
+  },
+  {
+    "rawTitle": "pretty woman",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "pretty woman",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 114,
+    "title": "Pretty Woman",
+    "year": 1990,
+    "genreIds": [
+      10749,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "pretty woman"
+    ]
+  },
+  {
+    "rawTitle": "i now pronounce you chuck & larry",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "i now pronounce you chuck & larry",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 3563,
+    "title": "I Now Pronounce You Chuck & Larry",
+    "year": 2007,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "i now pronounce you chuck & larry"
+    ]
+  },
+  {
+    "rawTitle": "bad times at the el royale",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "bad times at the el royale",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 446021,
+    "title": "Bad Times at the El Royale",
+    "year": 2018,
+    "genreIds": [
+      53,
+      9648,
+      80,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "bad times at the el royale"
+    ]
+  },
+  {
+    "rawTitle": "before i fall",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "before i fall",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 397837,
+    "title": "Before I Fall",
+    "year": 2017,
+    "genreIds": [
+      18,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "before i fall"
+    ]
+  },
+  {
+    "rawTitle": "to the bone",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "to the bone",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 401104,
+    "title": "To the Bone",
+    "year": 2017,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "to the bone"
+    ]
+  },
+  {
+    "rawTitle": "brain on fire",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "brain on fire",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 340027,
+    "title": "Brain on Fire",
+    "year": 2017,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "brain on fire"
+    ]
+  },
+  {
+    "rawTitle": "500 days of summer",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "500 days of summer",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 19913,
+    "title": "(500) Days of Summer",
+    "year": 2009,
+    "genreIds": [
+      35,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "500 days of summer"
+    ]
+  },
+  {
+    "rawTitle": "highschool musical 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "high school musical 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 13649,
+    "title": "High School Musical 2",
+    "year": 2007,
+    "genreIds": [
+      35,
+      10751,
+      10770
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "highschool musical 2"
+    ]
+  },
+  {
+    "rawTitle": "highschool musical 3: senior year",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "high school musical 3: senior year",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 11887,
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "genreIds": [
+      35,
+      18,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "highschool musical 3: senior year"
+    ]
+  },
+  {
+    "rawTitle": "idiocracy",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "idiocracy",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 7512,
+    "title": "Idiocracy",
+    "year": 2006,
+    "genreIds": [
+      35,
+      878,
+      12,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "idiocracy"
+    ]
+  },
+  {
+    "rawTitle": "napoleon dinamite",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "napoleon dynamite",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 8193,
+    "title": "Napoleon Dynamite",
+    "year": 2004,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "napoleon dinamite"
+    ]
+  },
+  {
+    "rawTitle": "tall girl",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "tall girl",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 625450,
+    "title": "Tall Girl",
+    "year": 2019,
+    "genreIds": [
+      35,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "tall girl"
+    ]
+  },
+  {
+    "rawTitle": "tall girl 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "tall girl 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 772272,
+    "title": "Tall Girl 2",
+    "year": 2022,
+    "genreIds": [
+      35,
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "tall girl 2"
+    ]
+  },
+  {
+    "rawTitle": "step brothers",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "step brothers",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 12133,
+    "title": "Step Brothers",
+    "year": 2008,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "step brothers"
+    ]
+  },
+  {
+    "rawTitle": "seven in heaven",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "seven in heaven",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 500535,
+    "title": "Seven in Heaven",
+    "year": 2018,
+    "genreIds": [
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "seven in heaven"
+    ]
+  },
+  {
+    "rawTitle": "im thinking of ending things",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "im thinking of ending things",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 500840,
+    "title": "I'm Thinking of Ending Things",
+    "year": 2020,
+    "genreIds": [
+      9648,
+      53,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "im thinking of ending things"
+    ]
+  },
+  {
+    "rawTitle": "life in a year",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "life in a year",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 447362,
+    "title": "Life in a Year",
+    "year": 2020,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "life in a year"
+    ]
+  },
+  {
+    "rawTitle": "hachi: a dogs tale",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "hachi: a dog's tale",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 28178,
+    "title": "Hachi: A Dog's Tale",
+    "year": 2009,
+    "genreIds": [
+      18,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "hachi: a dogs tale"
+    ]
+  },
+  {
+    "rawTitle": "goodbye first love",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "goodbye first love",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 82327,
+    "title": "Goodbye First Love",
+    "year": 2011,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "goodbye first love"
+    ]
+  },
+  {
+    "rawTitle": "the basketball diaries",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the basketball diaries",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 10474,
+    "title": "The Basketball Diaries",
+    "year": 1995,
+    "genreIds": [
+      18,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the basketball diaries"
+    ]
+  },
+  {
+    "rawTitle": "the mick",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the mick",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 66551,
+    "title": "The Mick",
+    "year": 2017,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the mick"
+    ]
+  },
+  {
+    "rawTitle": "war for the planet of the apes",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "war for the planet of the apes",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 281338,
+    "title": "War for the Planet of the Apes",
+    "year": 2017,
+    "genreIds": [
+      18,
+      878,
+      10752
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "war for the planet of the apes"
+    ]
+  },
+  {
+    "rawTitle": "dream house",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "dream house",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 69668,
+    "title": "Dream House",
+    "year": 2011,
+    "genreIds": [
+      9648,
+      18,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "dream house"
+    ]
+  },
+  {
+    "rawTitle": "the black stallion",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the black stallion",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 17264,
+    "title": "The Black Stallion",
+    "year": 1979,
+    "genreIds": [
+      10751,
+      12
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the black stallion"
+    ]
+  },
+  {
+    "rawTitle": "great white",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "great white",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 534072,
+    "title": "Great White",
+    "year": 2021,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "great white"
+    ]
+  },
+  {
+    "rawTitle": "hotel infreno",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "hotel inferno",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 256742,
+    "title": "Hotel Inferno",
+    "year": 2013,
+    "genreIds": [
+      28,
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "hotel infreno"
+    ]
+  },
+  {
+    "rawTitle": "gunes akimbo",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "guns akimbo",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 457335,
+    "title": "Guns Akimbo",
+    "year": 2020,
+    "genreIds": [
+      28,
+      35,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "gunes akimbo"
+    ]
+  },
+  {
+    "rawTitle": "the space between us",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the space between us",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 365942,
+    "title": "The Space Between Us",
+    "year": 2017,
+    "genreIds": [
+      10749,
+      878,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the space between us"
+    ]
+  },
+  {
+    "rawTitle": "be cool",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "be cool",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 4551,
+    "title": "Be Cool",
+    "year": 2005,
+    "genreIds": [
+      35,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "be cool"
+    ]
+  },
+  {
+    "rawTitle": "bullethead",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "bullethead",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 192894,
+    "title": "Bullethead",
+    "year": 1999,
+    "genreIds": [
+      28,
+      80,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "bullethead"
+    ]
+  },
+  {
+    "rawTitle": "midsommrt",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "midsommar",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 530385,
+    "title": "Midsommar",
+    "year": 2019,
+    "genreIds": [
+      27,
+      18,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "midsommrt"
+    ]
+  },
+  {
+    "rawTitle": "jupiter ascending",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "jupiter ascending",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 76757,
+    "title": "Jupiter Ascending",
+    "year": 2015,
+    "genreIds": [
+      878,
+      14,
+      28
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "jupiter ascending"
+    ]
+  },
+  {
+    "rawTitle": "the green hornet",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the green hornet",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 40805,
+    "title": "The Green Hornet",
+    "year": 2011,
+    "genreIds": [
+      28,
+      80,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the green hornet"
+    ]
+  },
+  {
+    "rawTitle": "the great wall",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the great wall",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 311324,
+    "title": "The Great Wall",
+    "year": 2016,
+    "genreIds": [
+      28,
+      12,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the great wall"
+    ]
+  },
+  {
+    "rawTitle": "man of tai chi",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "man of tai chi",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 76544,
+    "title": "Man of Tai Chi",
+    "year": 2013,
+    "genreIds": [
+      28,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "man of tai chi"
+    ]
+  },
+  {
+    "rawTitle": "mission: impossible dead reckoning part 1",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "mission: impossible dead reckoning part 1",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 575264,
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "year": 2023,
+    "genreIds": [
+      28,
+      12,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mission: impossible dead reckoning part 1",
+      "mission: impossible dead reckoning part 2"
+    ]
+  },
+  {
+    "rawTitle": "mission: impossible fallout",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "mission: impossible fallout",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 353081,
+    "title": "Mission: Impossible - Fallout",
+    "year": 2018,
+    "genreIds": [
+      28,
+      12
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mission: impossible fallout"
+    ]
+  },
+  {
+    "rawTitle": "hancock",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "hancock",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 8960,
+    "title": "Hancock",
+    "year": 2008,
+    "genreIds": [
+      14,
+      28
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "hancock"
+    ]
+  },
+  {
+    "rawTitle": "san andreas",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "san andreas",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 254128,
+    "title": "San Andreas",
+    "year": 2015,
+    "genreIds": [
+      28,
+      18,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "san andreas"
+    ]
+  },
+  {
+    "rawTitle": "friends with kids",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "friends with kids",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 80038,
+    "title": "Friends with Kids",
+    "year": 2012,
+    "genreIds": [
+      35,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "friends with kids"
+    ]
+  },
+  {
+    "rawTitle": "friends with benefits",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "friends with benefits",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 50544,
+    "title": "Friends with Benefits",
+    "year": 2011,
+    "genreIds": [
+      10749,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "friends with benefits"
+    ]
+  },
+  {
+    "rawTitle": "the legend of the ten rings",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the legend of the ten rings",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 566525,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "genreIds": [
+      28,
+      12,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the legend of the ten rings"
+    ]
+  },
+  {
+    "rawTitle": "horns",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "horns",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 149509,
+    "title": "Horns",
+    "year": 2013,
+    "genreIds": [
+      18,
+      14,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "horns"
+    ]
+  },
+  {
+    "rawTitle": "gold finch",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the goldfinch",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 472674,
+    "title": "The Goldfinch",
+    "year": 2019,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "gold finch"
+    ]
+  },
+  {
+    "rawTitle": "what a girl wants",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "what a girl wants",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 10735,
+    "title": "What a Girl Wants",
+    "year": 2003,
+    "genreIds": [
+      10751,
+      35,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "what a girl wants",
+      "what a girl wants"
+    ]
+  },
+  {
+    "rawTitle": "pierrot le fou",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "pierrot le fou",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 2786,
+    "title": "Pierrot le Fou",
+    "year": 1965,
+    "genreIds": [
+      18,
+      10749,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "pierrot le fou"
+    ]
+  },
+  {
+    "rawTitle": "dead poets society",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "dead poets society",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 207,
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "dead poets society"
+    ]
+  },
+  {
+    "rawTitle": "gentlemen prefer blondes",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "gentlemen prefer blondes",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 759,
+    "title": "Gentlemen Prefer Blondes",
+    "year": 1953,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "gentlemen prefer blondes"
+    ]
+  },
+  {
+    "rawTitle": "romeo + juliet",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "romeo + juliet",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 454,
+    "title": "Romeo + Juliet",
+    "year": 1996,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "romeo + juliet"
+    ]
+  },
+  {
+    "rawTitle": "glass onion: a knives out mystery",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "glass onion: a knives out mystery",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 661374,
+    "title": "Glass Onion: A Knives Out Mystery",
+    "year": 2022,
+    "genreIds": [
+      35,
+      80,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "glass onion: a knives out mystery"
+    ]
+  },
+  {
+    "rawTitle": "braveheart",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "braveheart",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 197,
+    "title": "Braveheart",
+    "year": 1995,
+    "genreIds": [
+      28,
+      18,
+      36,
+      10752
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "braveheart"
+    ]
+  },
+  {
+    "rawTitle": "apocalypto",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "apocalypto",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1579,
+    "title": "Apocalypto",
+    "year": 2006,
+    "genreIds": [
+      28,
+      18,
+      36
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "apocalypto"
+    ]
+  },
+  {
+    "rawTitle": "green mile",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "green mile",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 497,
+    "title": "The Green Mile",
+    "year": 1999,
+    "genreIds": [
+      14,
+      18,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "green mile"
+    ]
+  },
+  {
+    "rawTitle": "the blind side",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the blind side",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 22881,
+    "title": "The Blind Side",
+    "year": 2009,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the blind side"
+    ]
+  },
+  {
+    "rawTitle": "shawshank redemption",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "shawshank redemption",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 278,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genreIds": [
+      18,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "shawshank redemption"
+    ]
+  },
+  {
+    "rawTitle": "13 going on 30",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "13 going on 30",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 10096,
+    "title": "13 Going on 30",
+    "year": 2004,
+    "genreIds": [
+      35,
+      14,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "13 going on 30"
+    ]
+  },
+  {
+    "rawTitle": "american psycho",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "american psycho",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1359,
+    "title": "American Psycho",
+    "year": 2000,
+    "genreIds": [
+      53,
+      18,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "american psycho"
+    ]
+  },
+  {
+    "rawTitle": "parasite",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "parasite",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 496243,
+    "title": "Parasite",
+    "year": 2019,
+    "genreIds": [
+      35,
+      53,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "parasite"
+    ]
+  },
+  {
+    "rawTitle": "goodfellas",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "goodfellas",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 769,
+    "title": "GoodFellas",
+    "year": 1990,
+    "genreIds": [
+      18,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "goodfellas"
+    ]
+  },
+  {
+    "rawTitle": "unhinged",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "unhinged",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 625568,
+    "title": "Unhinged",
+    "year": 2020,
+    "genreIds": [
+      28,
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "unhinged"
+    ]
+  },
+  {
+    "rawTitle": "13 sins",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "13 sins",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 155084,
+    "title": "13 Sins",
+    "year": 2014,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "13 sins"
+    ]
+  },
+  {
+    "rawTitle": "warm bodies",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "warm bodies",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 82654,
+    "title": "Warm Bodies",
+    "year": 2013,
+    "genreIds": [
+      27,
+      35,
+      10749,
+      28,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "warm bodies"
+    ]
+  },
+  {
+    "rawTitle": "bird box",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "bird box",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 405774,
+    "title": "Bird Box",
+    "year": 2018,
+    "genreIds": [
+      27,
+      53,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "bird box"
+    ]
+  },
+  {
+    "rawTitle": "the texas chainsaw massacre 2",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the texas chainsaw massacre 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 16337,
+    "title": "The Texas Chainsaw Massacre 2",
+    "year": 1986,
+    "genreIds": [
+      27,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the texas chainsaw massacre 2"
+    ]
+  },
+  {
+    "rawTitle": "dungeons and dragons: honor among thieves",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "dungeons and dragons: honor among thieves",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 493529,
+    "title": "Dungeons & Dragons: Honor Among Thieves",
+    "year": 2023,
+    "genreIds": [
+      12,
+      14,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "dungeons and dragons: honor among thieves"
+    ]
+  },
+  {
+    "rawTitle": "now you see me 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "now you see me 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 291805,
+    "title": "Now You See Me 2",
+    "year": 2016,
+    "genreIds": [
+      80,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "now you see me 2"
+    ]
+  },
+  {
+    "rawTitle": "spider-man: into the spider-verse",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "spider-man: into the spider-verse",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 324857,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "genreIds": [
+      16,
+      28,
+      12,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "spider-man: into the spider-verse"
+    ]
+  },
+  {
+    "rawTitle": "spider-man: far from home",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "spider-man: far from home",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 429617,
+    "title": "Spider-Man: Far From Home",
+    "year": 2019,
+    "genreIds": [
+      28,
+      12,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "spider-man: far from home"
+    ]
+  },
+  {
+    "rawTitle": "the kissing booth 3",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the kissing booth 3",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 727745,
+    "title": "The Kissing Booth 3",
+    "year": 2021,
+    "genreIds": [
+      10749,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the kissing booth 3"
+    ]
+  },
+  {
+    "rawTitle": "the kissing booth 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the kissing booth 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 583083,
+    "title": "The Kissing Booth 2",
+    "year": 2020,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the kissing booth 2"
+    ]
+  },
+  {
+    "rawTitle": "mother of the bride",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mother of the bride",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1093231,
+    "title": "Mother of the Bride",
+    "year": 2024,
+    "genreIds": [
+      10749,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mother of the bride"
+    ]
+  },
+  {
+    "rawTitle": "the wolf of wall street",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the wolf of wall street",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 106646,
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "genreIds": [
+      80,
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the wolf of wall street"
+    ]
+  },
+  {
+    "rawTitle": "some like it hot",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "some like it hot",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 239,
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "genreIds": [
+      35,
+      10749,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "some like it hot"
+    ]
+  },
+  {
+    "rawTitle": "rocky balboa",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "rocky balboa",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1246,
+    "title": "Rocky Balboa",
+    "year": 2006,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "rocky balboa"
+    ]
+  },
+  {
+    "rawTitle": "rocky vi",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "rocky vi",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 60375,
+    "title": "Rocky VI",
+    "year": 1986,
+    "genreIds": [
+      35,
+      10402
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "rocky vi"
+    ]
+  },
+  {
+    "rawTitle": "rocky iii",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "rocky iii",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1371,
+    "title": "Rocky III",
+    "year": 1982,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "rocky iii"
+    ]
+  },
+  {
+    "rawTitle": "creed iii",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "creed iii",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 677179,
+    "title": "Creed III",
+    "year": 2023,
+    "genreIds": [
+      18,
+      28
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "creed iii"
+    ]
+  },
+  {
+    "rawTitle": "i am legend",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "i am legend",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 6479,
+    "title": "I Am Legend",
+    "year": 2007,
+    "genreIds": [
+      18,
+      878,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "i am legend"
+    ]
+  },
+  {
+    "rawTitle": "rise of the planet of the apes",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "rise of the planet of the apes",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 61791,
+    "title": "Rise of the Planet of the Apes",
+    "year": 2011,
+    "genreIds": [
+      53,
+      28,
+      18,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "rise of the planet of the apes"
+    ]
+  },
+  {
+    "rawTitle": "dawn of the planet of the apes",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "dawn of the planet of the apes",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 119450,
+    "title": "Dawn of the Planet of the Apes",
+    "year": 2014,
+    "genreIds": [
+      878,
+      28,
+      18,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "dawn of the planet of the apes"
+    ]
+  },
+  {
+    "rawTitle": "coach carter",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "coach carter",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 7214,
+    "title": "Coach Carter",
+    "year": 2005,
+    "genreIds": [
+      18,
+      36
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "coach carter"
+    ]
+  },
+  {
+    "rawTitle": "table 19",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "table 19",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 353569,
+    "title": "Table 19",
+    "year": 2017,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "table 19"
+    ]
+  },
+  {
+    "rawTitle": "central intelligence",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "central intelligence",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 302699,
+    "title": "Central Intelligence",
+    "year": 2016,
+    "genreIds": [
+      28,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "central intelligence"
+    ]
+  },
+  {
+    "rawTitle": "the dark tower",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the dark tower",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 353491,
+    "title": "The Dark Tower",
+    "year": 2017,
+    "genreIds": [
+      14,
+      28,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the dark tower"
+    ]
+  },
+  {
+    "rawTitle": "bedtime stories",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "bedtime stories",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 10202,
+    "title": "Bedtime Stories",
+    "year": 2008,
+    "genreIds": [
+      14,
+      35,
+      10751,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "bedtime stories"
+    ]
+  },
+  {
+    "rawTitle": "contagion",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "contagion",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 39538,
+    "title": "Contagion",
+    "year": 2011,
+    "genreIds": [
+      18,
+      53,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "contagion",
+      "contagion"
+    ]
+  },
+  {
+    "rawTitle": "the lorax",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the lorax",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 73723,
+    "title": "The Lorax",
+    "year": 2012,
+    "genreIds": [
+      16,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the lorax"
+    ]
+  },
+  {
+    "rawTitle": "mortal kombat (1995)",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mortal kombat",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 9312,
+    "title": "Mortal Kombat",
+    "year": 1995,
+    "genreIds": [
+      28,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mortal kombat (1995)"
+    ]
+  },
+  {
+    "rawTitle": "mortal kombat annihilation",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mortal kombat annihilation",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 9823,
+    "title": "Mortal Kombat: Annihilation",
+    "year": 1997,
+    "genreIds": [
+      28,
+      14,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mortal kombat annihilation"
+    ]
+  },
+  {
+    "rawTitle": "mortal kombat (2021)",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mortal kombat",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 460465,
+    "title": "Mortal Kombat",
+    "year": 2021,
+    "genreIds": [
+      28,
+      14,
+      12
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mortal kombat (2021)"
+    ]
+  },
+  {
+    "rawTitle": "a baby's day out",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "baby's day out",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 11212,
+    "title": "Baby's Day Out",
+    "year": 1994,
+    "genreIds": [
+      35,
+      12,
+      10751,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "a baby's day out"
+    ]
+  },
+  {
+    "rawTitle": "baby driver",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "baby driver",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 339403,
+    "title": "Baby Driver",
+    "year": 2017,
+    "genreIds": [
+      28,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "baby driver"
+    ]
+  },
+  {
+    "rawTitle": "30 days of night",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "30 days of night",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 4513,
+    "title": "30 Days of Night",
+    "year": 2007,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "30 days of night"
+    ]
+  },
+  {
+    "rawTitle": "project almanac",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "project almanac",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 227719,
+    "title": "Project Almanac",
+    "year": 2015,
+    "genreIds": [
+      878,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "project almanac"
+    ]
+  },
+  {
+    "rawTitle": "mary poppins returns",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mary poppins returns",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 400650,
+    "title": "Mary Poppins Returns",
+    "year": 2018,
+    "genreIds": [
+      14,
+      10751,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mary poppins returns"
+    ]
+  },
+  {
+    "rawTitle": "pandorum",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "pandorum",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 19898,
+    "title": "Pandorum",
+    "year": 2009,
+    "genreIds": [
+      28,
+      27,
+      9648,
+      878,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "pandorum"
+    ]
+  },
+  {
+    "rawTitle": "infinity polar bear",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "infinitely polar bear",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 244539,
+    "title": "Infinitely Polar Bear",
+    "year": 2014,
+    "genreIds": [
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "infinity polar bear"
+    ]
+  },
+  {
+    "rawTitle": "role models",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "role models",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 15373,
+    "title": "Role Models",
+    "year": 2008,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "role models"
+    ]
+  },
+  {
+    "rawTitle": "mission: impossible 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mission: impossible 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 955,
+    "title": "Mission: Impossible II",
+    "year": 2000,
+    "genreIds": [
+      12,
+      28,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mission: impossible 2"
+    ]
+  },
+  {
+    "rawTitle": "mission: impossible iii",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mission: impossible iii",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 956,
+    "title": "Mission: Impossible III",
+    "year": 2006,
+    "genreIds": [
+      12,
+      28,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mission: impossible iii"
+    ]
+  },
+  {
+    "rawTitle": "mission: impossible ghost protocol",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mission: impossible ghost protocol",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 56292,
+    "title": "Mission: Impossible - Ghost Protocol",
+    "year": 2011,
+    "genreIds": [
+      28,
+      53,
+      12
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mission: impossible ghost protocol"
+    ]
+  },
+  {
+    "rawTitle": "mission: impossible rogue nation",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "mission: impossible rogue nation",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 177677,
+    "title": "Mission: Impossible - Rogue Nation",
+    "year": 2015,
+    "genreIds": [
+      28,
+      12
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "mission: impossible rogue nation"
+    ]
+  },
+  {
+    "rawTitle": "john wick chapter 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "john wick chapter 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 324552,
+    "title": "John Wick: Chapter 2",
+    "year": 2017,
+    "genreIds": [
+      28,
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "john wick chapter 2"
+    ]
+  },
+  {
+    "rawTitle": "john wick chapter 3",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "john wick chapter 3",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 458156,
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "year": 2019,
+    "genreIds": [
+      28,
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "john wick chapter 3"
+    ]
+  },
+  {
+    "rawTitle": "john wick chapter 4",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "john wick chapter 4",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 603692,
+    "title": "John Wick: Chapter 4",
+    "year": 2023,
+    "genreIds": [
+      28,
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "john wick chapter 4"
+    ]
+  },
+  {
+    "rawTitle": "ocean's eight",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "ocean's eight",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 402900,
+    "title": "Ocean's Eight",
+    "year": 2018,
+    "genreIds": [
+      80,
+      35,
+      28
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "ocean's eight"
+    ]
+  },
+  {
+    "rawTitle": "ocean's eleven",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "ocean's eleven",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 161,
+    "title": "Ocean's Eleven",
+    "year": 2001,
+    "genreIds": [
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "ocean's eleven"
+    ]
+  },
+  {
+    "rawTitle": "ocean's twelve",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "ocean's twelve",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 163,
+    "title": "Ocean's Twelve",
+    "year": 2004,
+    "genreIds": [
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "ocean's twelve"
+    ]
+  },
+  {
+    "rawTitle": "ocean's thirteen",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "ocean's thirteen",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 298,
+    "title": "Ocean's Thirteen",
+    "year": 2007,
+    "genreIds": [
+      80,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "ocean's thirteen"
+    ]
+  },
+  {
+    "rawTitle": "the dark knight rises",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the dark knight rises",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 49026,
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "genreIds": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the dark knight rises"
+    ]
+  },
+  {
+    "rawTitle": "what men want",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "what men want",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 487297,
+    "title": "What Men Want",
+    "year": 2019,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "what men want"
+    ]
+  },
+  {
+    "rawTitle": "insurgent",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "insurgent",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 262500,
+    "title": "Insurgent",
+    "year": 2015,
+    "genreIds": [
+      28,
+      878,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "insurgent"
+    ]
+  },
+  {
+    "rawTitle": "divergent",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "divergent",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 157350,
+    "title": "Divergent",
+    "year": 2014,
+    "genreIds": [
+      28,
+      12,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "divergent"
+    ]
+  },
+  {
+    "rawTitle": "she's the man",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "she's the man",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 9655,
+    "title": "She's the Man",
+    "year": 2006,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "she's the man",
+      "shes the man"
+    ]
+  },
+  {
+    "rawTitle": "titanic",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "titanic",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 597,
+    "title": "Titanic",
+    "year": 1997,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "titanic"
+    ]
+  },
+  {
+    "rawTitle": "the notebook",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the notebook",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 11036,
+    "title": "The Notebook",
+    "year": 2004,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the notebook"
+    ]
+  },
+  {
+    "rawTitle": "after we collided",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "after we collided",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 613504,
+    "title": "After We Collided",
+    "year": 2020,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "after we collided"
+    ]
+  },
+  {
+    "rawTitle": "fast x part 1",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "fast x",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 385687,
+    "title": "Fast X",
+    "year": 2023,
+    "genreIds": [
+      28,
+      80,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "fast x part 1"
+    ]
+  },
+  {
+    "rawTitle": "f9",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "f9",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 385128,
+    "title": "F9",
+    "year": 2021,
+    "genreIds": [
+      28,
+      12,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "f9"
+    ]
+  },
+  {
+    "rawTitle": "the fate of the furious",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the fate of the furious",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 337339,
+    "title": "The Fate of the Furious",
+    "year": 2017,
+    "genreIds": [
+      28,
+      80,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the fate of the furious"
+    ]
+  },
+  {
+    "rawTitle": "furious 7",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "furious 7",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 168259,
+    "title": "Furious 7",
+    "year": 2015,
+    "genreIds": [
+      28,
+      80,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "furious 7"
+    ]
+  },
+  {
+    "rawTitle": "fast & furious 6",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "fast & furious 6",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 82992,
+    "title": "Fast & Furious 6",
+    "year": 2013,
+    "genreIds": [
+      28,
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "fast & furious 6"
+    ]
+  },
+  {
+    "rawTitle": "fast five",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "fast five",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 51497,
+    "title": "Fast Five",
+    "year": 2011,
+    "genreIds": [
+      28,
+      53,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "fast five"
+    ]
+  },
+  {
+    "rawTitle": "the fast and the furious: tokyo drift",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the fast and the furious: tokyo drift",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 9615,
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "year": 2006,
+    "genreIds": [
+      28,
+      80,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the fast and the furious: tokyo drift"
+    ]
+  },
+  {
+    "rawTitle": "2 fast 2 furious",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "2 fast 2 furious",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 584,
+    "title": "2 Fast 2 Furious",
+    "year": 2003,
+    "genreIds": [
+      28,
+      80,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "2 fast 2 furious"
+    ]
+  },
+  {
+    "rawTitle": "10 things i hate about you",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "10 things i hate about you",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 4951,
+    "title": "10 Things I Hate About You",
+    "year": 1999,
+    "genreIds": [
+      35,
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "10 things i hate about you"
+    ]
+  },
+  {
+    "rawTitle": "a star is born",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "a star is born",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 332562,
+    "title": "A Star Is Born",
+    "year": 2018,
+    "genreIds": [
+      10402,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "a star is born"
+    ]
+  },
+  {
+    "rawTitle": "her",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "her",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 152601,
+    "title": "Her",
+    "year": 2013,
+    "genreIds": [
+      10749,
+      878,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "her"
+    ]
+  },
+  {
+    "rawTitle": "jaws",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "jaws",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 578,
+    "title": "Jaws",
+    "year": 1975,
+    "genreIds": [
+      27,
+      53,
+      12
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "jaws"
+    ]
+  },
+  {
+    "rawTitle": "jigsaw",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "jigsaw",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 298250,
+    "title": "Jigsaw",
+    "year": 2017,
+    "genreIds": [
+      27,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "jigsaw"
+    ]
+  },
+  {
+    "rawTitle": "annabelle comes home",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "annabelle comes home",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 521029,
+    "title": "Annabelle Comes Home",
+    "year": 2019,
+    "genreIds": [
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "annabelle comes home"
+    ]
+  },
+  {
+    "rawTitle": "the conjuring: the devil made me do it",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the conjuring: the devil made me do it",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 423108,
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "year": 2021,
+    "genreIds": [
+      27,
+      9648,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the conjuring: the devil made me do it"
+    ]
+  },
+  {
+    "rawTitle": "the conjuring 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the conjuring 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 259693,
+    "title": "The Conjuring 2",
+    "year": 2016,
+    "genreIds": [
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the conjuring 2"
+    ]
+  },
+  {
+    "rawTitle": "the princess diaries 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the princess diaries 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 11130,
+    "title": "The Princess Diaries 2: Royal Engagement",
+    "year": 2004,
+    "genreIds": [
+      35,
+      18,
+      10751,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the princess diaries 2"
+    ]
+  },
+  {
+    "rawTitle": "16 wishes",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "16 wishes",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 40205,
+    "title": "16 Wishes",
+    "year": 2010,
+    "genreIds": [
+      14,
+      18,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "16 wishes"
+    ]
+  },
+  {
+    "rawTitle": "clueless",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "clueless",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 9603,
+    "title": "Clueless",
+    "year": 1995,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "clueless"
+    ]
+  },
+  {
+    "rawTitle": "five feet apart",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "five feet apart",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 527641,
+    "title": "Five Feet Apart",
+    "year": 2019,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "five feet apart"
+    ]
+  },
+  {
+    "rawTitle": "all the bright places",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "all the bright places",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 342470,
+    "title": "All the Bright Places",
+    "year": 2020,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "all the bright places"
+    ]
+  },
+  {
+    "rawTitle": "legally blonde 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "legally blonde 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 10327,
+    "title": "Legally Blonde 2: Red, White & Blonde",
+    "year": 2003,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "legally blonde 2"
+    ]
+  },
+  {
+    "rawTitle": "pitch perfect 3",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "pitch perfect 3",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 353616,
+    "title": "Pitch Perfect 3",
+    "year": 2017,
+    "genreIds": [
+      10402,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "pitch perfect 3"
+    ]
+  },
+  {
+    "rawTitle": "pitch perfect 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "pitch perfect 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 254470,
+    "title": "Pitch Perfect 2",
+    "year": 2015,
+    "genreIds": [
+      35,
+      10402
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "pitch perfect 2"
+    ]
+  },
+  {
+    "rawTitle": "top gun: maverick",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "top gun: maverick",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 361743,
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "genreIds": [
+      28,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "top gun: maverick"
+    ]
+  },
+  {
+    "rawTitle": "to all the boys: always and forever",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "to all the boys: always and forever",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 614409,
+    "title": "To All the Boys: Always and Forever",
+    "year": 2021,
+    "genreIds": [
+      10749,
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "to all the boys: always and forever"
+    ]
+  },
+  {
+    "rawTitle": "to all the boys: p.s. i still love you",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "to all the boys: p.s. i still love you",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 565426,
+    "title": "To All the Boys: P.S. I Still Love You",
+    "year": 2020,
+    "genreIds": [
+      10749,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "to all the boys: p.s. i still love you"
+    ]
+  },
+  {
+    "rawTitle": "to all the boys i've loved before",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "to all the boys i've loved before",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 466282,
+    "title": "To All the Boys I've Loved Before",
+    "year": 2018,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "to all the boys i've loved before"
+    ]
+  },
+  {
+    "rawTitle": "the call of the wild",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the call of the wild",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 481848,
+    "title": "The Call of the Wild",
+    "year": 2020,
+    "genreIds": [
+      12,
+      10751,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the call of the wild"
+    ]
+  },
+  {
+    "rawTitle": "jumanji: the next level",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "jumanji: the next level",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 512200,
+    "title": "Jumanji: The Next Level",
+    "year": 2019,
+    "genreIds": [
+      12,
+      35,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "jumanji: the next level"
+    ]
+  },
+  {
+    "rawTitle": "jumanji: welcome to the jungle",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "jumanji: welcome to the jungle",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 353486,
+    "title": "Jumanji: Welcome to the Jungle",
+    "year": 2017,
+    "genreIds": [
+      12,
+      35,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "jumanji: welcome to the jungle"
+    ]
+  },
+  {
+    "rawTitle": "harry potter and the half-blood prince",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "harry potter and the half-blood prince",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 767,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "year": 2009,
+    "genreIds": [
+      12,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "harry potter and the half-blood prince"
+    ]
+  },
+  {
+    "rawTitle": "harry potter and the order of the phoenix",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "harry potter and the order of the phoenix",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 675,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "year": 2007,
+    "genreIds": [
+      12,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "harry potter and the order of the phoenix"
+    ]
+  },
+  {
+    "rawTitle": "harry potter and the goblet of fire",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "harry potter and the goblet of fire",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 674,
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "genreIds": [
+      12,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "harry potter and the goblet of fire"
+    ]
+  },
+  {
+    "rawTitle": "harry potter and the prisoner of azkaban",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "harry potter and the prisoner of azkaban",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 673,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "genreIds": [
+      12,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "harry potter and the prisoner of azkaban"
+    ]
+  },
+  {
+    "rawTitle": "harry potter and the chamber of secrets",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "harry potter and the chamber of secrets",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 672,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "genreIds": [
+      12,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "harry potter and the chamber of secrets"
+    ]
+  },
+  {
+    "rawTitle": "enchanted",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "enchanted",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 4523,
+    "title": "Enchanted",
+    "year": 2007,
+    "genreIds": [
+      35,
+      10751,
+      14,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "enchanted"
+    ]
+  },
+  {
+    "rawTitle": "charlie and the chocolate factory",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "charlie and the chocolate factory",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 118,
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "genreIds": [
+      12,
+      35,
+      10751,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "charlie and the chocolate factory"
+    ]
+  },
+  {
+    "rawTitle": "another cinderella story",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "another cinderella story",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 15157,
+    "title": "Another Cinderella Story",
+    "year": 2008,
+    "genreIds": [
+      10402,
+      35,
+      10749,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "another cinderella story"
+    ]
+  },
+  {
+    "rawTitle": "the emoji movie",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the emoji movie",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 378236,
+    "title": "The Emoji Movie",
+    "year": 2017,
+    "genreIds": [
+      16,
+      10751,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the emoji movie"
+    ]
+  },
+  {
+    "rawTitle": "turtles all the way down",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "turtles all the way down",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 574451,
+    "title": "Turtles All the Way Down",
+    "year": 2024,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "turtles all the way down"
+    ]
+  },
+  {
+    "rawTitle": "easy a",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "easy a",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 37735,
+    "title": "Easy A",
+    "year": 2010,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "easy a"
+    ]
+  },
+  {
+    "rawTitle": "my fault london",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "my fault london",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1294203,
+    "title": "My Fault: London",
+    "year": 2025,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "my fault london"
+    ]
+  },
+  {
+    "rawTitle": "sydney white",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "sydney white",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 10760,
+    "title": "Sydney White",
+    "year": 2007,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "sydney white"
+    ]
+  },
+  {
+    "rawTitle": "in time",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "in time",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 49530,
+    "title": "In Time",
+    "year": 2011,
+    "genreIds": [
+      28,
+      53,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "in time"
+    ]
+  },
+  {
+    "rawTitle": "through my window",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "through my window",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 818647,
+    "title": "Through My Window",
+    "year": 2022,
+    "genreIds": [
+      10749,
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "through my window"
+    ]
+  },
+  {
+    "rawTitle": "failure to launch",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "failure to launch",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 6877,
+    "title": "Failure to Launch",
+    "year": 2006,
+    "genreIds": [
+      10749,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "failure to launch"
+    ]
+  },
+  {
+    "rawTitle": "accidental texan",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "accidental texan",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1109940,
+    "title": "Accidental Texan",
+    "year": 2024,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "accidental texan"
+    ]
+  },
+  {
+    "rawTitle": "the idea of you",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the idea of you",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 843527,
+    "title": "The Idea of You",
+    "year": 2024,
+    "genreIds": [
+      10402,
+      35,
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the idea of you"
+    ]
+  },
+  {
+    "rawTitle": "no hard feelings",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "no hard feelings",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 884605,
+    "title": "No Hard Feelings",
+    "year": 2023,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "no hard feelings"
+    ]
+  },
+  {
+    "rawTitle": "the woman in the house across the street from the girl in the window",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the woman in the house across the street from the girl in the window",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 111838,
+    "title": "The Woman in the House Across the Street from the Girl in the Window",
+    "year": 2022,
+    "genreIds": [
+      9648,
+      80,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the woman in the house across the street from the girl in the window"
+    ]
+  },
+  {
+    "rawTitle": "the sadness",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the sadness",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 776797,
+    "title": "The Sadness",
+    "year": 2021,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the sadness"
+    ]
+  },
+  {
+    "rawTitle": "sierra burgess is a loser",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "sierra burgess is a loser",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 462919,
+    "title": "Sierra Burgess Is a Loser",
+    "year": 2018,
+    "genreIds": [
+      35,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "sierra burgess is a loser"
+    ]
+  },
+  {
+    "rawTitle": "inside out",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "inside out",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 150540,
+    "title": "Inside Out",
+    "year": 2015,
+    "genreIds": [
+      16,
+      10751,
+      12,
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "inside out"
+    ]
+  },
+  {
+    "rawTitle": "inside out 2",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "inside out 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1022789,
+    "title": "Inside Out 2",
+    "year": 2024,
+    "genreIds": [
+      16,
+      12,
+      35,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "inside out 2"
+    ]
+  },
+  {
+    "rawTitle": "project x",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "project x",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 57214,
+    "title": "Project X",
+    "year": 2012,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "project x"
+    ]
+  },
+  {
+    "rawTitle": "snowfall",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "snowfall",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 71694,
+    "title": "Snowfall",
+    "year": 2017,
+    "genreIds": [
+      18,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "snowfall"
+    ]
+  },
+  {
+    "rawTitle": "the substance",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the substance",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 933260,
+    "title": "The Substance",
+    "year": 2024,
+    "genreIds": [
+      27,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the substance"
+    ]
+  },
+  {
+    "rawTitle": "the virgin suicides",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the virgin suicides",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1443,
+    "title": "The Virgin Suicides",
+    "year": 2000,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the virgin suicides"
+    ]
+  },
+  {
+    "rawTitle": "the little rascals",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the little rascals",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 10897,
+    "title": "The Little Rascals",
+    "year": 1994,
+    "genreIds": [
+      10749,
+      35,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the little rascals"
+    ]
+  },
+  {
+    "rawTitle": "zodiac",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "zodiac",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1949,
+    "title": "Zodiac",
+    "year": 2007,
+    "genreIds": [
+      80,
+      9648,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "zodiac"
+    ]
+  },
+  {
+    "rawTitle": "the visit",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the visit",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 298312,
+    "title": "The Visit",
+    "year": 2015,
+    "genreIds": [
+      27,
+      53
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the visit"
+    ]
+  },
+  {
+    "rawTitle": "one fast move",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "one fast move",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1281826,
+    "title": "One Fast Move",
+    "year": 2024,
+    "genreIds": [
+      28,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "one fast move"
+    ]
+  },
+  {
+    "rawTitle": "awake 2007",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "awake",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 13483,
+    "title": "Awake",
+    "year": 2007,
+    "genreIds": [
+      53,
+      80,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "awake 2007"
+    ]
+  },
+  {
+    "rawTitle": "going the distance (2004)",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "going the distance",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 19423,
+    "title": "Going the Distance",
+    "year": 2004,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "going the distance (2004)"
+    ]
+  },
+  {
+    "rawTitle": "american pie presents: girls rules",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "american pie presents: girls rules",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 660982,
+    "title": "American Pie Presents: Girls' Rules",
+    "year": 2020,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "american pie presents: girls rules"
+    ]
+  },
+  {
+    "rawTitle": "american pie 2",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "american pie 2",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 2770,
+    "title": "American Pie 2",
+    "year": 2001,
+    "genreIds": [
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "american pie 2"
+    ]
+  },
+  {
+    "rawTitle": "meet cute",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "meet cute",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 843543,
+    "title": "Meet Cute",
+    "year": 2022,
+    "genreIds": [
+      35,
+      10749,
+      878
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "meet cute"
+    ]
+  },
+  {
+    "rawTitle": "red one",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "red one",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 845781,
+    "title": "Red One",
+    "year": 2024,
+    "genreIds": [
+      28,
+      12,
+      35,
+      14
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "red one"
+    ]
+  },
+  {
+    "rawTitle": "the other zoey",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the other zoey",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 912916,
+    "title": "The Other Zoey",
+    "year": 2023,
+    "genreIds": [
+      10749,
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the other zoey"
+    ]
+  },
+  {
+    "rawTitle": "challengers",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "challengers",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 937287,
+    "title": "Challengers",
+    "year": 2024,
+    "genreIds": [
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "challengers"
+    ]
+  },
+  {
+    "rawTitle": "bling ring",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "bling ring",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 96936,
+    "title": "The Bling Ring",
+    "year": 2013,
+    "genreIds": [
+      18,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "bling ring"
+    ]
+  },
+  {
+    "rawTitle": "adolescence",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "adolescence",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 249042,
+    "title": "Adolescence",
+    "year": 2025,
+    "genreIds": [
+      18,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "adolescence"
+    ]
+  },
+  {
+    "rawTitle": "heart eyes",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "heart eyes",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1302916,
+    "title": "Heart Eyes",
+    "year": 2025,
+    "genreIds": [
+      27,
+      10749,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "heart eyes"
+    ]
+  },
+  {
+    "rawTitle": "screamboat",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "screamboat",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1225572,
+    "title": "Screamboat",
+    "year": 2025,
+    "genreIds": [
+      27,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "screamboat"
+    ]
+  },
+  {
+    "rawTitle": "meg 2: the trench",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "meg 2: the trench",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 615656,
+    "title": "Meg 2: The Trench",
+    "year": 2023,
+    "genreIds": [
+      28,
+      878,
+      27
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "meg 2: the trench"
+    ]
+  },
+  {
+    "rawTitle": "the society",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the society",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 84647,
+    "title": "The Society",
+    "year": 2019,
+    "genreIds": [
+      18,
+      10765
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the society",
+      "the society"
+    ]
+  },
+  {
+    "rawTitle": "the clique (so bad)",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the clique",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 34482,
+    "title": "The Clique",
+    "year": 2008,
+    "genreIds": [
+      35,
+      18,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the clique (so bad)"
+    ]
+  },
+  {
+    "rawTitle": "the map that leads to you",
+    "declaredType": "movie",
+    "watched": true,
+    "correctedTitle": "the map that leads to you",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1312946,
+    "title": "The Map That Leads to You",
+    "year": 2025,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the map that leads to you"
+    ]
+  },
+  {
+    "rawTitle": "lemonade mouth",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "lemonade mouth",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 65218,
+    "title": "Lemonade Mouth",
+    "year": 2011,
+    "genreIds": [
+      18,
+      35,
+      10402,
+      10770
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "lemonade mouth"
+    ]
+  },
+  {
+    "rawTitle": "almost famous",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "almost famous",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 786,
+    "title": "Almost Famous",
+    "year": 2000,
+    "genreIds": [
+      18,
+      10402
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "almost famous"
+    ]
+  },
+  {
+    "rawTitle": "millers girl",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "millers girl",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1026436,
+    "title": "Miller's Girl",
+    "year": 2024,
+    "genreIds": [
+      53,
+      18,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "millers girl"
+    ]
+  },
+  {
+    "rawTitle": "anyone but you",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "anyone but you",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1072790,
+    "title": "Anyone but You",
+    "year": 2023,
+    "genreIds": [
+      10749,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "anyone but you"
+    ]
+  },
+  {
+    "rawTitle": "my sister is a keeper",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "my sister's keeper",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 10024,
+    "title": "My Sister's Keeper",
+    "year": 2009,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "my sister is a keeper"
+    ]
+  },
+  {
+    "rawTitle": "the last sunrise",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "the last sunrise",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1516698,
+    "title": "The Last Sunrise",
+    "year": 2026,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the last sunrise"
+    ]
+  },
+  {
+    "rawTitle": "love and other drugs",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "love and other drugs",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 43347,
+    "title": "Love & Other Drugs",
+    "year": 2010,
+    "genreIds": [
+      18,
+      35,
+      10749
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "love and other drugs"
+    ]
+  },
+  {
+    "rawTitle": "whats eating gilberts grape",
+    "declaredType": "movie",
+    "watched": false,
+    "correctedTitle": "what's eating gilbert grape",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "movie",
+    "tmdbId": 1587,
+    "title": "What's Eating Gilbert Grape",
+    "year": 1993,
+    "genreIds": [
+      10749,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "whats eating gilberts grape"
+    ]
+  },
+  {
+    "rawTitle": "vikings",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "vikings",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 44217,
+    "title": "Vikings",
+    "year": 2013,
+    "genreIds": [
+      10759,
+      18,
+      10768
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "vikings"
+    ]
+  },
+  {
+    "rawTitle": "prison break",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "prison break",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 2288,
+    "title": "Prison Break",
+    "year": 2005,
+    "genreIds": [
+      10759,
+      80,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "prison break"
+    ]
+  },
+  {
+    "rawTitle": "breaking bad",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "breaking bad",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 1396,
+    "title": "Breaking Bad",
+    "year": 2008,
+    "genreIds": [
+      18,
+      80
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "breaking bad"
+    ]
+  },
+  {
+    "rawTitle": "the good doctor",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "the good doctor",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 71712,
+    "title": "The Good Doctor",
+    "year": 2017,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the good doctor"
+    ]
+  },
+  {
+    "rawTitle": "the originals",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "the originals",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 46896,
+    "title": "The Originals",
+    "year": 2013,
+    "genreIds": [
+      10765,
+      18,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the originals"
+    ]
+  },
+  {
+    "rawTitle": "the umbrella academy",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "the umbrella academy",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 75006,
+    "title": "The Umbrella Academy",
+    "year": 2019,
+    "genreIds": [
+      10759,
+      10765,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the umbrella academy"
+    ]
+  },
+  {
+    "rawTitle": "suits",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "suits",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 37680,
+    "title": "Suits",
+    "year": 2011,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "suits"
+    ]
+  },
+  {
+    "rawTitle": "house of the dragon",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "house of the dragon",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 94997,
+    "title": "House of the Dragon",
+    "year": 2022,
+    "genreIds": [
+      10765,
+      18,
+      10759
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "house of the dragon"
+    ]
+  },
+  {
+    "rawTitle": "game of thrones",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "game of thrones",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 1399,
+    "title": "Game of Thrones",
+    "year": 2011,
+    "genreIds": [
+      10765,
+      18,
+      10759
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "game of thrones"
+    ]
+  },
+  {
+    "rawTitle": "the walking dead",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "the walking dead",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 1402,
+    "title": "The Walking Dead",
+    "year": 2010,
+    "genreIds": [
+      10759,
+      18,
+      10765
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the walking dead"
+    ]
+  },
+  {
+    "rawTitle": "modern family",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "modern family",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 1421,
+    "title": "Modern Family",
+    "year": 2009,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "modern family"
+    ]
+  },
+  {
+    "rawTitle": "better call saul",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "better call saul",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 60059,
+    "title": "Better Call Saul",
+    "year": 2015,
+    "genreIds": [
+      80,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "better call saul"
+    ]
+  },
+  {
+    "rawTitle": "the office australia",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "the office australia",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 256480,
+    "title": "The Office",
+    "year": 2024,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the office australia"
+    ]
+  },
+  {
+    "rawTitle": "dexter",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "dexter",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 1405,
+    "title": "Dexter",
+    "year": 2006,
+    "genreIds": [
+      80,
+      18,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "dexter"
+    ]
+  },
+  {
+    "rawTitle": "euphoria",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "euphoria",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 85552,
+    "title": "Euphoria",
+    "year": 2019,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "euphoria"
+    ]
+  },
+  {
+    "rawTitle": "the boys",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "the boys",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 76479,
+    "title": "The Boys",
+    "year": 2019,
+    "genreIds": [
+      10765,
+      10759
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the boys"
+    ]
+  },
+  {
+    "rawTitle": "ted lasso",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "ted lasso",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 97546,
+    "title": "Ted Lasso",
+    "year": 2020,
+    "genreIds": [
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "ted lasso"
+    ]
+  },
+  {
+    "rawTitle": "the last of us",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "the last of us",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 100088,
+    "title": "The Last of Us",
+    "year": 2023,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the last of us"
+    ]
+  },
+  {
+    "rawTitle": "pretty little liars",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "pretty little liars",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 31917,
+    "title": "Pretty Little Liars",
+    "year": 2010,
+    "genreIds": [
+      18,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "pretty little liars"
+    ]
+  },
+  {
+    "rawTitle": "gilmore girls",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "gilmore girls",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 4586,
+    "title": "Gilmore Girls",
+    "year": 2000,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "gilmore girls"
+    ]
+  },
+  {
+    "rawTitle": "love addicts",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "love addicts",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 157965,
+    "title": "Love Addicts",
+    "year": 2022,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "love addicts"
+    ]
+  },
+  {
+    "rawTitle": "shameless",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "shameless",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 34307,
+    "title": "Shameless",
+    "year": 2011,
+    "genreIds": [
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "shameless"
+    ]
+  },
+  {
+    "rawTitle": "manifest",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "manifest",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 79696,
+    "title": "Manifest",
+    "year": 2018,
+    "genreIds": [
+      10765,
+      9648,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "manifest"
+    ]
+  },
+  {
+    "rawTitle": "fuller house",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "fuller house",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 63623,
+    "title": "Fuller House",
+    "year": 2016,
+    "genreIds": [
+      10751,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "fuller house"
+    ]
+  },
+  {
+    "rawTitle": "jane the virgin",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "jane the virgin",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 61418,
+    "title": "Jane the Virgin",
+    "year": 2014,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "jane the virgin"
+    ]
+  },
+  {
+    "rawTitle": "maxton hall",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "maxton hall",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 250670,
+    "title": "Maxton Hall – The World Between Us",
+    "year": 2024,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "maxton hall"
+    ]
+  },
+  {
+    "rawTitle": "rick and morty",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "rick and morty",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 60625,
+    "title": "Rick and Morty",
+    "year": 2013,
+    "genreIds": [
+      16,
+      35,
+      10765,
+      10759
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "rick and morty"
+    ]
+  },
+  {
+    "rawTitle": "man vs bee",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "man vs bee",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 197588,
+    "title": "Man vs Bee",
+    "year": 2022,
+    "genreIds": [
+      10751,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "man vs bee"
+    ]
+  },
+  {
+    "rawTitle": "never have i ever",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "never have i ever",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 100883,
+    "title": "Never Have I Ever",
+    "year": 2020,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "never have i ever"
+    ]
+  },
+  {
+    "rawTitle": "locke and key",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "locke and key",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 86423,
+    "title": "Locke & Key",
+    "year": 2020,
+    "genreIds": [
+      10765,
+      18,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "locke and key"
+    ]
+  },
+  {
+    "rawTitle": "greenhouse academy",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "greenhouse academy",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 73602,
+    "title": "Greenhouse Academy",
+    "year": 2017,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "greenhouse academy"
+    ]
+  },
+  {
+    "rawTitle": "the vampire diaries",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "the vampire diaries",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 18165,
+    "title": "The Vampire Diaries",
+    "year": 2009,
+    "genreIds": [
+      18,
+      10765
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the vampire diaries"
+    ]
+  },
+  {
+    "rawTitle": "13 reasons why",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "13 reasons why",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 66788,
+    "title": "13 Reasons Why",
+    "year": 2017,
+    "genreIds": [
+      18,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "13 reasons why"
+    ]
+  },
+  {
+    "rawTitle": "ginny and georgia",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "ginny and georgia",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 117581,
+    "title": "Ginny & Georgia",
+    "year": 2021,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "ginny and georgia"
+    ]
+  },
+  {
+    "rawTitle": "outerbanks",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "outer banks",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 100757,
+    "title": "Outer Banks",
+    "year": 2020,
+    "genreIds": [
+      10759,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "outerbanks"
+    ]
+  },
+  {
+    "rawTitle": "alexa & katie",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "alexa & katie",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 76874,
+    "title": "Alexa & Katie",
+    "year": 2018,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "alexa & katie"
+    ]
+  },
+  {
+    "rawTitle": "stranger things",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "stranger things",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 66732,
+    "title": "Stranger Things",
+    "year": 2016,
+    "genreIds": [
+      10759,
+      9648,
+      10765
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "stranger things"
+    ]
+  },
+  {
+    "rawTitle": "how i met your mother",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "how i met your mother",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 1100,
+    "title": "How I Met Your Mother",
+    "year": 2005,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "how i met your mother"
+    ]
+  },
+  {
+    "rawTitle": "the big bang theory",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "the big bang theory",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 1418,
+    "title": "The Big Bang Theory",
+    "year": 2007,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the big bang theory"
+    ]
+  },
+  {
+    "rawTitle": "young sheldon",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "young sheldon",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 71728,
+    "title": "Young Sheldon",
+    "year": 2017,
+    "genreIds": [
+      35,
+      10751,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "young sheldon"
+    ]
+  },
+  {
+    "rawTitle": "georgie and mandy's first marriage",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "georgie and mandy's first marriage",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 243875,
+    "title": "Georgie & Mandy's First Marriage",
+    "year": 2024,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "georgie and mandy's first marriage"
+    ]
+  },
+  {
+    "rawTitle": "my life with the walter boys",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "my life with the walter boys",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 199001,
+    "title": "My Life with the Walter Boys",
+    "year": 2023,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "my life with the walter boys"
+    ]
+  },
+  {
+    "rawTitle": "new girl",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "new girl",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 1420,
+    "title": "New Girl",
+    "year": 2011,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "new girl",
+      "new girl"
+    ]
+  },
+  {
+    "rawTitle": "insatiable",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "insatiable",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 80743,
+    "title": "Insatiable",
+    "year": 2018,
+    "genreIds": [
+      18,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "insatiable"
+    ]
+  },
+  {
+    "rawTitle": "im not okay with this",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "i am not okay with this",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 90260,
+    "title": "I Am Not Okay with This",
+    "year": 2020,
+    "genreIds": [
+      18,
+      35,
+      10765
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "im not okay with this"
+    ]
+  },
+  {
+    "rawTitle": "2 broke girls",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "2 broke girls",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 39340,
+    "title": "2 Broke Girls",
+    "year": 2011,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "2 broke girls"
+    ]
+  },
+  {
+    "rawTitle": "one tree hill",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "one tree hill",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 269,
+    "title": "One Tree Hill",
+    "year": 2003,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "one tree hill"
+    ]
+  },
+  {
+    "rawTitle": "on my block",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "on my block",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 76747,
+    "title": "On My Block",
+    "year": 2018,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "on my block"
+    ]
+  },
+  {
+    "rawTitle": "sex education",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "sex education",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 81356,
+    "title": "Sex Education",
+    "year": 2019,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "sex education"
+    ]
+  },
+  {
+    "rawTitle": "riverdale",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "riverdale",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 69050,
+    "title": "Riverdale",
+    "year": 2017,
+    "genreIds": [
+      80,
+      18,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "riverdale"
+    ]
+  },
+  {
+    "rawTitle": "that 70s show",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "that 70s show",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 52,
+    "title": "That '70s Show",
+    "year": 1998,
+    "genreIds": [
+      35,
+      10751,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "that 70s show"
+    ]
+  },
+  {
+    "rawTitle": "el amor no tiene receta",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "el amor no tiene receta",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 244643,
+    "title": "El amor no tiene receta",
+    "year": 2024,
+    "genreIds": [
+      10759,
+      10765,
+      18,
+      10751,
+      10766,
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "el amor no tiene receta"
+    ]
+  },
+  {
+    "rawTitle": "too hot to handle",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "too hot to handle",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 102085,
+    "title": "Too Hot to Handle",
+    "year": 2020,
+    "genreIds": [
+      10764
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "too hot to handle"
+    ]
+  },
+  {
+    "rawTitle": "step by step",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "step by step",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 2617,
+    "title": "Step by Step",
+    "year": 1991,
+    "genreIds": [
+      35,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "step by step"
+    ]
+  },
+  {
+    "rawTitle": "roseanne",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "roseanne",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 2706,
+    "title": "Roseanne",
+    "year": 1988,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "roseanne"
+    ]
+  },
+  {
+    "rawTitle": "episodes",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "episodes",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 31841,
+    "title": "Episodes",
+    "year": 2011,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "episodes"
+    ]
+  },
+  {
+    "rawTitle": "sweetpea",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "sweetpea",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 218347,
+    "title": "Sweetpea",
+    "year": 2024,
+    "genreIds": [
+      35,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "sweetpea"
+    ]
+  },
+  {
+    "rawTitle": "my lady jane",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "my lady jane",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 203413,
+    "title": "My Lady Jane",
+    "year": 2024,
+    "genreIds": [
+      18,
+      35,
+      10765
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "my lady jane"
+    ]
+  },
+  {
+    "rawTitle": "yellowstone",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "yellowstone",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 73586,
+    "title": "Yellowstone",
+    "year": 2018,
+    "genreIds": [
+      37,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "yellowstone"
+    ]
+  },
+  {
+    "rawTitle": "the runarounds",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "the runarounds",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 248833,
+    "title": "The Runarounds",
+    "year": 2025,
+    "genreIds": [
+      18,
+      35,
+      10751
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the runarounds"
+    ]
+  },
+  {
+    "rawTitle": "daisy jones and the six",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "daisy jones and the six",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 95555,
+    "title": "Daisy Jones & the Six",
+    "year": 2023,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "daisy jones and the six"
+    ]
+  },
+  {
+    "rawTitle": "pluribus",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "pluribus",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 225171,
+    "title": "Pluribus",
+    "year": 2025,
+    "genreIds": [
+      18,
+      10765
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "pluribus"
+    ]
+  },
+  {
+    "rawTitle": "paper girls",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "paper girls",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 106431,
+    "title": "Paper Girls",
+    "year": 2022,
+    "genreIds": [
+      18,
+      9648,
+      10765
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "paper girls"
+    ]
+  },
+  {
+    "rawTitle": "the pitt",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "the pitt",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 250307,
+    "title": "The Pitt",
+    "year": 2025,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "the pitt"
+    ]
+  },
+  {
+    "rawTitle": "off campus",
+    "declaredType": "tv",
+    "watched": true,
+    "correctedTitle": "off campus",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 273240,
+    "title": "Off Campus",
+    "year": 2026,
+    "genreIds": [
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "off campus"
+    ]
+  },
+  {
+    "rawTitle": "life in pieces",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "life in pieces",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 63398,
+    "title": "Life in Pieces",
+    "year": 2015,
+    "genreIds": [
+      35
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "life in pieces"
+    ]
+  },
+  {
+    "rawTitle": "sterling point",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "sterling point",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 283297,
+    "title": "Sterling Point",
+    "year": 2026,
+    "genreIds": [
+      9648,
+      18
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "sterling point"
+    ]
+  },
+  {
+    "rawTitle": "tell me lies",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "tell me lies",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 130464,
+    "title": "Tell Me Lies",
+    "year": 2022,
+    "genreIds": [
+      18,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "tell me lies"
+    ]
+  },
+  {
+    "rawTitle": "true detective",
+    "declaredType": "tv",
+    "watched": false,
+    "correctedTitle": "true detective",
+    "upcomingFlag": false,
+    "status": "resolved",
+    "mediaType": "tv",
+    "tmdbId": 46648,
+    "title": "True Detective",
+    "year": 2014,
+    "genreIds": [
+      18,
+      9648
+    ],
+    "upcoming": false,
+    "rawTitles": [
+      "true detective"
+    ]
+  }
+]

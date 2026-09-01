@@ -1,0 +1,506 @@
+MOVIES
+- [ ] a christmas carol
+- [x] after we fell
+- [ ] after ever happy
+- [ ] after everything
+- [x] the 40 year old virgin
+- [ ] top gun
+- [x] the breakfast club
+- [ ] the perfect date
+- [ ] me earl and the dying girl
+- [x] forever my girl
+- [ ] the fault in our stars
+- [ ] everything, everything
+- [x] how to lose a guy in 10 days
+- [ ] isnt it romantic
+- [ ] 27 dresses
+- [x] insidious
+- [x] insidious chapter 2
+- [x] insidious chapter 3
+- [x] insidious the last key
+- [ ] sinister
+- [ ] get out
+- [ ] halloween
+- [ ] drag me to hell
+- [ ] la llorana
+- [ ] US
+- [x] hereditary
+- [ ] its whats inside
+- [ ] 2 quiet place
+- [ ] geralds game
+- [ ] happy death day
+- [ ] dont breathe
+- [ ] lights out
+- [ ] ouija: origin of evil
+- [ ] the shining
+- [ ] the exoricist
+- [ ] poltegereist
+- [ ] saw
+- [ ] saw II
+- [ ] saw III
+- [ ] saw VI
+- [ ] saw V
+- [ ] saw VI
+- [ ] saw 3d
+- [ ] spiral
+- [ ] saw x
+- [ ] jaws 2
+- [ ] jaws 3
+- [x] scream
+- [x] scream 2
+- [x] scream 3
+- [x] scream 4
+- [x] scream 5
+- [x] scream VI
+- [ ] scream 7 (soon)
+- [ ] friday the 13th
+- [ ] the purge
+- [ ] mother
+- [x] terrifier
+- [x] terrifier 2
+- [x] terrifier 3
+- [ ] 1922
+- [x] gang related
+- [ ] nightmare on elm street
+- [ ] veronica
+- [ ] love rosie
+- [ ] before sunrise
+- [ ] before sunset
+- [ ] before midnight
+- [ ] lost in translation
+- [ ] lady bird
+- [ ] pride and prejudice
+- [ ] ferris bullers day off
+- [ ] the princess bride
+- [ ] the guilty
+- [ ] little women
+- [ ] heathers
+- [ ] a cinderella story
+- [ ] sixteen candles
+- [ ] pretty in pink
+- [ ] the edge of seventeen
+- [ ] the perks of being a wallflower
+- [ ] love simon
+- [ ] remember me
+- [ ] a walk to remember
+- [x] me before you
+- [ ] irreplacable you
+- [ ] if i stay
+- [ ] endless love
+- [ ] the boy in the striped pajamas
+- [ ] bridge to teribithia
+- [x] ted
+- [x] ted 2
+- [ ] juno
+- [ ] superbad
+- [x] bullet train
+- [ ] boyhood
+- [ ] the kings of summer
+- [ ] gia
+- [ ] one day
+- [ ] normal people
+- [ ] black swan
+- [ ] atonment
+- [ ] waves
+- [ ] the edge of love
+- [ ] closer
+- [ ] before sunrise
+- [ ] the dreamer
+- [ ] 20th century girl
+- [x] sex appeal
+- [x] snack shack
+- [x] la la land
+- [ ] good will hunting
+- [ ] mama mia
+- [x] notting hill
+- [ ] before we go
+- [ ] pretty woman
+- [ ] i now pronounce you chuck & larry
+- [ ] bad times at the el royale
+- [ ] before i fall
+- [ ] to the bone
+- [ ] brain on fire
+- [ ] 500 days of summer
+- [x] highschool musical
+- [x] highschool musical 2
+- [ ] highschool musical 3: senior year
+- [ ] idiocracy
+- [ ] zoolander
+- [ ] napoleon dinamite
+- [x] tall girl
+- [x] tall girl 2
+- [ ] super troopers
+- [x] step brothers
+- [ ] seven in heaven
+- [ ] im thinking of ending things
+- [ ] life in a year
+- [ ] hachi: a dogs tale
+- [ ] goodbye first love
+- [ ] the basketball diaries
+- [ ] the mick
+- [ ] war for the planet of the apes
+- [ ] the reef
+- [ ] dream house
+- [ ] the dead
+- [ ] the black stallion
+- [ ] great white
+- [ ] hotel infreno
+- [ ] gunes akimbo
+- [ ] the space between us
+- [ ] be cool
+- [ ] bullethead
+- [ ] tomb raider
+- [ ] boyhood
+- [ ] the legend of taraza
+- [ ] midsommrt
+- [ ] bodies bodies bodies
+- [ ] jupiter ascending
+- [ ] the green hornet
+- [ ] the great wall
+- [ ] man of tai chi
+- [ ] mission: impossible dead reckoning part 1
+- [ ] fallout
+- [ ] mission: impossible dead reckoning part 2
+- [ ] mission: impossible fallout
+- [ ] hancock
+- [ ] san andreas
+- [ ] friends with kids
+- [ ] friends with benefits
+- [ ] mother!
+- [ ] the legend of the ten rings
+- [ ] horns
+- [ ] gold finch
+- [ ] adventures of babysitting
+- [ ] what a girl wants
+- [ ] pierrot le fou
+- [ ] dead poets society
+- [ ] while you were sleeping
+- [ ] gentlemen prefer blondes
+- [ ] romeo + juliet
+- [ ] glass onion: a knives out mystery
+- [x] braveheart
+- [x] scarface
+- [x] heat
+- [ ] apocalypto
+- [ ] patriot
+- [ ] green mile
+- [ ] the blind side
+- [x] shawshank redemption
+- [ ] seven
+- [x] 13 going on 30
+- [ ] american psycho
+- [ ] face off
+- [ ] parasite
+- [ ] goodfellas
+- [ ] the hunt
+- [ ] unhinged
+- [ ] 13 sins
+- [x] warm bodies
+- [ ] bird box
+- [ ] orphan
+- [ ] final destination
+- [ ] the godfather
+- [ ] the texas chainsaw massacre
+- [ ] the texas chainsaw massacre 2
+- [ ] dungeons and dragons: honor among thieves
+- [x] now you see me 2
+- [x] leon
+- [x] spider-man: into the spider-verse
+- [x] spider-man: far from home
+- [x] ant-man
+- [x] ant-man and the wasp
+- [x] the kissing booth 3
+- [x] the kissing booth 2
+- [x] the kissing booth
+- [x] mother of the bride
+- [x] the wolf of wall street
+- [x] some like it hot
+- [x] now you see me
+- [x] rocky balboa
+- [x] rocky vi
+- [x] rocky v
+- [x] rocky iii
+- [x] rocky ii
+- [x] rocky
+- [x] creed iii
+- [x] creed ii
+- [x] creed
+- [x] megan
+- [x] beauty and the beast
+- [x] kin
+- [x] i am legend
+- [x] rise of the planet of the apes
+- [x] dawn of the planet of the apes
+- [x] the mummy
+- [x] coach carter
+- [x] table 19
+- [x] central intelligence
+- [x] the dark tower
+- [x] outbreak
+- [x] i'll be home for christmas
+- [x] man of the house
+- [x] bedtime stories
+- [x] contagion
+- [x] the lorax
+- [x] the grinch
+- [x] mortal kombat (1995)
+- [x] mortal kombat annihilation
+- [x] mortal kombat (2021)
+- [x] a baby's day out
+- [ ] baby driver
+- [x] 30 days of night
+- [x] my girl
+- [x] project almanac
+- [x] tag
+- [x] mary poppins returns
+- [x] power rangers
+- [x] pandorum
+- [x] infinity polar bear
+- [x] role models
+- [x] mission: impossible
+- [x] mission: impossible 2
+- [x] mission: impossible iii
+- [x] mission: impossible ghost protocol
+- [x] mission: impossible rogue nation
+- [x] john wick
+- [x] john wick chapter 2
+- [x] john wick chapter 3
+- [x] john wick chapter 4
+- [x] ocean's eight
+- [x] ocean's eleven
+- [x] ocean's twelve
+- [x] ocean's thirteen
+- [x] the dark knight
+- [x] the dark knight rises
+- [x] what men want
+- [x] insurgent
+- [x] divergent
+- [x] rampage
+- [x] she's the man
+- [x] titanic
+- [x] the notebook
+- [x] after we collided
+- [x] fast x part 1
+- [x] f9
+- [x] the fate of the furious
+- [x] furious 7
+- [x] fast & furious 6
+- [x] fast five
+- [x] fast & furious
+- [x] the fast and the furious: tokyo drift
+- [x] 2 fast 2 furious
+- [x] the fast and the furious
+- [x] 10 things i hate about you
+- [x] my girl
+- [x] a star is born
+- [x] her
+- [x] jaws
+- [x] jigsaw
+- [x] annabelle comes home
+- [x] annabelle
+- [x] the conjuring: the devil made me do it
+- [x] the conjuring 2
+- [x] the conjuring
+- [x] the princess diaries 2
+- [x] the princess diaries
+- [x] 16 wishes
+- [x] clueless
+- [x] five feet apart
+- [x] all the bright places
+- [x] legally blonde 2
+- [x] legally blonde
+- [x] mean girls
+- [x] pitch perfect 3
+- [x] pitch perfect 2
+- [x] pitch perfect
+- [x] top gun: maverick
+- [x] to all the boys: always and forever
+- [x] to all the boys: p.s. i still love you
+- [x] to all the boys i've loved before
+- [x] the call of the wild
+- [x] suicide squad
+- [x] jumanji: the next level
+- [x] jumanji: welcome to the jungle
+- [x] jumanji
+- [x] harry potter and the deathly hallows part 2
+- [x] harry potter and the deathly hallows part 1
+- [x] harry potter and the half-blood prince
+- [x] harry potter and the order of the phoenix
+- [x] harry potter and the goblet of fire
+- [x] harry potter and the prisoner of azkaban
+- [x] harry potter and the chamber of secrets
+- [x] harry potter and the sorcerer's stone
+- [x] it chapter 2
+- [x] it
+- [x] how the grinch stole christmas
+- [x] enchanted
+- [x] dolittle
+- [x] contagion
+- [x] charlie and the chocolate factory
+- [x] birds of prey
+- [x] another cinderella story
+- [x] after
+- [x] the emoji movie
+- [x] turtles all the way down
+- [ ] easy a
+- [x] culpa mia
+- [x] culpa tuya
+- [x] culpa nuestra
+- [x] my fault london
+- [ ] what a girl wants
+- [x] shes the man
+- [ ] hairspray
+- [ ] sydney white
+- [ ] in time
+- [ ] through my window
+- [ ] not me
+- [ ] the crusades
+- [ ] failure to launch
+- [ ] accidental texan
+- [x] the idea of you
+- [ ] no hard feelings
+- [ ] the woman in the house across the street from the girl in the window
+- [ ] the sadness
+- [ ] sierra burgess is a loser
+- [ ] el amor tiene dos caras
+- [x] inside out
+- [x] inside out 2
+- [ ] superbad
+- [x] project x
+- [ ] snowfall
+- [ ] fresh
+- [ ] ready or not
+- [x] the substance
+- [ ] the virgin suicides
+- [x] the little rascals
+- [ ] zodiac
+- [ ] the visit
+- [ ] get out
+- [ ] one fast move
+- [ ] awake 2007
+- [ ] its whats inside
+- [ ] the grudge
+- [ ] going the distance (2004)
+- [x] american pie presents: girls rules
+- [ ] american pie
+- [ ] american pie 2
+- [x] meet cute
+- [x] red one
+- [x] the other zoey
+- [x] challengers
+- [ ] bling ring
+- [ ] baby girl
+- [ ] legion
+- [ ] adolescence
+- [ ] inheritance
+- [ ] heart eyes
+- [ ] screamboat
+- [ ] meg
+- [ ] meg 2: the trench
+- [ ] meg 3: sea of shadows
+- [ ] the society
+- [x] the clique (so bad)
+- [ ] spinal tap
+- [x] the map that leads to you
+- [ ] lemonade mouth
+- [ ] camp rock
+- [ ] almost famous
+- [ ] high fidelity
+- [ ] millers girl
+- [ ] anyone but you
+- [ ] my sister is a keeper
+- [ ] the last sunrise
+- [ ] love and other drugs
+- [ ] whats eating gilberts grape
+SHOWS
+- [ ] vikings
+- [ ] the rookie
+- [ ] prison break
+- [ ] breaking bad
+- [x] the good doctor
+- [x] the originals
+- [ ] the umbrella academy
+- [x] suits
+- [ ] house of the dragon
+- [ ] game of thrones
+- [ ] la casa de papel
+- [ ] the walking dead
+- [ ] modern family
+- [ ] better call saul
+- [x] the office
+- [x] the office australia
+- [ ] dexter
+- [x] euphoria
+- [ ] the boys
+- [ ] ted lasso
+- [ ] the last of us
+- [ ] gossip girls
+- [ ] pretty little liars
+- [ ] gilmore girls
+- [ ] jeffrey dahmer
+- [ ] love addicts
+- [x] shameless
+- [ ] manifest
+- [ ] full house
+- [ ] fuller house
+- [x] jane the virgin
+- [ ] maxton hall
+- [x] rick and morty
+- [x] man vs bee
+- [x] never have i ever
+- [x] locke and key
+- [x] brooklyn 99
+- [x] greenhouse academy
+- [x] the vampire diaries
+- [x] 13 reasons why
+- [x] ginny and georgia
+- [x] outerbanks
+- [x] alexa & katie
+- [x] teen wolf
+- [x] stranger things
+- [x] friends
+- [x] how i met your mother
+- [x] the big bang theory
+- [x] young sheldon
+- [x] georgie and mandy's first marriage
+- [ ] my life with the walter boys
+- [ ] super store
+- [ ] new girl
+- [ ] insatiable
+- [ ] im not okay with this
+- [x] 2 broke girls
+- [x] one tree hill
+- [ ] on my block
+- [ ] sex education
+- [x] riverdale
+- [ ] that 70s show
+- [ ] the a list
+- [ ] sex and the city
+- [ ] el amor no tiene receta
+- [x] too hot to handle
+- [ ] new girl
+- [x] joey
+- [ ] step by step
+- [ ] roseanne
+- [ ] the society
+- [ ] episodes
+- [ ] sweetpea
+- [x] cruel intentions
+- [ ] the good cop
+- [x] my lady jane
+- [ ] yellowstone
+- [x] the runarounds
+- [x] cruel summer
+- [x] daisy jones and the six
+- [ ] sherlock
+- [ ] pluribus
+- [x] paper girls
+- [ ] one day at a time
+- [ ] entourage
+- [ ] the pitt
+- [x] off campus
+- [ ] the diplomat
+- [ ] life in pieces
+- [ ] sterling point
+- [ ] tell me lies
+- [ ] true detective
