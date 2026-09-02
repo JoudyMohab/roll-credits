@@ -3,6 +3,7 @@ import { useLibrary } from '@/lib/libraryStore'
 import type { LibraryEntry } from '@/types/library'
 import { LibraryBrowser } from '@/components/LibraryBrowser'
 import { StampScreeningModal } from '@/components/StampScreeningModal'
+import { Seo } from '@/components/Seo'
 
 export default function Watchlist() {
   const { entries, setWatched, setRating, setNote } = useLibrary()
@@ -20,10 +21,16 @@ export default function Watchlist() {
 
   return (
     <>
+      <Seo
+        title="Watchlist"
+        description="Everything on your watchlist — movies and shows you've been meaning to watch, all in one place."
+        path="/watchlist"
+      />
       <LibraryBrowser
         entries={unwatched}
         heading="WAITING FOR SCREENING"
         tagline="movies and shows i've been “meaning to watch” since 2019"
+        breadcrumbs={[{ label: 'Home', path: '/' }, { label: 'Watchlist' }]}
         emptyTitle="well, this is awkward."
         emptySubtitle="You don't have anything waiting. Search for something to book a screening."
         emptyIcon="🎟️"

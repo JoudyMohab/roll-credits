@@ -3,6 +3,8 @@ import { Navigate } from 'react-router-dom'
 import { useAuth } from '@/lib/authStore'
 import { useLibrary } from '@/lib/libraryStore'
 import { Modal } from '@/components/Modal'
+import { Seo } from '@/components/Seo'
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 export default function AccountPage() {
   const { status, user, signOut, updatePassword, deleteAccount } = useAuth()
@@ -72,6 +74,8 @@ export default function AccountPage() {
 
   return (
     <section className="mx-auto max-w-xl px-5 py-12">
+      <Seo title="My Account" description="Manage your Roll Credits account and sync settings." path="/account" noindex />
+      <Breadcrumbs items={[{ label: 'Home', path: '/' }, { label: 'My Account' }]} />
       <h1 className="font-display text-3xl font-bold text-ink sm:text-4xl">My Account</h1>
       <p className="mt-1 font-sans text-sm text-ink/55">{user.email}</p>
 

@@ -7,6 +7,7 @@ import { Stats } from '@/components/Stats'
 import { TicketGrid, TicketGridItem } from '@/components/TicketGrid'
 import { MediaTicket } from '@/components/MediaTicket'
 import { EmptyState } from '@/components/EmptyState'
+import { Seo } from '@/components/Seo'
 
 export default function Home() {
   const { entries, reviewItems } = useLibrary()
@@ -45,6 +46,11 @@ export default function Home() {
 
   return (
     <div>
+      <Seo
+        title="Roll Credits"
+        description="A personal cinema archive for movies and shows — track your watchlist, log ratings and notes, and let Roll Credits pick tonight's screening for you."
+        path="/"
+      />
       {reviewItems.length > 0 && (
         <Link
           to="/review"
@@ -56,7 +62,7 @@ export default function Home() {
       <section className="mx-auto max-w-6xl px-5 pt-14 pb-10 text-center sm:pt-20">
         <p className="font-mono text-xs font-bold uppercase tracking-[0.25em] text-ink/40">Roll Credits presents</p>
         <h1 className="mt-3 font-display text-4xl font-bold leading-tight text-ink sm:text-5xl">
-          GOOD EVENING, CINEPHILE.
+          TONIGHT, WE SCREEN.
         </h1>
         <p className="mt-2 font-sans text-base italic text-ink/55">things i swear i'll watch eventually.</p>
         <p className="mt-6 font-display text-xl text-cherry">

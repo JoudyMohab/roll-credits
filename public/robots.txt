@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /account
+Disallow: /review
+
+Sitemap: https://roll-credits-titles.vercel.app/sitemap.xml

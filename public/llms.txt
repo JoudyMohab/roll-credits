@@ -1,0 +1,19 @@
+# Roll Credits
+
+> A personal cinema-ticket-themed tracker for movies and TV shows. Users search The Movie Database (TMDB) for titles, add them to a watchlist styled as cinema tickets, mark them watched, rate them, add notes, and can let the app randomly pick what to watch next.
+
+Roll Credits is a personal-use web app, not a public content or media site. Each visitor's or account's library (watchlist, ratings, watched history, notes) is private to them — there is no shared catalog of content to crawl beyond the app shell itself.
+
+## Pages
+
+- [Home](https://roll-credits-titles.vercel.app/): overview and a random-pick tool for what to watch tonight.
+- [Movies](https://roll-credits-titles.vercel.app/movies): the signed-in or local user's movie collection.
+- [Shows](https://roll-credits-titles.vercel.app/shows): the signed-in or local user's TV show collection.
+- [Browse](https://roll-credits-titles.vercel.app/browse): browse the collection by genre.
+- [Search](https://roll-credits-titles.vercel.app/search): search TMDB and add titles to the collection.
+
+## Notes for automated agents
+
+- Movie and show metadata (titles, posters, overviews, ratings) is sourced live from TMDB (themoviedb.org) and is not owned or authored by Roll Credits.
+- Streaming-availability data is sourced from JustWatch via TMDB, for Egypt only.
+- The `/account` and `/review` pages show private, per-user data and are excluded from indexing (see robots.txt).

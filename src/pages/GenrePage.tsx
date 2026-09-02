@@ -3,6 +3,7 @@ import { Navigate, useParams } from 'react-router-dom'
 import { useLibrary } from '@/lib/libraryStore'
 import { useGenres } from '@/lib/genreStore'
 import { LibraryBrowser } from '@/components/LibraryBrowser'
+import { Seo } from '@/components/Seo'
 
 export default function GenrePage() {
   const { genreId } = useParams()
@@ -18,16 +19,24 @@ export default function GenrePage() {
   const unwatchedCount = inGenre.filter((e) => !e.watched && !e.upcoming).length
 
   return (
-    <LibraryBrowser
-      entries={inGenre}
-      heading={(genre?.name ?? 'GENRE').toUpperCase()}
-      tagline={`${unwatchedCount} title${unwatchedCount === 1 ? '' : 's'} waiting in this genre.`}
-      emptyTitle="NOT PLAYING TONIGHT."
-      emptySubtitle="Nothing in this genre yet."
-      emptyIcon="🎭"
-      showGenreFilter={false}
-      rollHeading="🎲 ROLL THE CREDITS"
-      rollSubheading={`A random pick from ${genre?.name ?? 'this genre'}.`}
-    />
+    <>
+      <Seo
+        title={genre ? `${genre.name} Movies & Shows` : 'Genre'}
+        description={`${genre?.name ?? 'This genre'} in your cinema — ${unwatchedCount} title${unwatchedCount === 1 ? '' : 's'} waiting to be screened.`}
+        path={`/browse/${id}`}
+      />
+      <LibraryBrowser
+        entries={inGenre}
+        heading={(genre?.name ?? 'GENRE').toUpperCase()}
+        tagline={`${unwatchedCount} title${unwatchedCount === 1 ? '' : 's'} waiting in this genre.`}
+        breadcrumbs={[{ label: 'Home', path: '/' }, { label: 'Browse', path: '/browse' }, { label: genre?.name ?? 'Genre' }]}
+        emptyTitle="NOT PLAYING TONIGHT."
+        emptySubtitle="Nothing in this genre yet."
+        emptyIcon="🎭"
+        showGenreFilter={false}
+        rollHeading="🎲 ROLL THE CREDITS"
+        rollSubheading={`A random pick from ${genre?.name ?? 'this genre'}.`}
+      />
+    </>
   )
 }

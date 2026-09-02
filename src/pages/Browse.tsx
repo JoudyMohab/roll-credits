@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom'
 import { useLibrary } from '@/lib/libraryStore'
 import { useGenres } from '@/lib/genreStore'
 import { EmptyState } from '@/components/EmptyState'
+import { Seo } from '@/components/Seo'
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 const GENRE_TAGLINES: Record<string, string> = {
   Horror: 'waiting to scare you.',
@@ -36,6 +38,12 @@ export default function Browse() {
 
   return (
     <section className="mx-auto max-w-6xl px-5 py-10">
+      <Seo
+        title="Browse by Genre"
+        description="Browse your cinema by genre — pick a mood, not a title, and find what's waiting for you."
+        path="/browse"
+      />
+      <Breadcrumbs items={[{ label: 'Home', path: '/' }, { label: 'Browse' }]} />
       <h1 className="font-display text-3xl font-bold text-ink sm:text-4xl">🎭 BROWSE</h1>
       <p className="mt-1 font-sans text-sm text-ink/55">pick a mood, not a title.</p>
 

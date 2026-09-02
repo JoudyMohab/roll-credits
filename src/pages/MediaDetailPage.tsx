@@ -9,6 +9,8 @@ import { formatGenres, formatRuntime, formatSeasonsEpisodes, formatTicketDate, f
 import { RatingInput } from '@/components/RatingInput'
 import { StampScreeningModal } from '@/components/StampScreeningModal'
 import { WatchAvailability } from '@/components/WatchAvailability'
+import { Seo } from '@/components/Seo'
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 export default function MediaDetailPage() {
   const { mediaType, id } = useParams<{ mediaType: string; id: string }>()
@@ -101,8 +103,22 @@ function DetailContent({ mediaType, id, details }: { mediaType: MediaType; id: n
     setStampOpen(false)
   }
 
+  const sectionPath = mediaType === 'movie' ? '/movies' : '/shows'
+  const sectionLabel = mediaType === 'movie' ? 'Movies' : 'Shows'
+
   return (
     <article>
+      <Seo
+        title={details.title}
+        description={details.overview ? truncate(details.overview, 155) : `${details.title} on Roll Credits.`}
+        path={`/title/${mediaType}/${id}`}
+        image={poster ?? undefined}
+      />
+      <div className="mx-auto max-w-4xl px-5 pt-4">
+        <Breadcrumbs
+          items={[{ label: 'Home', path: '/' }, { label: sectionLabel, path: sectionPath }, { label: details.title }]}
+        />
+      </div>
       <div className="relative h-[36vh] min-h-[220px] w-full overflow-hidden bg-black">
         {backdrop ? (
           <img src={backdrop} alt="" className="h-full w-full object-cover opacity-55" />
@@ -127,7 +143,7 @@ function DetailContent({ mediaType, id, details }: { mediaType: MediaType; id: n
             {poster && (
               <img
                 src={poster}
-                alt=""
+                alt={`${details.title} poster`}
                 className="h-52 w-36 shrink-0 self-center rounded-sm border border-ink/10 object-cover shadow-md sm:self-start"
               />
             )}
@@ -166,7 +182,7 @@ function DetailContent({ mediaType, id, details }: { mediaType: MediaType; id: n
                   return (
                     <div key={c.id} className="flex w-20 shrink-0 flex-col items-center text-center">
                       <div className="h-20 w-20 overflow-hidden rounded-full border border-ink/15 bg-paper-secondary">
-                        {photo && <img src={photo} alt="" className="h-full w-full object-cover" />}
+                        {photo && <img src={photo} alt={c.name} className="h-full w-full object-cover" />}
                       </div>
                       <p className="mt-1.5 font-sans text-[11px] font-semibold leading-tight text-ink">{c.name}</p>
                       <p className="font-sans text-[10px] leading-tight text-ink/50">{truncate(c.character, 40)}</p>

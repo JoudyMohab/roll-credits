@@ -17,7 +17,7 @@ function ProviderList({ providers }: { providers: WatchProvider[] }) {
           {watchProviderLogoUrl(p.logoPath) ? (
             <img
               src={watchProviderLogoUrl(p.logoPath)!}
-              alt=""
+              alt={`${p.name} logo`}
               className="h-5 w-5 rounded-sm border border-ink/10 object-cover"
             />
           ) : null}

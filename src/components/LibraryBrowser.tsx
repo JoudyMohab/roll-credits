@@ -9,11 +9,13 @@ import { SortControl, sortEntries } from './SortControl'
 import { TicketGrid, TicketGridItem } from './TicketGrid'
 import { MediaTicket } from './MediaTicket'
 import { RandomPicker } from './RandomPicker'
+import { Breadcrumbs, type Crumb } from './Breadcrumbs'
 
 interface LibraryBrowserProps {
   entries: LibraryEntry[]
   heading: string
   tagline?: string
+  breadcrumbs?: Crumb[]
   emptyTitle: string
   emptySubtitle: string
   emptyIcon?: string
@@ -34,6 +36,7 @@ export function LibraryBrowser({
   entries,
   heading,
   tagline,
+  breadcrumbs,
   emptyTitle,
   emptySubtitle,
   emptyIcon,
@@ -60,6 +63,7 @@ export function LibraryBrowser({
 
   return (
     <section className="mx-auto max-w-6xl px-5 py-10">
+      {breadcrumbs && <Breadcrumbs items={breadcrumbs} />}
       <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
         <div>
           <div className="flex flex-wrap items-center gap-3">

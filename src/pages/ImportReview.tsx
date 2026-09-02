@@ -5,6 +5,8 @@ import type { MediaSummary, MediaType } from '@/types/media'
 import { isMovie } from '@/types/media'
 import { EmptyState } from '@/components/EmptyState'
 import { SearchBar } from '@/components/SearchBar'
+import { Seo } from '@/components/Seo'
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 function summaryFromDetails(details: Awaited<ReturnType<typeof getMediaDetails>>): MediaSummary {
   const base = {
@@ -74,6 +76,13 @@ export default function ImportReview() {
 
   return (
     <section className="mx-auto max-w-3xl px-5 py-10">
+      <Seo
+        title="Review Imports"
+        description="Resolve imported titles that couldn't be matched with confidence."
+        path="/review"
+        noindex
+      />
+      <Breadcrumbs items={[{ label: 'Home', path: '/' }, { label: 'Review Imports' }]} />
       <h1 className="font-display text-3xl font-bold text-ink">REVIEW IMPORTS</h1>
       <p className="mt-1 font-sans text-sm text-ink/55">
         {reviewItems.length} title{reviewItems.length === 1 ? '' : 's'} from your list couldn't be matched with
@@ -111,7 +120,11 @@ export default function ImportReview() {
                     className="flex w-40 flex-col gap-1.5 rounded-sm border border-ink/15 bg-paper p-2 text-left transition-colors hover:border-cherry disabled:opacity-50"
                   >
                     {posterUrl(c.posterPath, 'w185') && (
-                      <img src={posterUrl(c.posterPath, 'w185')!} alt="" className="h-40 w-full rounded-sm object-cover" />
+                      <img
+                        src={posterUrl(c.posterPath, 'w185')!}
+                        alt={`${c.title} poster`}
+                        className="h-40 w-full rounded-sm object-cover"
+                      />
                     )}
                     <span className="font-sans text-xs font-semibold text-ink">{c.title}</span>
                     <span className="font-mono text-[10px] text-ink/45">
@@ -139,7 +152,11 @@ export default function ImportReview() {
                       className="flex w-40 flex-col gap-1.5 rounded-sm border border-ink/15 bg-paper p-2 text-left transition-colors hover:border-cherry disabled:opacity-50"
                     >
                       {posterUrl(m.posterPath, 'w185') && (
-                        <img src={posterUrl(m.posterPath, 'w185')!} alt="" className="h-40 w-full rounded-sm object-cover" />
+                        <img
+                          src={posterUrl(m.posterPath, 'w185')!}
+                          alt={`${m.title} poster`}
+                          className="h-40 w-full rounded-sm object-cover"
+                        />
                       )}
                       <span className="font-sans text-xs font-semibold text-ink">{m.title}</span>
                       <span className="font-mono text-[10px] text-ink/45">{m.mediaType === 'movie' ? '🎬' : '📺'}</span>

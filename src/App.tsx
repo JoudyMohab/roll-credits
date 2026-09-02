@@ -1,3 +1,4 @@
+import { lazy, Suspense } from 'react'
 import { Route, Routes } from 'react-router-dom'
 import { Navigation } from '@/components/Navigation'
 import { SyncMigrationPrompt } from '@/components/SyncMigrationPrompt'
@@ -5,17 +6,26 @@ import { SyncErrorBanner } from '@/components/SyncErrorBanner'
 import { useAuth } from '@/lib/authStore'
 import { useLibrary } from '@/lib/libraryStore'
 import Home from '@/pages/Home'
-import Watchlist from '@/pages/Watchlist'
-import Watched from '@/pages/Watched'
-import MoviesPage from '@/pages/MoviesPage'
-import ShowsPage from '@/pages/ShowsPage'
-import Browse from '@/pages/Browse'
-import GenrePage from '@/pages/GenrePage'
-import Search from '@/pages/Search'
-import MediaDetailPage from '@/pages/MediaDetailPage'
-import ImportReview from '@/pages/ImportReview'
-import AccountPage from '@/pages/AccountPage'
-import NotFound from '@/pages/NotFound'
+
+const Watchlist = lazy(() => import('@/pages/Watchlist'))
+const Watched = lazy(() => import('@/pages/Watched'))
+const MoviesPage = lazy(() => import('@/pages/MoviesPage'))
+const ShowsPage = lazy(() => import('@/pages/ShowsPage'))
+const Browse = lazy(() => import('@/pages/Browse'))
+const GenrePage = lazy(() => import('@/pages/GenrePage'))
+const Search = lazy(() => import('@/pages/Search'))
+const MediaDetailPage = lazy(() => import('@/pages/MediaDetailPage'))
+const ImportReview = lazy(() => import('@/pages/ImportReview'))
+const AccountPage = lazy(() => import('@/pages/AccountPage'))
+const NotFound = lazy(() => import('@/pages/NotFound'))
+
+function RouteFallback() {
+  return (
+    <div className="flex min-h-[50vh] items-center justify-center">
+      <p className="font-mono text-xs font-bold uppercase tracking-[0.2em] text-ink/40">Loading…</p>
+    </div>
+  )
+}
 
 export default function App() {
   const { status } = useAuth()
@@ -38,20 +48,22 @@ export default function App() {
     <div className="min-h-screen pb-16 md:pb-0">
       <Navigation />
       <main>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/movies" element={<MoviesPage />} />
-          <Route path="/shows" element={<ShowsPage />} />
-          <Route path="/watchlist" element={<Watchlist />} />
-          <Route path="/watched" element={<Watched />} />
-          <Route path="/browse" element={<Browse />} />
-          <Route path="/browse/:genreId" element={<GenrePage />} />
-          <Route path="/search" element={<Search />} />
-          <Route path="/title/:mediaType/:id" element={<MediaDetailPage />} />
-          <Route path="/review" element={<ImportReview />} />
-          <Route path="/account" element={<AccountPage />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
+        <Suspense fallback={<RouteFallback />}>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/movies" element={<MoviesPage />} />
+            <Route path="/shows" element={<ShowsPage />} />
+            <Route path="/watchlist" element={<Watchlist />} />
+            <Route path="/watched" element={<Watched />} />
+            <Route path="/browse" element={<Browse />} />
+            <Route path="/browse/:genreId" element={<GenrePage />} />
+            <Route path="/search" element={<Search />} />
+            <Route path="/title/:mediaType/:id" element={<MediaDetailPage />} />
+            <Route path="/review" element={<ImportReview />} />
+            <Route path="/account" element={<AccountPage />} />
+            <Route path="*" element={<NotFound />} />
+          </Routes>
+        </Suspense>
       </main>
       <SyncMigrationPrompt />
       <SyncErrorBanner />

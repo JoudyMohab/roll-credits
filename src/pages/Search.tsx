@@ -10,6 +10,8 @@ import { MediaTicket } from '@/components/MediaTicket'
 import { TicketGrid, TicketGridItem } from '@/components/TicketGrid'
 import { EmptyState } from '@/components/EmptyState'
 import { Modal } from '@/components/Modal'
+import { Seo } from '@/components/Seo'
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 const SHUFFLE_DELAYS = [70, 85, 105, 130, 165, 215, 280, 360]
 
@@ -81,6 +83,12 @@ export default function Search() {
 
   return (
     <section className="mx-auto max-w-6xl px-5 py-10">
+      <Seo
+        title="Search"
+        description="Search TMDB for any movie or show and add it straight to your cinema on Roll Credits."
+        path="/search"
+      />
+      <Breadcrumbs items={[{ label: 'Home', path: '/' }, { label: 'Search' }]} />
       <h1 className="font-display text-3xl font-bold text-ink sm:text-4xl">WHAT ARE WE SCREENING?</h1>
       <div className="mt-5 max-w-lg">
         <SearchBar value={query} onChange={setQuery} large autoFocus placeholder="Search for a movie or show…" />
