@@ -14,10 +14,20 @@ interface ModalProps {
 export function Modal({ open, onClose, children, label, maxWidth = 'max-w-2xl' }: ModalProps) {
   const closeRef = useRef<HTMLButtonElement>(null)
 
+  // Callers often pass an inline onClose that gets a new identity on every render
+  // (e.g. whenever their own state changes, such as a keystroke in a form field).
+  // Reading it via a ref — rather than listing it as an effect dependency — means
+  // typing in the modal can never re-run the open effect below and re-steal focus
+  // onto the close button.
+  const onCloseRef = useRef(onClose)
+  useEffect(() => {
+    onCloseRef.current = onClose
+  })
+
   useEffect(() => {
     if (!open) return
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') onClose()
+      if (e.key === 'Escape') onCloseRef.current()
     }
     document.addEventListener('keydown', onKey)
     document.body.style.overflow = 'hidden'
@@ -26,7 +36,7 @@ export function Modal({ open, onClose, children, label, maxWidth = 'max-w-2xl' }
       document.removeEventListener('keydown', onKey)
       document.body.style.overflow = ''
     }
-  }, [open, onClose])
+  }, [open])
 
   return createPortal(
     <AnimatePresence>
