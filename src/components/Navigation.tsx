@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { NavLink, useNavigate } from 'react-router-dom'
 import { SearchBar } from './SearchBar'
 import { ThemeToggle } from './ThemeToggle'
+import { AccountButton } from './AccountButton'
 
 const LINKS = [
   { to: '/', label: 'Home' },
@@ -60,6 +61,7 @@ export function Navigation() {
             <div className="flex-1 sm:w-64 sm:flex-none">
               <SearchBar value={query} onChange={handleSearchChange} placeholder="What are we screening?" />
             </div>
+            <AccountButton />
             <ThemeToggle />
           </div>
         </div>

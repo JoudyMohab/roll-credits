@@ -1,6 +1,7 @@
 import { useMemo } from 'react'
 import { useLibrary } from '@/lib/libraryStore'
 import { LibraryBrowser } from '@/components/LibraryBrowser'
+import { AddToCinemaButton } from '@/components/AddToCinemaButton'
 
 export default function ShowsPage() {
   const { entries } = useLibrary()
@@ -11,6 +12,7 @@ export default function ShowsPage() {
       entries={shows}
       heading="📺 SHOWS"
       tagline={`${shows.length} series in your cinema`}
+      headerAction={<AddToCinemaButton />}
       emptyTitle="no shows yet."
       emptySubtitle="Search for one to add it to the lineup."
       emptyIcon="📺"

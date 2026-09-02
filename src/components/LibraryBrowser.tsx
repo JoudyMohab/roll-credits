@@ -18,6 +18,7 @@ interface LibraryBrowserProps {
   emptySubtitle: string
   emptyIcon?: string
   emptyAction?: ReactNode
+  headerAction?: ReactNode
   quickAction?: (entry: LibraryEntry) => { label: string; onClick: () => void } | undefined
   showGenreFilter?: boolean
   showRoll?: boolean
@@ -37,6 +38,7 @@ export function LibraryBrowser({
   emptySubtitle,
   emptyIcon,
   emptyAction,
+  headerAction,
   quickAction,
   showGenreFilter = true,
   showRoll = true,
@@ -60,7 +62,10 @@ export function LibraryBrowser({
     <section className="mx-auto max-w-6xl px-5 py-10">
       <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
         <div>
-          <h1 className="font-display text-3xl font-bold text-ink sm:text-4xl">{heading}</h1>
+          <div className="flex flex-wrap items-center gap-3">
+            <h1 className="font-display text-3xl font-bold text-ink sm:text-4xl">{heading}</h1>
+            {headerAction}
+          </div>
           {tagline && <p className="mt-1 font-sans text-sm text-ink/55">{tagline}</p>}
         </div>
         {entries.length > 0 && showRoll && (

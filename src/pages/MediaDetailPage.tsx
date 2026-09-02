@@ -61,7 +61,8 @@ function DetailBody({ mediaType, id }: { mediaType: MediaType; id: number }) {
 }
 
 function DetailContent({ mediaType, id, details }: { mediaType: MediaType; id: number; details: MediaDetails }) {
-  const { getEntry, addToWatchlist, removeFromLibrary, setWatched, setRating, setNote, toggleFavorite } = useLibrary()
+  const { getEntry, addToWatchlist, removeFromLibrary, setWatched, setWatchlisted, setRating, setNote, toggleFavorite } =
+    useLibrary()
   const entry = getEntry(mediaType, id)
   const [stampOpen, setStampOpen] = useState(false)
   const [noteDraft, setNoteDraft] = useState(entry?.note ?? '')
@@ -211,7 +212,10 @@ function DetailContent({ mediaType, id, details }: { mediaType: MediaType; id: n
                   {entry.watched && (
                     <button
                       type="button"
-                      onClick={() => setWatched(mediaType, id, false)}
+                      onClick={() => {
+                        setWatched(mediaType, id, false)
+                        setWatchlisted(mediaType, id, true)
+                      }}
                       className="font-mono text-[11px] uppercase tracking-wide text-ink/40 hover:text-ink/70"
                     >
                       Move back to watchlist
